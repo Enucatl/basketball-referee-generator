@@ -1,0 +1,30 @@
+[
+    {
+    "question_template": "A1 appears to have injured an ankle and the game is stopped. %s enters the playing court %s.",
+    "template_substitutions": [
+        [
+        "Substitute A6",
+        "Coach A",
+        "Assistant Coach A",
+        "Team doctor A",
+        "Any team bench personnel A"
+    ],
+    [
+        "and treats A1's injured ankle",
+        "but A1 has already recovered",
+        "to assess A1's injury",
+        "but does not treat A1"
+    ]
+    ],
+    "answers": [
+        ["A1 must always be substituted", "A1 must be substituted", "A1 cannot continue playing"],
+        ["A1 must be substituted only if he cannot continue to play immediately (approx. 15 seconds)",
+            "A1 can continue playing if he recovers immediately (within approximately 15 seconds)",
+            "A1 can continue playing after the treatment"],
+            ["A1 must be substituted only if he received actual medical treatment",
+                "A1 can continue playing unless he received actual treatment",
+                "A1 can continue playing if he recovers within 45 seconds"]
+    ]
+    "explanation": "OI 5-1"
+}
+]
