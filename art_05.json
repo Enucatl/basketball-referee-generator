@@ -24,7 +24,156 @@
             ["A1 must be substituted only if he received actual medical treatment",
                 "A1 can continue playing unless he received actual treatment",
                 "A1 can continue playing if he recovers within 45 seconds"]
+    ],
+    "explanation": "I5-1 If a player is injured or appears to be injured and, as a result, the coach, assistant coach, substitute or any other team bench personnel of the same team enters the playing court, that player is considered to have received treatment, whether or not actual treatment is performed. In all cases A1 is considered to have received treatment and shall be substituted." },
+    {
+    "question_template": "A1 %s and the game is stopped for %s because the doctor estimates that removal from the playing court could be dangerous for the player. After the substitution...",
+    "template_substitutions": [
+        [
+        "is injured",
+        "appears to be seriously injured",
+        "is seriously injured"
+    ],
+    [
+        "1 minute",
+        "10 minutes",
+        "20 minutes"
     ]
-    "explanation": "OI 5-1"
-}
+    ],
+    "answers": [
+        ["The game is always restarted without any sanction", "The referees restart the game without any sanction", "No sanction is called against team A"],
+        ["A technical foul B is called against coach A",
+            "A timeout is charged to team A"
+        ],
+            ["A technical foul C is called against coach A",
+                "A technical foul is called against A1"
+            ],
+            ["The game always restarts with a throw-in for team B", "A throw-in is awarded to team B, at the extended free-throw line"]
+    ],
+    "explanation": "I5-4 The doctor’s opinion shall determine the appropriate time for the removal of the injured player from the playing court. After the substitution, the game shall be restarted without any sanction."
+},
+    {
+    "question_template": "A1 %s. Coach A does not request a timeout, therefore A1 must be substituted or be ready to play within approximately",
+    "template_substitutions": [
+        [
+        "is injured",
+        "is bleeding",
+        "has an open wound"
+    ]
+    ],
+    "answers": [
+        ["15 seconds", "fifteen seconds"],
+        ["30 seconds", "thirty seconds"],
+        ["45 seconds", "fourty seconds"],
+        ["1 minute", "one minute"]
+    ],
+    "explanation": "R5.3 If the injured player cannot continue to play immediately (within approximately 15 seconds) he must be substituted unless the team is reduced to fewer than 5 players on the playing court."
+},
+    {
+    "question_template": "A1 is injured and the game is stopped. As A1 is not able to continue to play immediately, an official blows his whistle making the conventional sign for a substitution (arms crossed). %s requests a time-out before the referee makes the sign for A7 to enter the court as a substitution for A1. At the end of the time-out, A1 recovered and asks to remain in the game.",
+    "template_substitutions": [
+        [
+        "Coach A",
+        "Coach B",
+        "Assistant Coach B"
+    ]
+    ],
+    "answers": [
+        [
+            "Time-out is granted and A1 may continue to play",
+            "A1 can continue to play"
+        ],
+        [
+            "Time-out is not granted before the substitution is completed",
+            "Time-out is not granted and A1 must be substituted"
+        ],
+        [
+            "Time-out is granted but A1 must be substituted",
+            "A1 cannot reenter until after a clock-running phase of the game"
+        ]
+    ],
+    "explanation": "I5-6 Time-out is granted and if A1 recovers during the time-out he may continue to play."
+},
+    {
+    "question_template": "A1 is injured and the game is stopped. As A1 is not able to continue to play immediately, an official blows his whistle making the conventional sign for a substitution (arms crossed). %s requests a time-out after the referee makes the sign for A7 to enter the court as a substitution for A1. At the end of the time-out, A1 recovered and asks to remain in the game.",
+    "template_substitutions": [
+        [
+        "Coach A",
+        "Coach B",
+        "Assistant Coach B"
+    ]
+    ],
+    "answers": [
+        [
+            "Time-out is granted, then A1 must be substituted",
+            "A1 cannot reenter until after a clock-running phase of the game"
+        ],
+        [
+            "Time-out is granted and A1 may continue to play",
+            "A1 can continue to play"
+        ],
+        [
+            "Time-out is not granted",
+            "A1 can request a substitution and immediately enter the game again"
+        ]
+    ],
+    "explanation": "I5-6 Time-out is granted but a substitute for A1 has already entered the game. Therefore A1 cannot re-enter until after the clock-running phase of the game."
+},
+    {
+    "question_template": "A1 is awarded two free throws. After the first %s free throw %s. He is replaced by A6, who will attempt the second free throw. Team B now requests to substitute two players.",
+    "template_substitutions": [
+        [
+        "successful",
+        "unsuccessful"
+    ],
+    [
+        "he has cramps and cannot continue playing",
+        "the referees discover that he is bleeding"
+    ]
+    ],
+    "answers": [
+        [
+            "Team B can only substitute only one player",
+            "Team B is entitled to substitute only 1 player"
+        ],
+        [
+            "The two B players can enter the court at the same time as A6",
+            "The two B players can be substituted"
+        ],
+        [
+            "Both teams can substitute any number of players before the second free throw",
+            "Team B is entitled to any number of substitutions"
+        ],
+        [
+            "Team B can not make substitutions",
+            "Team B is not entitled to any substitution"
+        ]
+    ],
+    "explanation": "I5-7 Players who have been designated by their coach to start the game or who receive treatment between free throws may be substituted in the event of an injury. In this case the opponents are also entitled to substitute the same number of players, if they so wish."
+    },
+    {
+    "question_template": "%s before the beginning of the first period, A1, one of the five players designated to start the game on the scoresheet, is injured and cannot play. Team B now requests to substitute two players.",
+    "template_substitutions": [
+        [
+        "Two minutes",
+        "One minute",
+        "Five minutes"
+    ]
+    ],
+    "answers": [
+        [
+            "Team B can only substitute only one player",
+            "Team B is entitled to substitute only 1 player"
+        ],
+        [
+            "Both teams can substitute any number of players before the game starts",
+            "Team B is entitled to any number of substitutions"
+        ],
+        [
+            "Team B can not change the first five players",
+            "Team B is not entitled to any substitution"
+        ]
+    ],
+    "explanation": "I5-7 Players who have been designated by their coach to start the game or who receive treatment between free throws may be substituted in the event of an injury. In this case the opponents are also entitled to substitute the same number of players, if they so wish."
+    }
 ]

@@ -1,0 +1,105 @@
+[
+    {
+    "question_template": "%s team A can continue the game with only 4 players because of %s.",
+    "template_substitutions": [
+        [
+        "At the beginning of the second half",
+        "At the beginning of the second period",
+        "At the beginning of the extra time",
+        "Near the end of the game",
+        "Near the end of the third period"
+    ],
+    [
+        "injuries",
+        "disqualifications",
+        "the fifth foul of A4",
+        "injuries and disqualifications"
+    ]
+    ],
+    "answers": [
+        [
+        "Team A continues to play with fewer than 5 players",
+        "A1 can continue to play with four players"
+    ],
+    [
+        "Team A loses the game by forfeit",
+        "Team A loses the game"
+    ]
+    ],
+    "explanation": "I9-3 The obligation to present a minimum of 5 players is valid only for the beginning of the game, Team A shall continue to play with fewer than 5 players."
+},
+    {
+    "question_template": "%s team A can continue the game with only 4 players because of %s. Coach B, demonstrating fair play, wants to remove one of his players in order to play 4vs4.",
+    "template_substitutions": [
+        [
+        "Near the end of the game",
+        "Near the end of the third period"
+    ],
+    [
+        "injuries",
+        "the fifth foul of A4",
+        "injuries and disqualifications"
+    ]
+    ],
+    "answers": [
+        [
+        "The request of coach B is denied as team B must play with 5 players",
+        "Team B must still play with 5 players"
+    ],
+    [
+        "Team B can play with four players if they want"
+    ],
+    [
+        "Team A loses the game by forfeit",
+        "Team A loses the game"
+    ]
+    ],
+    "explanation": "I9-4 The request of coach B to play with less than 5 players shall be denied. As long as a team has sufficient players available, 5 players shall be on the playing court."
+},
+    {
+    "question_template": "%s, both teams are confused and attack/defend the wrong basket. The situation is discovered after a foul is committed on A4 in the act of shooting.",
+    "template_substitutions": [
+        [
+        "At the beginning of the second half",
+        "At the beginning of the second period"
+    ]
+    ],
+    "answers": [
+        [
+        "The game is resumed with free throws for A4, but on the right basket"
+    ],
+    [
+        "The foul is ignored and team A gets a throw-in from the free-throw line extended"
+    ],
+    [
+        "Shooting towards the own basket is not considered act of shooting, therefore team A gets a throw-in"
+    ]
+    ],
+    "explanation": "I9-5 If by confusion any period begins with both teams attacking/defending the wrong baskets, the situation shall be corrected as soon as it is discovered, without placing either team at a disadvantage. Any points scored, time used, fouls charged, etc. before the stopping of the game remain valid."
+},
+    {
+    "question_template": "%s, team B defends its basket. A4 is confused and scores into his own basket, from outside of the three-point line.",
+    "template_substitutions": [
+        [
+        "At the beginning of the second half",
+        "At the beginning of the second period"
+    ]
+    ],
+    "answers": [
+        [
+        "Two points are awarded to the captain B on the court"
+    ],
+        [
+        "Three points are awarded to the captain B on the court"
+    ],
+    [
+        "The basket does not count because scoring an own basket is a violation of A4"
+    ],
+    [
+        "The basket does not count and team A gets a throw-in from the free-throw line extended"
+    ]
+    ],
+    "explanation": "I9-7 2 points shall be awarded to the captain of team A. R2.4.4 the 3-point field goal area is the area of the playing court, except for the area near the opponents' basket."
+}
+]
+

@@ -1,0 +1,108 @@
+[
+    {
+    "question_template": "A referee tosses the ball for the jump ball at the beginning of the first period. A1 legally taps the ball and %s.",
+    "template_substitutions": [
+        [
+        "A held ball between A2 and B2 is called",
+        "A double foul between A2 and B2 is called"
+    ]
+    ],
+    "answers": [
+        [
+        "A2 and B2 jump for another jump ball"
+    ],
+    [
+        "Any two players jump for another jump ball"
+    ],
+    [
+        "Team B gets a throw-in for the alternating possession rule"
+    ]
+    ],
+    "explanation": "I12-2 Since the control of a live ball on the playing court has not yet been established, the official cannot use the alternating possession arrow to award possession. The referee shall administer another jump ball in the centre circle and A2 and B2 shall jump. Whatever time has passed on the game clock, after the ball is legally tapped and before the held ball/double foul situation shall remain consumed."
+},
+    {
+    "question_template": "A referee tosses the ball for the jump ball at the beginning of the first period. %s.",
+    "template_substitutions": [
+        [
+        "Jumper A1 legally taps the ball which then goes directly out-of-bounds",
+        "Jumper A1 legally taps the ball and, immediately afterwards, A2 commits a foul",
+        "Jumper A1 legally taps the ball and A2 voluntarily hits it with a fist",
+        "Jumper A1 legally taps the ball and A2 voluntarily hits it with a foot",
+        "Jumper A1 legally taps the ball and then catches it before it has touched one of the non-jumpers or the floor",
+        "Jumper A1 makes a violation on the jump ball",
+        "Jumper A1 touches the ball before it reaches the highest point in his trajectory",
+        "Jumper A1 touches the ball three times",
+    ]
+    ],
+    "answers": [
+        [
+        "Team B is awarded a throw-in, but no team is entitled to the first alternating possession until one of the two teams gain control of the live ball on the playing court"
+    ],
+    [
+        "Team B is awarded a throw-in, and the next alternating possession will be awarded to team A"
+    ],
+    [
+        "Team B is awarded a throw-in, and the next alternating possession will be awarded to team B"
+    ],
+    [
+        "The jump ball is repeated."
+    ]
+    ],
+    "explanation": "I12-3 team B is awarded a throw-in as the result of the violation. After the throw-in the team that does not gain control of the live ball on the playing court will be entitled to the first alternating possession at the place nearest to where the next jump ball situation occurs."
+},
+    {
+    "question_template": "At the beginning of the %s, team A is entitled to a throw-in under the alternating possession rule. %s makes an error and the ball is awarded to team B. The error is discovered after the ball is legally touched by a player on the playing court.",
+    "template_substitutions": [
+        [
+        "second period",
+        "third period",
+        "fourth period",
+        "extra time"
+    ],
+    [
+        "The scorer",
+        "A referee"
+    ]
+    ],
+    "answers": [
+        [
+        "The error is not corrected, and team A will be entitled to the next alternating possession"
+    ],
+    [
+        "The game is stopped and team A gets the ball for a throw-in"
+    ],
+    [
+        "The game is stopped and a technical foul is charged to coach B"
+    ],
+    [
+        "The error is not corrected, and team B will be entitled to the next alternating possession"
+    ]
+    ],
+    "explanation": "I12-4 Once the ball touches or is legally touched by a player on the playing court, the error cannot be corrected. However, team B shall not lose its alternating possession throw-in opportunity as a result of the error and will be entitled to the next alternating possession throw-in."
+},
+    {
+    "question_template": "A1 jumps with the ball and is blocked by B1. Both players return to the court with %s firmly on the ball.%s.",
+    "template_substitutions": [
+        [
+        "one hand",
+        "both hands"
+    ],
+    [
+        "",
+        "A1 lands with one foot in his backcourt.",
+        "A1 lands with one foot on the boundary line.",
+        "A1 makes more steps than allowed by the travelling rule."
+    ]
+    ],
+    "answers": [
+        [
+        "A held ball is called", "A jump ball is called", "A jump ball situation occurs"
+    ],
+    [
+        "A1 committed a violation",
+        "A1 committed a travelling violation"
+    ]
+    ],
+    "explanation": "R23.2.3 If a player(s) move(s) to out-of-bounds or to his backcourt during a held ball, a jump ball situation occurs."
+},
+]

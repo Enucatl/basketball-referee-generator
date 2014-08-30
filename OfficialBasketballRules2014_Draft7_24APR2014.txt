@@ -1,0 +1,5617 @@
+FGLCSV4C1
+001_kopf 
+
+
+Official Basketball Rules 2014 
+
+As approved by 
+
+FIBA Central Board 
+
+Barcelona, Spain, 2nd February 2014 
+
+ Valid as of 1st October 2014 
+
+ 
+RULE ONE – THE GAME .............................................................................................................................. 4 
+Art. 1 Definitions .................................................................................................................................... 4 
+RULE TWO – COURT AND EQUIPMENT .................................................................................................. 4 
+Art. 2 Court .............................................................................................................................................. 4 
+Art. 3 Equipment .................................................................................................................................... 9 
+RULE THREE - TEAMS ............................................................................................................................... 10 
+Art. 4 Teams ......................................................................................................................................... 10 
+Art. 5 Players: Injury............................................................................................................................ 11 
+Art. 6 Captain: Duties and powers..................................................................................................... 12 
+Art. 7 Coaches: Duties and powers .................................................................................................. 12 
+RULE FOUR - PLAYING REGULATIONS ................................................................................................. 14 
+Art. 8 Playing time, tied score and extra periods ........................................................................... 14 
+Art. 9 Beginning and end of a period or the game ......................................................................... 14 
+Art. 10 Status of the ball ........................................................................................................................ 15 
+Art. 11 Location of a player and an official ........................................................................................ 16 
+Art. 12 Jump ball and alternating possession ................................................................................... 16 
+Art. 13 How the ball is played ............................................................................................................... 17 
+Art. 14 Control of the ball ...................................................................................................................... 18 
+Art. 15 Player in the act of shooting .................................................................................................... 18 
+Art. 16 Goal: When made and its value .............................................................................................. 19 
+Art. 17 Throw-in ..................................................................................................................................... 19 
+Art. 18 Time-out ..................................................................................................................................... 21 
+Art. 19 Substitution ................................................................................................................................ 22 
+Art. 20 Game lost by forfeit ................................................................................................................... 24 
+Art. 21 Game lost by default ................................................................................................................. 24 
+RULE FIVE - VIOLATIONS ......................................................................................................................... 26 
+Art. 22 Violations .................................................................................................................................... 26 
+Art. 23 Player out-of-bounds and ball out-of-bounds ...................................................................... 26 
+Art. 24 Dribbling ..................................................................................................................................... 26 
+Art. 25 Travelling .................................................................................................................................... 27 
+Art. 26 3 seconds ................................................................................................................................... 28 
+Art. 27 Closely guarded player ............................................................................................................. 28 
+Art. 28 8 seconds ................................................................................................................................... 28 
+Art. 29 24 seconds ................................................................................................................................. 29 
+Art. 30 Ball returned to the backcourt ................................................................................................ 30 
+Art. 31 Goaltending and Interference ................................................................................................. 31 
+RULE SIX - FOULS ..................................................................................................................................... 33 
+Art. 32 Fouls ............................................................................................................................................ 33 
+Art. 33 Contact: General principles ..................................................................................................... 33 
+Art. 34 Personal foul.............................................................................................................................. 38 
+Art. 35 Double foul ................................................................................................................................. 38 
+Art. 36 Technical foul ............................................................................................................................. 39 
+Art. 37 Unsportsmanlike foul ................................................................................................................ 41 
+Art. 38 Disqualifying foul ....................................................................................................................... 41 
+Art. 39 Fighting ....................................................................................................................................... 42 
+RULE SEVEN - GENERAL PROVISIONS ................................................................................................. 44 
+Art. 40 5 fouls by a player ...................................................................................................................... 44 
+Art. 41 Team fouls: Penalty ................................................................................................................... 44 
+Art. 42 Special situations ...................................................................................................................... 44 
+Art. 43 Free throws ................................................................................................................................ 45 
+Art. 44 Correctable errors ..................................................................................................................... 47 
+RULE EIGHT - OFFICIALS, TABLE OFFICIALS, COMMISSIONER: DUTIES AND POWERS ........... 49 
+Art. 45 Officials, table officials and commissioner ........................................................................... 49 
+Art. 46 Referee: Duties and powers .................................................................................................... 49 
+Art. 47 Officials: Duties and powers.................................................................................................... 50 
+Art. 48 Scorer and assistant scorer: Duties ...................................................................................... 51 
+Art. 49 Timer: Duties.............................................................................................................................. 52 
+Art. 50 Shot clock operator: Duties ..................................................................................................... 53 
+A - OFFICIALS’ SIGNALS .......................................................................................................................... 55 
+B - THE SCORESHEET ............................................................................................................................... 61 
+C - PROTEST PROCEDURE ....................................................................................................................... 68 
+D - CLASSIFICATION OF TEAMS ............................................................................................................ 69 
+E - MEDIA TIME-OUTS............................................................................................................................. 74 
+INDEX TO THE RULES ............................................................................................................................... 75 
+TABLE OF DIAGRAMS 
+Diagram 1 Full size playing court ....................................................................................................... 6 
+Diagram 2 Restricted area .................................................................................................................. 7 
+Diagram 3 2-point/3-point field goal area ........................................................................................ 8 
+Diagram 4 Scorer's table and substitution chairs .......................................................................... 8 
+Diagram 5 Cylinder principle ............................................................................................................ 33 
+Diagram 6 Players' positions during free throws ......................................................................... 46 
+Diagram 7 Officials' signals .............................................................................................................. 60 
+Diagram 8 Scoresheet ....................................................................................................................... 61 
+Diagram 9 Top of the scoresheet .................................................................................................... 62 
+Diagram 10 Teams on the scoresheet .............................................................................................. 63 
+Diagram 11 Running score.................................................................................................................. 66 
+Diagram 12 Summing up ..................................................................................................................... 67 
+Diagram 13 Bottom of the scoresheet .............................................................................................. 67 
+
+
+
+Throughout the Official Basketball Rules, all references made to a player, coach, official, etc. 
+in the male gender also apply to the female gender. It must be understood that this is done for 
+practical reasons only. 
+
+RULE ONE – THE GAME 
+
+Art. 1 Definitions 
+
+1.1 Basketball game 
+
+Basketball is played by 2 teams of 5 players each. The aim of each team is to score 
+in the opponents' basket and to prevent the other team from scoring. 
+
+The game is controlled by the officials, table officials and a commissioner, if 
+present. 
+
+1.2 Basket: opponents'/own 
+
+The basket that is attacked by a team is the opponents' basket and the basket which 
+is defended by a team is their own basket. 
+
+1.3 Winner of a game 
+
+The team that has scored the greater number of points at the end of playing time 
+shall be the winner. 
+
+RULE TWO – COURT AND EQUIPMENT 
+
+Art. 2 Court 
+
+2.1 Playing court 
+
+The playing court shall have a flat, hard surface free from obstructions (Diagram 1) 
+with dimensions of 28 m in length by 15 m in width measured from the inner edge of 
+the boundary line. 
+
+2.2 Backcourt 
+
+A team's backcourt consists of its team's own basket, the inbounds part of the 
+backboard and that part of the playing court limited by the endline behind their own 
+basket, the sidelines and the centre line. 
+
+2.3 Frontcourt 
+
+A team's frontcourt consists of the opponents' basket, the inbounds part of the 
+backboard and that part of the playing court limited by the endline behind the 
+opponents' basket, the sidelines and the inner edge of the centre line nearest to the 
+opponents' basket. 
+
+2.4 Lines 
+
+All lines shall be drawn in white colour, 5 cm in width and clearly visible. 
+
+
+2.4.1 Boundary line 
+
+The playing court shall be limited by the boundary line, consisting of the endlines 
+and the sidelines. These lines are not part of the playing court. 
+
+Any obstruction including seated team bench personnel shall be at least 2 m from 
+the playing court. 
+
+2.4.2 Centre line, centre circle and free-throw semi-circles 
+
+The centre line shall be marked parallel to the endlines from the mid-point of the 
+sidelines. It shall extend 0.15 m beyond each sideline. The centre line is part of the 
+backcourt. 
+
+The centre circle shall be marked in the centre of the playing court and have a 
+radius of 1.80 m measured to the outer edge of the circumference. If the inside of 
+the centre circle is painted, it must be the same colour as the restricted areas. 
+
+The free-throw semi-circles shall be marked on the playing court with a radius of 
+1.80 m measured to the outer edge of the circumference and with their centres at 
+the mid-point of the free-throw lines (Diagram 2). 
+
+2.4.3 Free-throw lines, restricted areas and free-throw rebound places 
+
+The free-throw line shall be drawn parallel to each endline. It shall have its furthest 
+edge 5.80 m from the inner edge of the endline and shall be 3.60 m long. Its mid-point 
+shall lie on the imaginary line joining the mid-point of the 2 endlines. 
+
+The restricted areas shall be the rectangular areas marked on the playing court 
+limited by the endlines, the extended free-throw lines and the lines which originate 
+at the endlines, their outer edges being 2.45 m from the mid-point of the endlines 
+and terminating at the outer edge of the extended free-throw lines. These lines, 
+excluding the endlines, are part of the restricted area. The inside of the restricted 
+areas must be painted in one colour. 
+
+Free-throw rebound places along the restricted areas, reserved for players during 
+free throws, shall be marked as in Diagram 2. 
+
+2.4.4 3-point field goal area 
+
+The team's 3-point field goal area (Diagram 1 and Diagram 3) shall be the entire floor 
+area of the playing court, except for the area near the opponents' basket, limited by 
+and including: 
+
+• The 2 parallel lines extending from and perpendicular to the endline, with the 
+outer edge 0.90 m from the inner edge of the sidelines. 
+• An arc of radius 6.75 m measured from the point on the floor beneath the exact 
+centre of the opponents' basket to the outer edge of the arc. The distance of 
+the point on the floor from the inner edge of the mid-point of the endline is 
+1.575 m. The arc is joined to the parallel lines. 
+
+
+The 3-point line is not part of the 3-point field goal area. 
+
+
+
+
+
+
+Diagram 1 Full size playing court 
+
+
+2.4.5 Team bench areas 
+
+The team bench areas shall be marked outside the playing court limited by 2 lines as 
+shown in Diagram 1. 
+
+There must be 14 seats available in the team bench area for the team bench 
+personnel which consists of the coaches, the assistant coaches, the substitutes, the 
+excluded players and the team followers. Any other persons shall be at least 2 m 
+behind the team bench. 
+
+2.4.6 Throw-in lines 
+
+The 2 lines of 0.15 m in length shall be marked outside the playing court at the 
+sideline opposite the scorer’s table, with the outer edge of the lines 8.325 m from the 
+inner edge of the nearest endline. 
+
+2.4.7 No-charge semi-circle areas 
+
+The no-charge semi-circle lines shall be marked on the playing court, limited by: 
+
+• A semi-circle with the radius of 1.25 m measured from the point on the floor 
+beneath the exact centre of the basket to the inner edge of the semi-circle. The 
+semi-circle is joined to: 
+• The 2 parallel lines perpendicular to the endline, the inner edge 1.25 m from the 
+point on the floor beneath the exact centre of the basket, 0.375 m in length and 
+ending 1.20 m from the inner edge of the endline. 
+
+
+The no-charge semi-circle areas are completed by imaginary lines joining the ends 
+of the parallel lines directly below the front edges of the backboards. 
+
+The no-charge semi-circle lines are part of the no-charge semi-circle areas. 
+
+ 
+0.375 m
+
+
+
+Diagram 2 Restricted area 
+
+
+
+
+
+
+Diagram 3 2-point/3-point field goal area 
+
+2.5 Position of the scorer's table and substitution chairs (Diagram 4) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1 = Shot clock operator 
+
+2 = Timer 
+
+3 = Commissioner, if present 
+
+4 = Scorer 
+
+5 = Assistant scorer 
+
+ 
+
+ 
+
+Playing court 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Team 
+bench area 
+
+Substitution 
+chairs 
+
+Substitution 
+chairs 
+
+Team 
+bench area 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Χ 
+
+Χ 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+Χ 
+
+Χ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Scorer's table 
+
+ 
+
+ 
+
+The scorer's table and its chairs must be placed on a platform. The 
+announcer and/or statisticians (if present) can be seated at the side of 
+and/or behind the scorer’s table. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+Diagram 4 Scorer's table and substitution chairs 
+
+
+Art. 3 Equipment 
+
+The following equipment will be required: 
+
+• Backstop units, consisting of: 
+▬ Backboards 
+▬ Baskets comprising (pressure release) rings and nets 
+▬ Backboard support structures including padding 
+
+
+
+• Basketballs 
+• Game clock 
+• Scoreboard 
+• Shot clock 
+• Stopwatch or suitable (visible) device (not the game clock) for timing time-outs 
+• 2 separate, distinctly different and loud signals, one of each for the 
+▬ shot clock operator, 
+▬ scorer/timer. 
+
+
+
+• Scoresheet 
+• Player foul markers 
+• Team foul markers 
+• Alternating possession arrow 
+• Playing floor 
+• Playing court 
+• Adequate lighting 
+
+
+For a more detailed description of basketball equipment, see the Appendix on 
+Basketball Equipment. 
+
+
+RULE THREE - TEAMS 
+
+Art. 4 Teams 
+
+4.1 Definition 
+
+4.1.1 A team member is eligible to play when he has been authorised to play for a team 
+according to the regulations, including regulations governing age limits, of the 
+organising body of the competition. 
+
+4.1.2 A team member is entitled to play when his name has been entered on the score-
+sheet before the start of the game and as long as he has neither been disqualified 
+nor committed 5 fouls. 
+
+4.1.3 During playing time, a team member is: 
+
+• A player when he is on the playing court and is entitled to play. 
+• A substitute when he is not on the playing court but he is entitled to play. 
+• An excluded player when he has committed 5 fouls and is no longer entitled to 
+play. 
+
+
+4.1.4 During an interval of play, all team members entitled to play are considered as 
+players. 
+
+4.2 Rule 
+
+4.2.1 Each team shall consist of: 
+
+• No more than 12 team members entitled to play, including a captain. 
+• A coach and, if a team wishes, an assistant coach. 
+• A maximum of 5 team followers who may sit on the team bench and have 
+special responsibilities, e.g. manager, doctor, physiotherapist, statistician, 
+interpreter, etc. 
+
+
+4.2.2 During playing time 5 players from each team shall be on the playing court and may 
+be substituted. 
+
+4.2.3 A substitute becomes a player and a player becomes a substitute when: 
+
+• The official beckons the substitute to enter the playing court. 
+• During a time-out or an interval of play, a substitute requests the substitution to 
+the scorer. 
+
+
+4.3 Uniforms 
+
+4.3.1 The uniform of the team members shall consist of: 
+
+• Shirts of the same dominant colour front and back. 
+
+
+All players must tuck their shirts into their playing shorts. 'All-in-ones' are 
+permitted. 
+
+• Shorts of the same dominant colour front and back, but not necessarily of the 
+same colour as the shirts. The shorts must end above the knee. 
+• Socks of the same dominant colour for all players of the team. 
+
+
+4.3.2 Each team member shall wear a shirt numbered on the front and back with plain 
+numbers, of a solid colour contrasting with the colour of the shirt. 
+
+The numbers shall be clearly visible and: 
+
+• Those on the back shall be at least 20 cm high. 
+
+
+
+• Those on the front shall be at least 10 cm high. 
+• The numbers shall be at least 2 cm wide. 
+• Teams shall use numbers 0 and 00 and from 1 to 99. 
+• Players on the same team shall not wear the same number. 
+• Any advertising or logo shall be at least 5 cm away from the numbers. 
+
+
+4.3.3 Teams must have a minimum of 2 sets of shirts and: 
+
+• The first team named in the programme (home team) shall wear light-coloured 
+shirts (preferably white). 
+• The second team named in the programme (visiting team) shall wear dark-
+coloured shirts. 
+• However, if the 2 teams agree, they may interchange the colours of the shirts. 
+
+
+4.4 Other equipment 
+
+4.4.1 All equipment used by players must be appropriate for the game. Any equipment 
+that is designed to increase a player's height or reach or in any other way give an 
+unfair advantage is not permitted. 
+
+4.4.2 Players shall not wear equipment (objects) that may cause injury to other players. 
+
+• The following are not permitted: 
+▬ Finger, hand, wrist, elbow or forearm guards, casts or braces made of 
+leather, plastic, pliable (soft) plastic, metal or any other hard substance, 
+even if covered with soft padding. 
+▬ Objects that could cut or cause abrasions (fingernails must be closely cut). 
+▬ Headgear, hair accessories and jewellery. 
+
+
+
+• The following are permitted: 
+▬ Shoulder, upper arm, thigh or lower leg protective equipment if the material 
+is sufficiently padded. 
+▬ Compression sleeves of the same dominant colour as the shirts. 
+▬ Compression stockings of the same dominant colour as the shorts. If for the 
+upper leg it must end above the knee; if for the lower leg it must end below 
+the knee. 
+▬ Knee braces if they are properly covered. 
+▬ Protector for an injured nose, even if made of a hard material. 
+▬ Non-coloured transparent mouth guard. 
+▬ Spectacles, if they do not pose a danger to other players. 
+▬ Headbands, maximum 5 cm in width, made of non-abrasive, unicolour 
+cloth, pliable plastic or rubber. 
+▬ Non-coloured transparent taping of arms, shoulders, legs, etc. 
+
+
+
+
+
+4.4.3 During the game a player may not display any commercial, promotional or charitable 
+name, mark, logo or other identification including, but not limited to, on his body, in 
+his hair or otherwise. 
+
+4.4.4 Any other equipment not specifically mentioned in this article must be approved by 
+the FIBA Technical Commission. 
+
+Art. 5 Players: Injury 
+
+5.1 In the event of injury to a player(s), the officials may stop the game. 
+
+5.2 If the ball is live when an injury occurs, the official shall not blow his whistle until 
+the team in control of the ball has shot for a field goal, lost control of the ball, 
+
+
+withheld the ball from play or the ball has become dead. If it is necessary to protect 
+an injured player, the officials may stop the game immediately. 
+
+5.3 If the injured player cannot continue to play immediately (within approximately 15 
+seconds) or, if he receives treatment, he must be substituted unless the team is 
+reduced to fewer than 5 players on the playing court. 
+
+5.4 Team bench personnel may enter the playing court, only with the permission of an 
+official, to attend to an injured player before he is substituted. 
+
+5.5 A doctor may enter the playing court, without the permission of an official if, in the 
+doctor's judgement, the injured player requires immediate medical treatment. 
+
+5.6 During the game, any player who is bleeding or has an open wound must be 
+substituted. He may return to the playing court only after the bleeding has stopped 
+and the affected area or open wound has been completely and securely covered. 
+
+If the injured player or any player who is bleeding or has an open wound recovers 
+during a time-out taken by either team, before the scorer’s signal for the substitu-
+tion, that player may continue to play. 
+
+5.7 Players who have been designated by the coach to start the game or who receive 
+treatment between free throws may be substituted in the event of an injury. In this 
+case, the opponents are also entitled to substitute the same number of players, if 
+they so wish. 
+
+Art. 6 Captain: Duties and powers 
+
+6.1 The captain (CAP) is a player designated by his coach to represent his team on the 
+playing court. He may communicate in a courteous manner with the officials during 
+the game to obtain information, however, only when the ball becomes dead and the 
+game clock is stopped. 
+
+6.2 The captain shall, immediately at the end of the game, inform the referee if his team 
+is protesting against the result of the game and sign the scoresheet in the space 
+marked 'Captain's signature in case of protest'. 
+
+Art. 7 Coaches: Duties and powers 
+
+7.1 At least 20 minutes before the game is scheduled to begin, each coach or his 
+representative shall give the scorer a list with the names and corresponding 
+numbers of the team members who are eligible to play in the game, as well as the 
+name of the captain of the team, the coach and the assistant coach. All team 
+members whose names are entered on the scoresheet are entitled to play, even if 
+they arrive after the beginning of the game. 
+
+7.2 At least 10 minutes before the game is scheduled to begin, each coach shall confirm 
+his agreement with the names and corresponding numbers of his team members 
+and the names of the coaches by signing the scoresheet. At the same time, they 
+shall indicate the 5 players who are to start the game. The coach of team 'A' shall 
+be the first to provide this information. 
+
+7.3 The team bench personnel are the only persons permitted to sit on the team bench 
+and remain within their team bench area. 
+
+
+7.4 The coach or the assistant coach may go to the scorer’s table during the game to 
+obtain statistical information only when the ball becomes dead and the game clock 
+is stopped. 
+
+7.5 Either the coach or the assistant coach, but only one of them at any given time, is 
+permitted to remain standing during the game. They may address the players 
+verbally during the game provided they remain within their team bench area. The 
+assistant coach shall not address the officials. 
+
+7.6 If there is an assistant coach his name must be entered on the scoresheet before 
+the beginning of the game (his signature is not necessary). He shall assume all 
+duties and powers of the coach if, for any reason, the coach is unable to continue. 
+
+7.7 When the captain leaves the playing court the coach shall inform an official of the 
+number of the player who will act as captain on the playing court. 
+
+7.8 The captain shall act as coach if there is no coach, or if the coach is unable to 
+continue and there is no assistant coach entered on the scoresheet (or the latter is 
+unable to continue). If the captain must leave the playing court, he may continue to 
+act as coach. If he must leave following a disqualifying foul, or if he is unable to act 
+as coach because of injury, his substitute as captain may replace him as coach. 
+
+7.9 The coach shall designate the free-throw shooter of his team in all cases where the 
+free-throw shooter is not determined by the rules. 
+
+
+RULE FOUR - PLAYING REGULATIONS 
+
+Art. 8 Playing time, tied score and extra periods 
+
+8.1 The game shall consist of 4 periods of 10 minutes each. 
+
+8.2 There shall be an interval of play of 20 minutes before the game is scheduled to 
+begin. 
+
+8.3 There shall be intervals of play of 2 minutes between the first and second period 
+(first half), between the third and fourth period (second half) and before each extra 
+period. 
+
+8.4 There shall be a half-time interval of play of 15 minutes. 
+
+8.5 An interval of play begins: 
+
+• 20 minutes before the game is scheduled to begin. 
+• When the game clock signal sounds for the end of the period. 
+
+
+8.6 An interval of play ends: 
+
+• At the beginning of the first period when the ball leaves the hand(s) of the 
+referee on the toss for the jump ball. 
+• At the beginning of all other periods when the ball is at the disposal of the 
+player taking the throw-in. 
+
+
+8.7 If the score is tied at the end of playing time for the fourth period, the game shall 
+continue with as many extra periods of 5 minutes as is necessary to break the tie. 
+
+8.8 If a foul is committed when or just before the game clock signal sounds for the end 
+of playing time, any eventual free throw(s) shall be administered after the end of 
+playing time. 
+
+8.9 If an extra period is required as a result of this free throw(s) then all fouls that are 
+committed after the end of playing time shall be considered to have occurred during 
+an interval of play and the free throws shall be administered before the beginning of 
+the extra period. 
+
+Art. 9 Beginning and end of a period or the game 
+
+9.1 The first period begins when the ball leaves the hand(s) of the referee on the toss 
+for the jump ball. 
+
+9.2 All other periods begin when the ball is at the disposal of the player taking the 
+throw-in. 
+
+9.3 The game cannot begin if one of the teams is not on the playing court with 5 players 
+ready to play. 
+
+9.4 For all games, the first team named in the programme (home team) shall have the 
+team bench and its own basket on the left side of the scorer’s table, facing the 
+playing court. 
+
+However, if the 2 teams agree, they may interchange the team benches and/or 
+baskets. 
+
+
+9.5 Before the first and third period, teams are entitled to warm-up in the half of the 
+playing court in which their opponents' basket is situated. 
+
+9.6 Teams shall exchange baskets for the second half. 
+
+9.7 In all extra periods the teams shall continue to play towards the same baskets as in 
+the fourth period. 
+
+9.8 A period, extra period or game shall end when the game clock signal sounds for the 
+end of the period. When the backboard is equipped with lighting around its 
+perimeter, the lighting takes precedence over the game clock signal sound. 
+
+Art. 10 Status of the ball 
+
+10.1 The ball can be either live or dead. 
+
+10.2 The ball becomes live when: 
+
+• During the jump ball, the ball leaves the hand(s) of the referee on the toss. 
+• During a free throw, the ball is at the disposal of the free-throw shooter. 
+• During a throw-in, the ball is at the disposal of the player taking the throw-in. 
+
+
+10.3 The ball becomes dead when: 
+
+• Any field goal or free throw is made. 
+• An official blows his whistle while the ball is live. 
+• It is apparent that the ball will not enter the basket on a free throw which is to 
+be followed by: 
+▬ Another free throw(s). 
+▬ A further penalty (free throw(s) and/or possession). 
+
+
+
+• The game clock signal sounds for the end of the period. 
+• The shot clock signal sounds while a team is in control of the ball. 
+• The ball in flight on a shot for a field goal is touched by a player from either 
+team after: 
+▬ An official blows his whistle. 
+▬ The game clock signal sounds for the end of the period. 
+▬ The shot clock signal sounds. 
+
+
+
+
+
+10.4 The ball does not become dead and the goal counts if made when: 
+
+• The ball is in flight on a shot for a field goal and: 
+▬ An official blows his whistle. 
+▬ The game clock signal sounds for the end of the period. 
+▬ The shot clock signal sounds. 
+
+
+
+• The ball is in flight on a free throw and an official blows his whistle for any rule 
+infraction other than by the free-throw shooter. 
+• A player commits a foul on any opponent while the ball is in the control of the 
+opponent in the act of shooting for a field goal and who finishes his shot with a 
+continuous motion which started before the foul occurred. 
+
+
+This provision does not apply and the goal shall not count if 
+
+▬ after an official blows his whistle and an entirely new act of shooting is 
+made. 
+▬ during the continuous motion of a player in the act of shooting the game 
+clock signal sounds for an end of period or the shot clock signal sounds. 
+
+
+
+
+
+Art. 11 Location of a player and an official 
+
+11.1 The location of a player is determined by where he is touching the floor. 
+
+While he is airborne, he retains the same status he had when he last touched the 
+floor. This includes the boundary line, the centre line, the 3-point line, the free-throw 
+line, the lines delimiting the restricted area and the lines delimiting the no-charge 
+semi-circle area. 
+
+11.2 The location of an official is determined in the same manner as that of a player. 
+When the ball touches an official, it is the same as touching the floor at the official's 
+location. 
+
+Art. 12 Jump ball and alternating possession 
+
+12.1 Jump ball definition 
+
+12.1.1 A jump ball occurs when an official tosses the ball in the centre circle between any 
+2 opponents at the beginning of the first period. 
+
+12.1.2 A held ball occurs when one or more players from opposing teams have one or 
+both hands firmly on the ball so that neither player can gain control without undue 
+roughness. 
+
+12.2 Jump ball procedure 
+
+12.2.1 Each jumper shall stand with both feet inside the half of the centre circle nearest to 
+his own basket with one foot close to the centre line. 
+
+12.2.2 Team-mates may not occupy adjacent positions around the circle if an opponent 
+wishes to occupy one of those positions. 
+
+12.2.3 The official shall then toss the ball vertically upwards between the 2 opponents, 
+higher than either of them can reach by jumping. 
+
+12.2.4 The ball must be tapped with the hand(s) of at least one of the jumpers after it 
+reaches its highest point. 
+
+12.2.5 Neither jumper shall leave his position until the ball has been legally tapped. 
+
+12.2.6 Neither jumper may catch the ball or tap it more than twice until it has touched one 
+of the non-jumpers or the floor. 
+
+12.2.7 If the ball is not tapped by at least one of the jumpers, the jump ball shall be 
+repeated. 
+
+12.2.8 No part of a non-jumper's body may be on or over the circle line (cylinder) before 
+the ball has been tapped. 
+
+An infraction of Art. 12.2.1, 12.2.4, 12.2.5, 12.2.6, and 12.2.8 is a violation. 
+
+12.3 Jump ball situations 
+
+A jump ball situation occurs when: 
+
+• A held ball is called. 
+• The ball goes out-of-bounds and the officials are in doubt or disagree about 
+which of the opponents last touched the ball. 
+• A double free-throw violation occurs during an unsuccessful last or only free 
+throw. 
+
+
+
+• A live ball lodges between the ring and the backboard (except between free 
+throws). 
+• The ball becomes dead when neither team has control of the ball nor is entitled 
+to the ball. 
+• After the cancellation of equal penalties against both teams, if there are no 
+other foul penalties remaining for administration and neither team had control 
+of the ball nor was entitled to the ball before the first foul or violation. 
+• All periods other than the first period are to begin. 
+
+
+12.4 Alternating possession definition 
+
+12.4.1 Alternating possession is a method of causing the ball to become live with a throw-
+in rather than a jump ball. 
+
+12.4.2 Alternating possession throw-in: 
+
+• Begins when the ball is at the disposal of the player taking the throw-in. 
+• Ends when: 
+▬ The ball touches or is legally touched by a player on the playing court. 
+▬ The team taking the throw-in commits a violation. 
+▬ A live ball lodges between the ring and the backboard during a throw-in. 
+
+
+
+
+
+12.5 Alternating possession procedure 
+
+12.5.1 In all jump ball situations teams will alternate possession of the ball for a throw-in at 
+the place nearest to where the jump ball situation occurs. 
+
+12.5.2 The team that does not gain control of the live ball on the playing court after the 
+jump ball will be entitled to the first alternating possession. 
+
+12.5.3 The team entitled to the next alternating possession at the end of any period shall 
+start the next period with a throw-in at the centre line extended, opposite the 
+scorer’s table, unless there are further free throws and a possession penalty to be 
+administered. 
+
+12.5.4 The team entitled to the alternating possession throw-in shall be indicated by the 
+alternating possession arrow in the direction of the opponents’ basket. The direction 
+of the alternating possession arrow will be reversed immediately when the alterna-
+ting possession throw-in ends. 
+
+12.5.5 A violation by a team during its alternating possession throw-in causes that team to 
+lose the alternating possession throw-in. The direction of the alternating possession 
+arrow will be reversed immediately, indicating that the opponents of the violating 
+team will be entitled to the alternating possession throw-in at the next jump ball 
+situation. The game shall then be resumed by awarding the ball to the opponents of 
+the violating team for a throw-in at the place of the original throw-in. 
+
+12.5.6 A foul by either team: 
+
+• Before the beginning of a period other than the first period, or 
+• During the alternating possession throw-in, 
+
+
+does not cause the team entitled to the throw-in to lose that alternating possession. 
+
+Art. 13 How the ball is played 
+
+13.1 Definition 
+
+
+During the game, the ball is played with the hand(s) only and may be passed, 
+thrown, tapped, rolled or dribbled in any direction, subject to the restrictions of 
+these rules. 
+
+13.2 Rule 
+
+A player shall not run with the ball, deliberately kick or block it with any part of the 
+leg or strike it with the fist. 
+
+However, to accidentally come into contact with or touch the ball with any part of 
+the leg is not a violation. 
+
+An infraction of Art. 13.2 is a violation. 
+
+Art. 14 Control of the ball 
+
+14.1 Definition 
+
+14.1.1 Team control starts when a player of that team is in control of a live ball by holding 
+or dribbling it or has a live ball at his disposal. 
+
+14.1.2 Team control continues when: 
+
+• A player of that team is in control of a live ball. 
+• The ball is being passed between team-mates. 
+
+
+14.1.3 Team control ends when: 
+
+• An opponent gains control. 
+• The ball becomes dead. 
+• The ball has left the player's hand(s) on a shot for a field goal or for a free 
+throw. 
+
+
+Art. 15 Player in the act of shooting 
+
+15.1 Definition 
+
+15.1.1 A shot for a field goal or a free throw is when the ball is held in a player’s hand(s) 
+and is then thrown into the air towards the opponents' basket. 
+
+A tap is when the ball is directed with the hand(s) towards the opponents' basket. 
+
+A dunk is when the ball is forced downwards into the opponents' basket with one or 
+both hands. 
+
+A tap and a dunk are also considered as shots for a field goal. 
+
+15.1.2 The act of shooting: 
+
+• Begins when the player starts the continuous movement normally preceding 
+the release of the ball and, in the judgement of an official, he has started an 
+attempt to score by throwing, tapping or dunking the ball towards the 
+opponents' basket. 
+• Ends when the ball has left the player’s hand(s) and, in the case of an airborne 
+shooter, both feet have returned to the floor. 
+
+
+The player attempting to score might have his arm(s) held by an opponent, thus 
+preventing him from scoring, even though he is considered to have made an attempt 
+to score. In this case it is not essential that the ball leaves the player's hand(s). 
+
+
+There is no relationship between the number of legal steps taken and the act of 
+shooting. 
+
+15.1.3 A continuous movement in the act of shooting: 
+
+• Begins when the ball has come to rest in the player's hand(s) and the shooting 
+motion, usually upward, has started. 
+• May include the player's arm(s) and/or body movement in his attempt to shoot 
+for a field goal. 
+• Ends when the ball has left the player’s hand(s), or if an entirely new act of 
+shooting is made. 
+
+
+Art. 16 Goal: When made and its value 
+
+16.1 Definition 
+
+16.1.1 A goal is made when a live ball enters the basket from above and remains within or 
+passes through the basket. 
+
+16.1.2 The ball is considered to be within the basket when the slightest part of the ball is 
+within and below the level of the ring. 
+
+16.2 Rule 
+
+16.2.1 A goal is credited to the team attacking the opponents’ basket into which the ball 
+has entered as follows: 
+
+• A goal released from a free throw counts 1 point. 
+• A goal released from the 2-point field goal area counts 2 points. 
+• A goal released from the 3-point field goal area counts 3 points. 
+• After the ball has touched the ring on a last or only free throw and is legally 
+touched by an offensive or defensive player before it enters the basket, the goal 
+counts 2 points. 
+
+
+16.2.2 If a player accidentally scores a field goal in his team’s basket, the goal counts 2 
+points and shall be recorded as having been scored by the captain of the opposing 
+team on the playing court. 
+
+16.2.3 If a player deliberately scores a field goal in his team’s basket, it is a violation and 
+the goal does not count. 
+
+16.2.4 If a player causes the entire ball to pass through the basket from below, it is a 
+violation. 
+
+16.2.5 The game clock must indicate 0:00.3 (3 tenths of a second) or more for a player to 
+gain control of the ball on a throw-in or on a rebound after the last or only free throw 
+in order to attempt a shot for a field goal. If the game clock indicates 0:00.2 or 0:00.1 
+the only type of a valid field goal made is by tapping or directly dunking the ball. 
+
+Art. 17 Throw-in 
+
+17.1 Definition 
+
+17.1.1 A throw-in occurs when the ball is passed into the playing court by the out-of-
+bounds player taking the throw-in. 
+
+
+17.2 Procedure 
+
+17.2.1 An official must hand or place the ball at the disposal of the player taking the throw-
+in. He may also toss or bounce pass the ball provided that: 
+
+• The official is no more than 4 m from the player taking the throw-in. 
+• The player taking the throw-in is at the correct place as designated by the 
+official. 
+
+
+17.2.2 The player shall take the throw-in at the place nearest to the infraction or where the 
+game was stopped by the official, except directly behind the backboard. 
+
+17.2.3 In the following situations the subsequent throw-in shall be administered at the 
+centre line extended, opposite the scorer's table: 
+
+• At the beginning of all periods other than the first period. 
+• Following a free throw(s) resulting from a technical, unsportsmanlike or disqua-
+lifying foul. 
+
+
+The player taking the throw-in shall have one foot on either side of the centre line 
+extended, opposite the scorer’s table, and shall be entitled to pass the ball to a 
+team-mate at any place on the playing court. 
+
+17.2.4 When the game clock shows 2:00 minutes or less in the fourth period and in each 
+extra period, following a time-out taken by the team that is entitled to possession of 
+the ball from its backcourt, the subsequent throw-in shall be administered at the 
+throw-in line opposite the scorer’s table in the team’s frontcourt. 
+
+17.2.5 Following a personal foul committed by a player of the team in control of a live ball, 
+or of the team entitled to the ball, the subsequent throw-in shall be administered at 
+the place nearest to the infraction. 
+
+17.2.6 Whenever the ball enters the basket, but the field goal or the free throw is not valid, 
+the subsequent throw-in shall be administered at the free-throw line extended. 
+
+17.2.7 Following a successful field goal or a successful last or only free throw: 
+
+• Any player of the non-scoring team shall take the throw-in at any place behind 
+that team’s endline. This is also applicable after an official hands or places the 
+ball at the disposal of the player taking the throw-in after a time-out or after any 
+interruption of the game following a successful field goal or a successful last or 
+only free throw. 
+• The player taking the throw-in may move laterally and/or backwards and the 
+ball may be passed between team-mates behind the endline, but the 5 second 
+count starts when the ball is at the disposal of the first player out-of-bounds. 
+
+
+17.3 Rule 
+
+17.3.1 The player taking the throw-in shall not: 
+
+• Take more than 5 seconds to release the ball. 
+• Step into the playing court while having the ball in his hand(s). 
+• Cause the ball to touch out-of-bounds, after it has been released on the throw-
+in. 
+• Touch the ball on the playing court before it has touched another player. 
+
+
+
+• Cause the ball to enter the basket directly. 
+• Move from the designated throw-in place behind the boundary line laterally in 
+one or both directions, exceeding a total distance of 1 m before releasing the 
+ball. He is, however, permitted to move directly backwards from the boundary 
+line as far as circumstances allow. 
+
+
+17.3.2 During the throw-in other player(s) shall not: 
+
+• Have any part of their bodies over the boundary line before the ball has been 
+thrown-in across the boundary line. 
+• Be closer than 1 m to the player taking the throw-in when the throw-in place 
+has less than 2 m distance between the boundary line and any out-of-bounds 
+obstructions. 
+
+
+An infraction of Art. 17.3 is a violation. 
+
+17.4 Penalty 
+
+The ball is awarded to the opponents for a throw-in at the place of the original 
+throw-in. 
+
+Art. 18 Time-out 
+
+18.1 Definition 
+
+A time-out is an interruption of the game requested by the coach or assistant coach. 
+
+18.2 Rule 
+
+18.2.1 Each time-out shall last 1 minute. 
+
+18.2.2 A time-out may be granted during a time-out opportunity. 
+
+18.2.3 A time-out opportunity begins when: 
+
+• For both teams, the ball becomes dead, the game clock is stopped and the 
+official has ended his communication with the scorer's table. 
+• For both teams, the ball becomes dead following a successful last or only free 
+throw. 
+• For the non-scoring team, a field goal is scored. 
+
+
+18.2.4 A time-out opportunity ends when the ball is at the disposal of a player for a throw-
+in or for a first or only free throw. 
+
+18.2.5 Each team may be granted: 
+
+• 2 time-outs during the first half, 
+• 3 time-outs during the second half with a maximum of 2 of these time-outs in the 
+last 2 minutes of the second half, 
+• 1 time-out during each extra period. 
+
+
+18.2.6 Unused time-outs may not be carried over to the next half or extra period. 
+
+18.2.7 A time-out is charged against the team whose coach first made a request unless the 
+time-out is granted following a field goal scored by the opponents and without an 
+infraction having been called. 
+
+18.2.8 A time-out shall not be permitted to the scoring team when the game clock shows 
+2:00 minutes or less in the fourth period and in each extra period and, following a 
+successful field goal unless an official has interrupted the game. 
+
+
+18.3 Procedure 
+
+18.3.1 Only a coach or assistant coach has the right to request a time-out. He shall 
+establish visual contact with the scorer or he shall go to the scorer’s table and ask 
+clearly for a time-out, making the proper conventional sign with his hands. 
+
+18.3.2 A time-out request may be cancelled only before the scorer's signal has sounded 
+for such a request. 
+
+18.3.3 The time-out period: 
+
+• Begins when the official blows his whistle and gives the time-out signal. 
+• Ends when the official blows his whistle and beckons the teams back on the 
+playing court. 
+
+
+18.3.4 As soon as a time-out opportunity begins, the scorer shall sound his signal to notify 
+the officials that a request for a time-out has been made. 
+
+If a field goal is scored against a team which has requested a time-out, the timer 
+shall immediately stop the game clock and sound his signal. 
+
+18.3.5 During the time-out and during an interval of play before the beginning of the 
+second, fourth or each extra period the players may leave the playing court and sit 
+on the team bench and the team bench personnel may enter the playing court 
+provided they remain within the vicinity of their team bench area. 
+
+18.3.6 If the request for the time-out is made by either team after the ball is at the disposal 
+of the free-throw shooter for the first or only free throw, the time-out shall be 
+granted if: 
+
+• The last or only free throw is successful. 
+• The last or only free throw is followed by a throw-in at the centre line extended, 
+opposite the scorer’s table. 
+• A foul is called between free throws. In this case the free throw(s) will be 
+completed and the time-out will be permitted before the new foul penalty is 
+administered. 
+• A foul is called before the ball becomes live after the last or only free throw. In 
+this case the time-out will be permitted before the new foul penalty is 
+administered. 
+• A violation is called before the ball becomes live after the last or only free 
+throw. In this case the time-out will be permitted before the throw-in is 
+administered. 
+
+
+In the event of consecutive sets of free throws and/or possession of the ball 
+resulting from more than 1 foul penalty, each set is to be treated separately. 
+
+Art. 19 Substitution 
+
+19.1 Definition 
+
+A substitution is an interruption of the game requested by the substitute to become 
+a player. 
+
+19.2 Rule 
+
+19.2.1 A team may substitute a player(s) during a substitution opportunity. 
+
+19.2.2 A substitution opportunity begins when: 
+
+
+• For both teams, the ball becomes dead, the game clock is stopped and the 
+official has ended his communication with the scorer's table. 
+• For both teams, the ball becomes dead following a successful last or only free 
+throw. 
+• For the non-scoring team, a field goal is scored when the game clock shows 
+2:00 minutes or less in the fourth period and in each extra period. 
+
+
+19.2.3 A substitution opportunity ends when the ball is at the disposal of a player for a 
+throw-in or a first or only free throw. 
+
+19.2.4 A player who has become a substitute and a substitute who has become a player 
+cannot respectively re-enter the game or leave the game until the ball becomes 
+dead again, after a clock-running phase of the game, unless: 
+
+• The team is reduced to fewer than 5 players on the playing court. 
+• The player entitled to the free-throws as the result of the correction of an error 
+is on the team bench after having been legally substituted. 
+
+
+19.2.5 A substitution shall not be permitted to the scoring team when the game clock is 
+stopped following a successful field goal when the game clock shows 2:00 minutes 
+or less in the fourth period and in each extra period unless an official has 
+interrupted the game. 
+
+19.3 Procedure 
+
+19.3.1 Only a substitute has the right to request a substitution. He (not the coach or the 
+assistant coach) shall go to the scorer’s table and ask clearly for a substitution, 
+making the proper conventional sign with his hands, or sit on the substitution chair. 
+He must be ready to play immediately. 
+
+19.3.2 A substitution request may be cancelled only before the scorer's signal has 
+sounded for such a request. 
+
+19.3.3 As soon as a substitution opportunity begins the scorer shall sound his signal to 
+notify the officials that a request for a substitution has been made. 
+
+19.3.4 The substitute shall remain outside the boundary line until the official blows his 
+whistle, gives the substitution signal and beckons him to enter the playing court. 
+
+19.3.5 The player being substituted is permitted to go directly to his team bench without 
+reporting either to the scorer or the official. 
+
+19.3.6 Substitutions shall be completed as quickly as possible. A player who has commit-
+ted his 5 fouls or has been disqualified must be substituted immediately (within 
+approximately 30 seconds). If, in the judgement of an official, there is a delay of the 
+game, a time-out shall be charged against the offending team. If the team has no 
+time-out remaining a technical foul for delaying the game may be charged against 
+the coach, recorded as 'B'. 
+
+19.3.7 If a substitution is requested during a time-out or during an interval of play other 
+than the half-time interval, the substitute must report to the scorer before entering 
+the game. 
+
+19.3.8 If the free-throw shooter must be substituted because he: 
+
+• Is injured. 
+• Has committed his 5 fouls. 
+
+
+
+• Has been disqualified. 
+
+
+The free throw(s) must be attempted by his substitute who may not be substituted 
+again until he has played in the next clock-running phase of the game. 
+
+19.3.9 If the request for a substitution is made by either team after the ball is at the 
+disposal of the free-throw shooter for the first or only free throw, the substitution 
+shall be granted if: 
+
+• The last or only free throw is successful. 
+• The last or only free throw is followed by a throw-in at the centre line extended, 
+opposite the scorer’s table. 
+• A foul is called between free throws. In this case the free throw(s) will be 
+completed and the substitution will be permitted before the new foul penalty is 
+administered. 
+• A foul is called before the ball becomes live after the last or only free throw. In 
+this case the substitution will be permitted before the new foul penalty is 
+administered. 
+• A violation is called before the ball becomes live after the last or only free 
+throw. In this case the substitution will be permitted before the throw-in is 
+administered. 
+
+
+In the event of consecutive sets of free throws resulting from more than 1 foul 
+penalty, each set is to be treated separately. 
+
+Art. 20 Game lost by forfeit 
+
+20.1 Rule 
+
+A team shall lose the game by forfeit if: 
+
+• The team is not present or is unable to field 5 players ready to play 15 minutes 
+after the scheduled time to begin. 
+• Its actions prevent the game from being played. 
+• It refuses to play after being instructed to do so by the referee. 
+
+
+20.2 Penalty 
+
+20.2.1 The game is awarded to the opponents and the score shall be 20 to 0. Furthermore, 
+the forfeiting team shall receive 0 points in the classification. 
+
+20.2.2 For a 2-games (home and away) total points series (aggregate score) and for Play-
+Offs (best of 3), the team that forfeits in the first, second or third game shall lose the 
+series or Play-Offs by 'forfeit'. This does not apply for Play-Offs (best of 5). 
+
+20.2.3 If in a tournament the team forfeits for the second time, the team shall be disquali-
+fied from the tournament and the results of all games played by this team shall be 
+nullified. 
+
+Art. 21 Game lost by default 
+
+21.1 Rule 
+
+A team shall lose a game by default if, during the game, the team has fewer than 2 
+players on the playing court ready to play. 
+
+
+21.2 Penalty 
+
+21.2.1 If the team to which the game is awarded is ahead, the score shall stand as at the 
+time when the game was stopped. If the team to which the game is awarded is not 
+ahead, the score shall be recorded as 2 to 0 in its favour. The defaulting team shall 
+receive 1 point in the classification. 
+
+21.2.2 For a 2-games (home and away) total point series (aggregate score), the team that 
+defaults in the first or in the second game shall lose the series by 'default'. 
+
+
+RULE FIVE - VIOLATIONS 
+
+Art. 22 Violations 
+
+22.1 Definition 
+
+A violation is an infraction of the rules. 
+
+22.2 Penalty 
+
+The ball shall be awarded to the opponents for a throw-in at the place nearest to the 
+infraction, except directly behind the backboard, unless otherwise stated in the 
+rules. 
+
+Art. 23 Player out-of-bounds and ball out-of-bounds 
+
+23.1 Definition 
+
+23.1.1 A player is out-of-bounds when any part of his body is in contact with the floor, or 
+any object other than a player above, on or outside the boundary line. 
+
+23.1.2 The ball is out-of-bounds when it touches: 
+
+• A player or any other person who is out-of-bounds. 
+• The floor or any object above, on or outside the boundary line. 
+• The backboard supports, the back of the backboards or any object above the 
+playing court. 
+
+
+23.2 Rule 
+
+23.2.1 The ball is caused to go out-of-bounds by the last player to touch or be touched by 
+the ball before it goes out-of-bounds, even if the ball then goes out-of-bounds by 
+touching something other than a player. 
+
+23.2.2 If the ball is out-of-bounds because of touching or being touched by a player who is 
+on or outside the boundary line, this player causes the ball to go out-of-bounds. 
+
+23.2.3 If a player(s) move(s) to out-of-bounds or to his backcourt during a held ball, a jump 
+ball situation occurs. 
+
+Art. 24 Dribbling 
+
+24.1 Definition 
+
+24.1.1 A dribble is the movement of a live ball caused by a player in control of that ball who 
+throws, taps, rolls the ball on the floor or deliberately throws it against the back-
+board. 
+
+24.1.2 A dribble starts when a player, having gained control of a live ball on the playing 
+court, throws, taps, rolls, dribbles it on the floor or deliberately throws it against the 
+backboard and touches it again before it touches another player. 
+
+A dribble ends when the player touches the ball with both hands simultaneously or 
+permits the ball to come to rest in one or both hands. 
+
+During a dribble the ball may be thrown into the air provided the ball touches the 
+floor or another player before the player who threw it touches it again with his hand. 
+
+There is no limit to the number of steps a player may take when the ball is not in 
+contact with his hand. 
+
+24.1.3 A player who accidentally loses and then regains control of a live ball on the playing 
+court is considered to be fumbling the ball. 
+
+
+24.1.4 The following are not dribbles: 
+
+• Successive shots for a field goal. 
+• Fumbling the ball at the beginning or at the end of a dribble. 
+• Attempts to gain control of the ball by tapping it from the vicinity of other 
+players. 
+• Tapping the ball from the control of another player. 
+• Deflecting a pass and gaining control of the ball. 
+• Tossing the ball from hand to hand and allowing it to come to rest in one or both 
+hands before touching the floor, provided that no travelling violation is 
+committed. 
+
+
+24.2 Rule 
+
+A player shall not dribble for a second time after his first dribble has ended unless 
+between the 2 dribbles he has lost control of a live ball on the playing court because 
+of: 
+
+• A shot for a field goal. 
+• A touch of the ball by an opponent. 
+• A pass or fumble that has touched or been touched by another player. 
+
+
+Art. 25 Travelling 
+
+25.1 Definition 
+
+25.1.1 Travelling is the illegal movement of one foot or both feet beyond the limits outlined 
+in this article, in any direction, while holding a live ball on the playing court. 
+
+25.1.2 A pivot is the legal movement in which a player who is holding a live ball on the 
+playing court steps once or more than once in any direction with the same foot, 
+while the other foot, called the pivot foot, is kept at its point of contact with the floor. 
+
+25.2 Rule 
+
+25.2.1 Establishing a pivot foot by a player who catches a live ball on the playing 
+court: 
+
+• While standing with both feet on the floor: 
+▬ The moment one foot is lifted, the other foot becomes the pivot foot. 
+
+
+
+• While moving: 
+▬ If one foot is touching the floor, that foot becomes the pivot foot. 
+▬ If both feet are off the floor and the player lands on both feet simultaneous-
+ly, the moment one foot is lifted, the other foot becomes the pivot foot. 
+▬ If both feet are off the floor and the player lands on one foot, then that foot 
+becomes the pivot foot. If a player jumps off that foot and comes to a stop 
+landing on both feet simultaneously, then neither foot is a pivot foot. 
+
+
+
+
+
+25.2.2 Progressing with the ball by a player who has established a pivot foot while 
+having control of a live ball on the playing court: 
+
+• While standing with both feet on the floor: 
+▬ To start a dribble, the pivot foot may not be lifted before the ball is released 
+from the hand(s). 
+▬ To pass or shoot for a field goal, the player may jump off a pivot foot, but 
+neither foot may be returned to the floor before the ball is released from the 
+hand(s). 
+
+
+
+
+
+
+• While moving: 
+▬ To pass or shoot for a field goal, the player may jump off a pivot foot and 
+land on one foot or both feet simultaneously. After that, one foot or both 
+feet may be lifted from the floor but neither foot may be returned to the 
+floor before the ball is released from the hand(s). 
+▬ To start a dribble, the pivot foot may not be lifted before the ball is released 
+from the hand(s). 
+
+
+
+• While coming to a stop when neither foot is the pivot foot: 
+▬ To start a dribble, neither foot may be lifted before the ball is released from 
+the hand(s). 
+▬ To pass or shoot for a field goal, one foot or both feet may be lifted but may 
+not be returned to the floor before the ball is released from the hand(s). 
+
+
+
+
+
+25.2.3 A player falling, lying or sitting on the floor: 
+
+• It is legal when a player falls and slides on the floor while holding the ball or, 
+while lying or sitting on the floor, gains control of the ball. 
+• It is a violation if the player then rolls or attempts to stand up while holding the 
+ball. 
+
+
+Art. 26 3 seconds 
+
+26.1 Rule 
+
+26.1.1 A player shall not remain in the opponents' restricted area for more than 3 
+consecutive seconds while his team is in control of a live ball in the frontcourt and 
+the game clock is running. 
+
+26.1.2 Allowances must be made for a player who: 
+
+• Makes an attempt to leave the restricted area. 
+• Is in the restricted area when he or his team-mate is in the act of shooting and 
+the ball is leaving or has just left the player's hand(s) on the shot for a field goal. 
+• Dribbles in the restricted area to shoot for a field goal after having been there 
+for less than 3 consecutive seconds. 
+
+
+26.1.3 To establish himself outside the restricted area, the player must place both feet on 
+the floor outside the restricted area. 
+
+Art. 27 Closely guarded player 
+
+27.1 Definition 
+
+A player who is holding a live ball on the playing court is closely guarded when an 
+opponent is in an active legal guarding position at a distance of no more than 1 m. 
+
+27.2 Rule 
+
+A closely guarded player must pass, shoot or dribble the ball within 5 seconds. 
+
+Art. 28 8 seconds 
+
+28.1 Rule 
+
+28.1.1 Whenever: 
+
+• A player in the backcourt gains control of a live ball, 
+• On a throw-in, the ball touches or is legally touched by any player in the back-
+court and the team of that player taking the throw-in remains in control of the 
+ball in its backcourt, 
+
+
+that team must cause the ball to go into its frontcourt within 8 seconds. 
+
+
+28.1.2 The team has caused the ball to go into its frontcourt whenever: 
+
+• The ball, not in control of any player, touches the frontcourt, 
+• The ball touches or is legally touched by an offensive player who has both feet 
+completely in contact with his frontcourt, 
+• The ball touches or is legally touched by a defensive player who has part of his 
+body in contact with his backcourt, 
+• The ball touches an official who has part of his body in contact with the 
+frontcourt of the team in control of the ball. 
+• During a dribble from the backcourt to the frontcourt, the ball and both feet of 
+the dribbler are completely in contact with the frontcourt. 
+
+
+28.1.3 The 8 second period will continue with any time remaining when the same team that 
+previously had control of the ball is awarded a throw-in in the backcourt, as a result 
+of: 
+
+• A ball having gone out-of-bounds. 
+• A player of the same team having been injured. 
+• A jump ball situation. 
+• A double foul. 
+• A cancellation of equal penalties against both teams. 
+
+
+Art. 29 24 seconds 
+
+29.1 Rule 
+
+29.1.1 Whenever: 
+
+• A player gains control of a live ball on the playing court, 
+• On a throw-in, the ball touches or is legally touched by any player on the 
+playing court and the team of that player taking the throw-in remains in control 
+of the ball, 
+
+
+that team must attempt a shot for a field goal within 24 seconds. 
+
+To constitute a shot for a field goal within 24 seconds: 
+
+• The ball must leave the player's hand(s) before the shot clock signal sounds, 
+and 
+• After the ball has left the player's hand(s), the ball must touch the ring or enter 
+the basket. 
+
+
+29.1.2 When a shot for a field goal is attempted near the end of the 24-second period 
+and the shot clock signal sounds while the ball is in the air: 
+
+• If the ball enters the basket, no violation has occurred, the signal shall be 
+disregarded and the goal shall count. 
+• If the ball touches the ring but does not enter the basket, no violation has 
+occurred, the signal shall be disregarded and the game shall continue. 
+• If the ball misses the ring, a violation has occurred. However, if the opponents 
+have gained immediate and clear control of the ball, the signal shall be 
+disregarded and the game shall continue. 
+
+
+All restrictions related to goaltending and interference shall apply. 
+
+
+29.2 Procedure 
+
+29.2.1 If the game is stopped by an official: 
+
+• For a foul or violation (not for the ball having gone out-of-bounds) by the team 
+not in control of the ball, 
+• For any valid reason by the team not in control of the ball, 
+• For any valid reason not connected with either team, 
+
+
+possession of the ball shall be awarded to the same team that previously had 
+control of the ball. 
+
+If a throw-in is awarded to the same team that previously had control of the ball in 
+the backcourt, the shot clock shall be reset to 24 seconds. 
+
+If such throw-in is administered in the frontcourt, the shot clock shall be reset as 
+follows: 
+
+• If 14 seconds or more is displayed on the shot clock at the time when the game 
+was stopped, the shot clock shall not be reset, but shall continue from the time 
+it was stopped. 
+• If 13 seconds or less is displayed on the shot clock at the time when the game 
+was stopped, the shot clock shall be reset to 14 seconds. 
+
+
+However, if the game is stopped by an official for any valid reason not connected 
+with either team and, in the judgement of an official, the reset of the shot clock 
+would place the opponents at a disadvantage, the shot clock shall continue from the 
+time it was stopped. 
+
+29.2.2 After the ball has touched the ring on an unsuccessful shot for a field goal, a last or 
+only free throw, or on a pass, the shot clock shall be reset to 14 seconds, if the team 
+which regains control of the ball is the same team that was in control of the ball 
+before the ball touched the ring. 
+
+29.2.3 If the shot clock signal sounds in error while a team has control of the ball or 
+neither team has control of the ball, the signal shall be disregarded and the game 
+shall continue. 
+
+However, if in the judgement of an official, the team in control of the ball has been 
+placed at a disadvantage, the game shall be stopped, the shot clock shall be 
+corrected and possession of the ball shall be awarded to that team. 
+
+Art. 30 Ball returned to the backcourt 
+
+30.1 Definition 
+
+30.1.1 A team is in control of a live ball in their frontcourt if 
+
+• a player of that team is touching his frontcourt with both feet while holding, 
+catching or dribbling the ball in his frontcourt, or 
+• the ball is passed between the players of that team in their frontcourt. 
+
+
+30.1.2 A team in control of a live ball in the frontcourt has caused the ball to be illegally 
+returned to their backcourt if a player of that team is the last to touch the ball in his 
+frontcourt and the ball is then first touched by a player of that team 
+
+• who has part of his body in contact with the backcourt or 
+• after the ball has touched the backcourt of that team. 
+
+
+This restriction applies to all situations in a team's frontcourt, including throw-ins. 
+However, it does not apply to a player who jumps from his frontcourt, establishes 
+
+
+new team control while still airborne and then lands with the ball in his team’s 
+backcourt. 
+
+30.2 Rule 
+
+A team which is in control of a live ball in their frontcourt may not cause the ball to 
+be illegally returned to their backcourt. 
+
+30.3 Penalty 
+
+The ball shall be awarded to the opponents for a throw-in in their frontcourt at the 
+place nearest to the infraction except directly behind the backboard. 
+
+Art. 31 Goaltending and Interference 
+
+31.1 Definition 
+
+31.1.1 A shot for a field goal or a free throw: 
+
+• Begins when the ball leaves the hand(s) of a player in the act of shooting. 
+• Ends when the ball: 
+▬ Enters the basket directly from above and remains within or passes 
+through the basket. 
+▬ No longer has the possibility of entering the basket. 
+▬ Touches the ring. 
+▬ Touches the floor. 
+▬ Becomes dead. 
+
+
+
+
+
+31.2 Rule 
+
+31.2.1 Goaltending occurs during a shot for a field goal when a player touches the ball 
+while it is completely above the level of the ring and: 
+
+• It is on its downward flight to the basket, or 
+• After it has touched the backboard. 
+
+
+31.2.2 Goaltending occurs during a shot for a free throw when a player touches the ball 
+while it is in flight to the basket and before it touches the ring. 
+
+31.2.3 The goaltending restrictions apply until: 
+
+• The ball no longer has the possibility of entering the basket. 
+• The ball has touched the ring. 
+
+
+31.2.4 Interference occurs when: 
+
+• After a shot for a field goal or the last or only free throw a player touches the 
+basket or the backboard while the ball is in contact with the ring. 
+• After a free throw followed by an additional free throw(s), a player touches the 
+ball, the basket or the backboard while there is still a possibility that the ball will 
+enter the basket. 
+• A player reaches through the basket from below and touches the ball. 
+• A defensive player touches the ball or the basket while the ball is within the 
+basket, thus preventing the ball from passing through the basket. 
+• A player causes the basket to vibrate or grasps the basket in such a way that, in 
+the judgement of an official, the ball has been prevented from entering the 
+basket or has been caused to enter the basket. 
+• A player grasps the basket to play the ball. 
+
+
+31.2.5 When 
+
+• An official blows the whistle while the ball is in the hands of a player in the act 
+of shooting, or the ball is in flight on a shot for a field goal, 
+
+
+
+• The game clock signal sounds for the end of the period while the ball is in flight 
+on a shot for a field goal, 
+
+
+No player shall touch the ball after it has touched the ring while it still has the 
+possibility of entering the basket. 
+
+All restrictions related to goaltending and interference shall apply. 
+
+31.3 Penalty 
+
+31.3.1 If the violation is committed by an offensive player, no points can be awarded. The 
+ball shall be awarded to the opponents for a throw-in at the free-throw line 
+extended, unless otherwise stated in the rules. 
+
+31.3.2 If the violation is committed by a defensive player, the offensive team is awarded: 
+
+• 1 point, if the ball was released for a free throw. 
+• 2 points, if the ball was released from the 2-point field goal area. 
+• 3 points, if the ball was released from the 3-point field goal area. 
+
+
+The awarding of the points is considered as if the ball had entered the basket. 
+
+31.3.3 If the goaltending is committed by a defensive player during a last or only free 
+throw, 1 point shall be awarded to the offensive team, followed by a technical foul 
+penalty charged against the defensive player. 
+
+
+Drawings\jpg-arbitre\B-rules-dig 5.jpg
+RULE SIX - FOULS 
+
+Art. 32 Fouls 
+
+32.1 Definition 
+
+32.1.1 A foul is an infraction of the rules concerning illegal personal contact with an 
+opponent and/or unsportsmanlike behaviour. 
+
+32.1.2 Any number of fouls may be called against a team. Irrespective of the penalty, each 
+foul shall be charged, entered on the scoresheet against the offender and penalised 
+accordingly. 
+
+Art. 33 Contact: General principles 
+
+33.1 Cylinder principle 
+
+The cylinder principle is defined as the space within an imaginary cylinder occupied 
+by a player on the floor. It includes the space above the player and is limited to: 
+
+• The front by the palms of the hands, 
+• The rear by the buttocks, and 
+• The sides by the outer edge of the arms and legs. 
+
+
+The hands and arms may be extended in front of the torso no further than the 
+position of the feet, with the arms bent at the elbows so that the forearms and hands 
+are raised. The distance between his feet will vary according to his height. 
+
+ 
+
+
+
+Diagram 5 Cylinder principle 
+
+33.2 Principle of verticality 
+
+During the game, each player has the right to occupy any position (cylinder) on the 
+playing court not already occupied by an opponent. 
+
+This principle protects the space on the floor which he occupies and the space 
+above him when he jumps vertically within that space. 
+
+
+As soon as the player leaves his vertical position (cylinder) and body contact occurs 
+with an opponent who had already established his own vertical position (cylinder), 
+the player who left his vertical position (cylinder) is responsible for the contact. 
+
+The defensive player must not be penalised for leaving the floor vertically (within his 
+cylinder) or having his hands and arms extended above him within his own cylinder. 
+
+The offensive player, whether on the floor or airborne, shall not cause contact with 
+the defensive player in a legal guarding position by: 
+
+• Using his arms to create more space for himself (pushing off). 
+• Spreading his legs or arms to cause contact during or immediately after a shot 
+for a field goal. 
+
+
+33.3 Legal guarding position 
+
+A defensive player has established an initial legal guarding position when: 
+
+• He is facing his opponent, and 
+• He has both feet on the floor. 
+
+
+The legal guarding position extends vertically above him (cylinder) from the floor to 
+the ceiling. He may raise his arms and hands above his head or jump vertically but 
+he must maintain them in a vertical position inside the imaginary cylinder. 
+
+33.4 Guarding a player who controls the ball 
+
+When guarding a player who controls (holding or dribbling) the ball, the elements of 
+time and distance do not apply. 
+
+The player with the ball must expect to be guarded and must be prepared to stop or 
+change his direction whenever an opponent takes an initial legal guarding position 
+in front of him, even if this is done within a fraction of a second. 
+
+The guarding (defensive) player must establish an initial legal guarding position 
+without causing contact before taking his position. 
+
+Once the defensive player has established an initial legal guarding position, he may 
+move to guard his opponent, but he may not extend his arms, shoulders, hips or legs 
+to prevent the dribbler from passing by him. 
+
+When judging a charge/block situation involving a player with the ball, an official 
+shall use the following principles: 
+
+• The defensive player must establish an initial legal guarding position by facing 
+the player with the ball and having both feet on the floor. 
+• The defensive player may remain stationary, jump vertically, move laterally or 
+backwards in order to maintain the initial legal guarding position. 
+• When moving to maintain the initial legal guarding position, one foot or both 
+feet may be off the floor for an instant, as long as the movement is lateral or 
+backwards, but not towards the player with the ball. 
+• Contact must occur on the torso, in which case the defensive player would be 
+considered as having been at the place of contact first. 
+• Having established a legal guarding position the defensive player may turn 
+within his cylinder to avoid injury. 
+
+
+In any of the above situations, the contact shall be considered as having been 
+caused by the player with the ball. 
+
+
+33.5 Guarding a player who does not control the ball 
+
+A player who does not control the ball is entitled to move freely on the playing court 
+and take any position not already occupied by another player. 
+
+When guarding a player who does not control the ball, the elements of time and 
+distance shall apply. A defensive player cannot take a position so near and/or so 
+quickly in the path of a moving opponent that the latter does not have sufficient time 
+or distance either to stop or change his direction. 
+
+The distance is directly proportional to the speed of the opponent, but never less 
+than 1 normal step. 
+
+If a defensive player does not respect the elements of time and distance in taking 
+his initial legal guarding position and contact with an opponent occurs, he is 
+responsible for the contact. 
+
+Once a defensive player has established an initial legal guarding position, he may 
+move to guard his opponent. He may not prevent him from passing by extending his 
+arms, shoulders, hips or legs in his path. He may turn within his cylinder to avoid 
+injury. 
+
+33.6 A player who is in the air 
+
+A player who has jumped into the air from a place on the playing court has the right 
+to land again at the same place. 
+
+He has the right to land on another place on the playing court provided that the 
+landing place and the direct path between the take-off and landing place is not 
+already occupied by an opponent(s) at the time of take-off. 
+
+If a player has taken off and landed but his momentum causes him to contact an 
+opponent who has taken a legal guarding position beyond the landing place, the 
+jumper is responsible for the contact. 
+
+An opponent may not move into the path of a player after that player has jumped 
+into the air. 
+
+Moving under a player who is in the air and causing contact is usually an unsports-
+manlike foul and in certain circumstances may be a disqualifying foul. 
+
+33.7 Screening: Legal and illegal 
+
+Screening is an attempt to delay or prevent an opponent without the ball from 
+reaching a desired position on the playing court. 
+
+Legal screening is when the player who is screening an opponent: 
+
+• Was stationary (inside his cylinder) when contact occurs. 
+• Had both feet on the floor when contact occurs. 
+
+
+Illegal screening is when the player who is screening an opponent: 
+
+• Was moving when contact occurred. 
+• Did not give sufficient distance in setting a screen outside the field of vision of a 
+stationary opponent when contact occurred. 
+• Did not respect the elements of time and distance of an opponent in motion 
+when contact occurred. 
+
+
+
+If the screen is set within the field of vision of a stationary opponent (front or 
+lateral), the screener may establish the screen as close to him as he desires, 
+provided there is no contact. 
+
+If the screen is set outside the field of vision of a stationary opponent, the screener 
+must permit the opponent to take 1 normal step towards the screen without making 
+contact. 
+
+If the opponent is in motion, the elements of time and distance shall apply. The 
+screener must leave enough space so that the player who is being screened is able 
+to avoid the screen by stopping or changing direction. 
+
+The distance required is never less than 1 and never more than 2 normal steps. 
+
+A player who is legally screened is responsible for any contact with the player who 
+has set the screen. 
+
+33.8 Charging 
+
+Charging is illegal personal contact, with or without the ball, by pushing or moving 
+into an opponent’s torso. 
+
+33.9 Blocking 
+
+Blocking is illegal personal contact which impedes the progress of an opponent 
+with or without the ball. 
+
+A player who is attempting to screen is committing a blocking foul if contact occurs 
+when he is moving and his opponent is stationary or retreating from him. 
+
+If a player disregards the ball, faces an opponent and shifts his position as the 
+opponent shifts, he is primarily responsible for any contact that occurs, unless other 
+factors are involved. 
+
+The expression 'unless other factors are involved' refers to deliberate pushing, 
+charging or holding of the player who is being screened. 
+
+It is legal for a player to extend his arm(s) or elbow(s) outside of his cylinder in 
+taking position on the floor but they must be moved inside his cylinder when an 
+opponent attempts to pass by. If the arm(s) or elbow(s) are outside his cylinder and 
+contact occurs, it is blocking or holding. 
+
+33.10 No-charge semi-circle areas 
+
+The no-charge semi-circle areas are drawn on the playing court for the purpose of 
+designating a specific area for the interpretation of charge/block situations under 
+the basket. 
+
+On any penetration play into the no-charge semi-circle area any contact caused by 
+an airborne offensive player with a defensive player inside the no-charge semi-
+circle shall not be called as an offensive foul, unless the offensive player is illegally 
+using his hands, arms, legs or body. This rule applies when 
+
+• the offensive player is in control of the ball whilst airborne, and 
+• he attempts a shot for a field goal or passes off the ball, and 
+• the defensive player has one foot or both feet in contact with the no-charge 
+semi-circle area. 
+
+
+
+33.11 Contacting an opponent with the hand(s) and/or arm(s) 
+
+The touching of an opponent with a hand(s) is, in itself, not necessarily a foul. 
+
+The officials shall decide whether the player who caused the contact has gained an 
+advantage. If contact caused by a player in any way restricts the freedom of 
+movement of an opponent, such contact is a foul. 
+
+Illegal use of the hand(s) or extended arm(s) occurs when the defensive player is in 
+a guarding position and his hand(s) or arm(s) is placed upon and remains in contact 
+with an opponent with or without the ball, to impede his progress. 
+
+To repeatedly touch or 'jab' an opponent with or without the ball is a foul, as it may 
+lead to rough play. 
+
+It is a foul by an offensive player with the ball to: 
+
+• 'Hook' or wrap an arm or an elbow around a defensive player in order to obtain 
+an advantage. 
+• 'Push off' to prevent the defensive player from playing or attempting to play the 
+ball, or to create more space for himself. 
+• Use an extended forearm or hand, while dribbling, to prevent an opponent from 
+gaining control of the ball. 
+
+
+It is a foul by an offensive player without the ball to 'push off' to: 
+
+• Get free to receive the ball. 
+• Prevent the defensive player from playing or attempting to play the ball. 
+• Create more space for himself. 
+
+
+33.12 Post play 
+
+The principle of verticality (cylinder principle) applies also to post play. 
+
+The offensive player in the post position and the defensive player guarding him must 
+respect each other's rights to a vertical position (cylinder). 
+
+It is a foul by an offensive or defensive player in the post position to shoulder or hip 
+his opponent out of position or to interfere with his opponent's freedom of 
+movement using extended arms, shoulders, hips, legs or other parts of the body. 
+
+33.13 Illegal guarding from the rear 
+
+Illegal guarding from the rear is personal contact with an opponent, by a defensive 
+player, from behind. The fact that the defensive player is attempting to play the ball 
+does not justify his contact with an opponent from the rear. 
+
+33.14 Holding 
+
+Holding is illegal personal contact with an opponent that interferes with his freedom 
+of movement. This contact (holding) can occur with any part of the body. 
+
+33.15 Pushing 
+
+Pushing is illegal personal contact with any part of the body where a player forcibly 
+moves or attempts to move an opponent with or without the ball. 
+
+
+Art. 34 Personal foul 
+
+34.1 Definition 
+
+34.1.1 A personal foul is a player’s illegal contact with an opponent, whether the ball is live 
+or dead. 
+
+A player shall not hold, block, push, charge, trip or impede the progress of an oppo-
+nent by extending his hand, arm, elbow, shoulder, hip, leg, knee or foot, nor by ben-
+ding his body into an 'abnormal' position (outside his cylinder), nor shall he indulge 
+in any rough or violent play. 
+
+34.2 Penalty 
+
+A personal foul shall be charged against the offender. 
+
+34.2.1 If the foul is committed on a player not in the act of shooting: 
+
+• The game shall be resumed with a throw-in by the non-offending team at the 
+place nearest to the infraction. 
+• If the offending team is in the team foul penalty situation, then Art. 41 will apply. 
+
+
+34.2.2 If the foul is committed on a player in the act of shooting, that player shall be 
+awarded a number of free throws as follows: 
+
+• If the shot released from the field goal area is successful, the goal shall count 
+and, in addition, 1 free throw. 
+• If the shot released from the 2-point field goal area is unsuccessful, 2 free 
+throws. 
+• If the shot released from the 3-point field goal area is unsuccessful, 3 free 
+throws. 
+• If the player is fouled as, or just before, the game clock signal sounds for the 
+end of the period or as, or just before, the shot clock signal sounds, while the 
+ball is still in the player's hand(s) and the field goal is successful, the goal shall 
+not count and 2 or 3 free throws will be awarded. 
+
+
+Art. 35 Double foul 
+
+35.1 Definition 
+
+35.1.1 A double foul is a situation in which 2 opponents commit personal fouls against 
+each other at approximately the same time. 
+
+35.2 Penalty 
+
+A personal foul shall be charged against each offender. No free throws shall be 
+awarded and the game shall be resumed as follows: 
+
+If at approximately the same time as the double foul 
+
+• A valid field goal, or a last or only free throw is scored, the ball shall be awar-
+ded to the non-scoring team for a throw-in at any place at the endline. 
+• A team had control of the ball or was entitled to the ball, the ball shall be 
+awarded to this team for a throw-in at the place nearest to the infraction. 
+• Neither team had control of the ball nor was entitled to the ball, a jump ball 
+situation occurs. 
+
+
+
+Art. 36 Technical foul 
+
+36.1 Rules of conduct 
+
+36.1.1 The proper conduct of the game demands the full and loyal cooperation of the 
+players and team bench personnel with the officials, table officials and commissio-
+ner, if present. 
+
+36.1.2 Each team shall do its best to secure victory, but this must be done in the spirit of 
+sportsmanship and fair play. 
+
+36.1.3 Any deliberate or repeated non-cooperation or non-compliance with the spirit and 
+intent of this rule shall be considered as a technical foul. 
+
+36.1.4 The official may prevent technical fouls by giving warnings or even overlooking 
+minor infractions which are obviously unintentional and have no direct effect upon 
+the game, unless there is repetition of the same infraction after the warning. 
+
+36.1.5 If an infraction is recognised after the ball becomes live, the game shall be stopped 
+and a technical foul charged. The penalty shall be administered as if the technical 
+foul had occurred at the time it is charged. Whatever occurred during the interval 
+between the infraction and the game being stopped shall remain valid. 
+
+36.2 Violence 
+
+36.2.1 Acts of violence may occur during the game, contrary to the spirit of sportsmanship 
+and fair play. These should be stopped immediately by the officials and, if neces-
+sary, by public order enforcement officers. 
+
+36.2.2 Whenever acts of violence occur involving players or team bench personnel on the 
+playing court or in its vicinity, the officials shall take the necessary action to stop 
+them. 
+
+36.2.3 Any of the above persons who are guilty of flagrant acts of aggression against 
+opponents or officials shall be disqualified. The referee must report the incident to 
+the organising body of the competition. 
+
+36.2.4 Public order enforcement officers may enter the playing court only if requested to 
+do so by the officials. However, should spectators enter the playing court with the 
+obvious intention of committing acts of violence, the public order enforcement 
+officers must intervene immediately to protect the teams and officials. 
+
+36.2.5 All other areas, including entrances, exits, hallways, dressing rooms, etc., come 
+under the jurisdiction of the organising body of the competition and the public order 
+enforcement officers. 
+
+36.2.6 Physical actions by players or team bench personnel which could lead to damaging 
+of game equipment must not be permitted by the officials. 
+
+When behaviour of this nature is observed by the officials, the coach of the 
+offending team shall be given a warning. 
+
+Should the action(s) be repeated, a technical foul shall immediately be called on the 
+individual(s) involved. 
+
+
+36.3 Definition 
+
+36.3.1 A technical foul is a player non-contact foul of a behavioural nature including, but 
+not limited to: 
+
+• Disregarding warnings given by officials. 
+• Disrespectfully touching the officials, the commissioner, the table officials or 
+the team bench personnel. 
+• Disrespectfully communicating with the officials, the commissioner, the table 
+officials or the opponents. 
+• Using language or gestures likely to offend or incite the spectators. 
+• Baiting an opponent or obstructing his vision by waving his hands near his 
+eyes. 
+• Excessive swinging of elbows. 
+• Delaying the game by deliberately touching the ball after it passes through the 
+basket or by preventing a throw-in from being taken promptly. 
+• Falling down to fake a foul. 
+• Hanging on the ring in such a way that the weight of the player is supported by 
+the ring, unless a player grasps the ring momentarily following a dunk shot or, in 
+the judgement of an official, is trying to prevent injury to himself or to another 
+player. 
+• Goaltending during the last or only free throw by a defensive player. The 
+offensive team shall be awarded 1 point, followed by the technical foul penalty 
+charged against the defensive player. 
+
+
+36.3.2 A technical foul by team bench personnel is a foul for disrespectfully communica-
+ting with or touching the officials, the commissioner, the table officials or the 
+opponents, or an infraction of a procedural or an administrative nature. 
+
+36.3.3 A player shall be disqualified for the remainder of the game when he is charged with 
+2 technical fouls. 
+
+36.3.4 A coach shall be disqualified for the remainder of the game when: 
+
+• He is charged with 2 technical fouls ('C') as a result of his personal 
+unsportsmanlike behaviour. 
+• He is charged with 3 technical fouls, either all of them ('B') or one of them ('C'), 
+as a result of the unsportsmanlike behaviour of other team bench personnel. 
+
+
+36.3.5 If a player or a coach is disqualified under Art. 36.3.3 or Art. 36.3.4, that technical 
+foul shall be the only foul to be penalised and no additional penalty for the 
+disqualification shall be administered. 
+
+36.4 Penalty 
+
+36.4.1 If a technical foul is committed: 
+
+• By a player, a technical foul shall be charged against him as a player foul and 
+shall count as one of the team fouls. 
+• By team bench personnel, a technical foul shall be charged against the coach 
+and shall not count as one of the team fouls. 
+
+
+36.4.2 The opponents shall be awarded 1 free throw, followed by: 
+
+• A throw-in at the centre line extended, opposite the scorer’s table. 
+• A jump ball in the centre circle to start the first period. 
+
+
+
+Art. 37 Unsportsmanlike foul 
+
+37.1 Definition 
+
+37.1.1 An unsportsmanlike foul is a player contact foul which, in the judgement of an 
+official is: 
+
+• Not a legitimate attempt to directly play the ball within the spirit and intent of 
+the rules. 
+• Excessive, hard contact caused by a player in an effort to play the ball. 
+• Contact by the defensive player from behind or laterally on an opponent in an 
+attempt to stop the fast break and there is no defensive player between the 
+offensive player and the opponent’s basket. 
+• Contact by the defensive player on an opponent on the court during the last 2 
+minutes in the fourth period and in each extra period, when the ball is out-of-
+bounds for a throw-in and still in the hands of the official or at the disposal of 
+the player taking the throw-in. 
+
+
+37.1.2 The official must interpret the unsportsmanlike fouls consistently throughout the 
+game and to judge only the action. 
+
+37.2 Penalty 
+
+37.2.1 An unsportsmanlike foul shall be charged against the offender. 
+
+37.2.2 Free throw(s) shall be awarded to the player who was fouled, followed by: 
+
+• A throw-in at the centre line extended, opposite the scorer’s table. 
+• A jump ball in the centre circle to begin the first period. 
+
+
+The number of free throws shall be awarded as follows: 
+
+• If the foul is committed on a player not in the act of shooting: 2 free throws. 
+• If the foul is committed on a player in the act of shooting: the goal, if made, shall 
+count and, in addition, 1 free throw. 
+• If the foul is committed on a player in the act of shooting and the goal is not 
+made, 2 or 3 free throws. 
+
+
+37.2.3 A player shall be disqualified for the remainder of the game when he is charged with 
+2 unsportsmanlike fouls. 
+
+37.2.4 If a player is disqualified under Art. 37.2.3, the unsportsmanlike foul shall be the only 
+foul to be penalised and no additional penalty for the disqualification shall be 
+administered. 
+
+Art. 38 Disqualifying foul 
+
+38.1 Definition 
+
+38.1.1 A disqualifying foul is any flagrant unsportsmanlike action by a player or team bench 
+personnel. 
+
+38.1.2 A coach who has received a disqualifying foul shall be replaced by the assistant 
+coach as entered on the scoresheet. If no assistant coach is entered on the 
+scoresheet, he shall be replaced by the captain (CAP). 
+
+
+38.2 Penalty 
+
+38.2.1 A disqualifying foul shall be charged against the offender. 
+
+38.2.2 Whenever the offender is disqualified according to the respective articles of these 
+rules, he shall go to and remain in his team's dressing room for the duration of the 
+game or, if he so chooses, he shall leave the building. 
+
+38.2.3 Free throw(s) shall be awarded: 
+
+• To any opponent, as designated by his coach in the case of a non-contact foul. 
+• To the player who was fouled in the case of a contact foul. 
+
+
+Followed by: 
+
+• A throw-in at the centre line extended, opposite the scorer’s table. 
+• A jump ball in the centre circle to begin the first period. 
+
+
+38.2.4 The number of free throws shall be awarded as follows: 
+
+• If the foul is a non-contact foul: 2 free throws. 
+• If the foul is committed on a player not in the act of shooting: 2 free throws. 
+• If the foul is committed on a player in the act of shooting: the goal, if made, shall 
+count and in addition 1 free throw. 
+• If the foul is committed on a player in the act of shooting and the goal is not 
+made: 2 or 3 free throws. 
+
+
+Art. 39 Fighting 
+
+39.1 Definition 
+
+Fighting is physical interaction between 2 or more opponents (players and team 
+bench personnel). 
+
+This article only applies to the team bench personnel who leave the confines of the 
+team bench area during a fight or during any situation which may lead to a fight. 
+
+39.2 Rule 
+
+39.2.1 Substitutes, excluded players or team followers who leave the team bench area 
+during a fight, or during any situation which may lead to a fight, shall be disqualified. 
+
+39.2.2 Only the coach and/or assistant coach are permitted to leave the team bench area 
+during a fight, or during any situation which may lead to a fight, to assist the officials 
+to maintain or to restore order. In this situation, they shall not be disqualified. 
+
+39.2.3 If a coach and/or assistant coach leaves the team bench area and does not assist 
+or attempt to assist the officials to maintain or to restore order, they shall be 
+disqualified. 
+
+39.3 Penalty 
+
+39.3.1 Irrespective of the number of team bench personnel disqualified for leaving the 
+team bench area, a single technical foul ('B') shall be charged against the coach. 
+
+39.3.2 If team bench personnel of both teams is disqualified under this article and there 
+are no other foul penalties remaining for administration, the game shall be resumed 
+as follows. 
+
+If at approximately the same time as the game was stopped because of the fighting: 
+
+
+• A valid field goal is scored, the ball shall be awarded to the non-scoring team 
+for a throw-in at any place at the endline. 
+• A team had control of the ball or was entitled to the ball, the ball shall be 
+awarded to this team for a throw-in at the centre line extended, opposite the 
+scorer’s table. 
+• Neither team has control of the ball nor was entitled to the ball, a jump ball 
+situation occurs. 
+
+
+39.3.3 All disqualifying fouls shall be recorded as described in B.8.3 and shall not count as 
+a team foul. 
+
+39.3.4 All possible foul penalties against players on the playing court involved in fighting or 
+any situation which leads to a fight, shall be dealt with in accordance with Art. 42. 
+
+
+RULE SEVEN - GENERAL PROVISIONS 
+
+Art. 40 5 fouls by a player 
+
+40.1 A player who has committed 5 fouls shall be informed by an official and must leave 
+the game immediately. He must be substituted within 30 seconds. 
+
+40.2 A foul by a player who has previously committed 5 fouls is considered as an 
+excluded player’s foul and it is charged and entered in the scoresheet against the 
+coach ('B'). 
+
+Art. 41 Team fouls: Penalty 
+
+41.1 Definition 
+
+41.1.1 A team is in the team foul penalty situation when it has committed 4 team fouls in a 
+period. 
+
+41.1.2 All team fouls committed in an interval of play shall be considered as being 
+committed in the following period or extra period. 
+
+41.1.3 All team fouls committed in an extra period shall be considered as being committed 
+in the fourth period. 
+
+41.2 Rule 
+
+41.2.1 When a team is in the team foul penalty situation, all subsequent player personal 
+fouls committed on a player not in the act of shooting shall be penalised by 2 free 
+throws, instead of a throw-in. 
+
+41.2.2 If a personal foul is committed by a player of the team in control of the live ball, or of 
+the team entitled to the ball, such a foul shall be penalised by a throw-in for the 
+opponents. 
+
+Art. 42 Special situations 
+
+42.1 Definition 
+
+In the same stopped-clock period which follows an infraction, special situations 
+may arise when additional foul(s) are committed. 
+
+42.2 Procedure 
+
+42.2.1 All fouls shall be charged and all penalties identified. 
+
+42.2.2 The order in which all infractions occurred shall be determined. 
+
+42.2.3 All equal penalties against the teams and all double foul penalties shall be cancelled 
+in the order in which they were called. Once the penalties have been recorded and 
+cancelled they are considered as never having occurred. 
+
+42.2.4 The right to possession of the ball as part of the last penalty shall cancel any prior 
+rights to possession of the ball. 
+
+
+42.2.5 Once the ball has become live on the first or only free throw or on a throw-in 
+penalty, that penalty can no longer be used for cancelling any remaining penalties. 
+
+42.2.6 All remaining penalties shall be administered in the order in which they were called. 
+
+42.2.7 If, after the cancellation of equal penalties against the teams, there are no other 
+penalties remaining for administration, the game shall be resumed as follows. 
+
+If at approximately the same time as the first infraction: 
+
+• A valid field goal is scored, the ball shall be awarded to the non-scoring team 
+for a throw-in at any place at the endline. 
+• A team had control of the ball or was entitled to the ball, the ball shall be 
+awarded to this team for a throw-in at the place nearest to the first infraction. 
+• Neither team had control of the ball nor was entitled to the ball, a jump ball 
+situation occurs. 
+
+
+Art. 43 Free throws 
+
+43.1 Definition 
+
+43.1.1 A free throw is an opportunity given to a player to score 1 point, uncontested, from a 
+position behind the free-throw line and inside the semi-circle. 
+
+43.1.2 A set of free throws is defined as all free throws and/or subsequent possession of 
+the ball resulting from a single foul penalty. 
+
+43.2 Rule 
+
+43.2.1 When a personal foul is called the free throw(s) shall be awarded as follows: 
+
+• The player against whom the foul was committed shall attempt the free 
+throw(s). 
+• If there is a request for him to be substituted, he must attempt the free throw(s) 
+before leaving the game. 
+• If he must leave the game due to injury, having committed his 5 fouls or having 
+been disqualified, his substitute shall attempt the free throw(s). If no substitute 
+is available, any team-mate as designated by his coach shall attempt the free 
+throw(s). 
+
+
+43.2.2 When a technical foul is called, any member of the opponent’s team as designated 
+by his coach shall attempt the free throws. 
+
+43.2.3 The free-throw shooter shall: 
+
+• Take a position behind the free-throw line and inside the semi-circle. 
+• Use any method to shoot a free throw in such a way that the ball enters the 
+basket from above or the ball touches the ring. 
+• Release the ball within 5 seconds after it is placed at his disposal by the official. 
+• Not touch the free-throw line or enter the restricted area until the ball has 
+entered the basket or has touched the ring. 
+• Not fake a free throw. 
+
+
+43.2.4 The players in the free-throw rebound places shall be entitled to occupy alternating 
+positions in these spaces, which are considered to be 1 m in depth (Diagram 6). 
+
+
+During the free throws these players shall not: 
+
+• Occupy free-throw rebound places to which they are not entitled. 
+• Enter the restricted area, the neutral zone or leave the free-throw rebound 
+place until the ball has left the hand(s) of the free-throw shooter. 
+• Distract the free-throw shooter by their actions. 
+
+
+ 
+
+
+
+Diagram 6 Players' positions during free throws 
+
+43.2.5 Players not in the free-throw rebound places shall remain behind the free-throw line 
+extended and behind the 3-point field goal line until the free throw ends. 
+
+43.2.6 During a free throw(s) to be followed by another set(s) of free throws or by a throw-
+in, all players shall remain behind the free-throw line extended and behind the 
+3-point field goal line. 
+
+An infraction of Art. 43.2.3, 43.2.4, 43.2.5 and 43.2.6 is a violation. 
+
+43.3 Penalty 
+
+43.3.1 If a free throw is successful and the violation(s) is committed by the free-throw 
+shooter, the point, if made, shall not count. 
+
+Any other player’s violation which occurs immediately before, at approximately the 
+same time as, or after the violation committed by the free-throw shooter shall be 
+disregarded. 
+
+The ball shall be awarded to the opponents for a throw-in at the free-throw line 
+extended unless there is a further free throw(s) or possession penalty to be 
+administered. 
+
+43.3.2 If a free throw is successful and the violation(s) is committed by any player(s) 
+other than the free-throw shooter: 
+
+• The point, if made, shall count. 
+• The violation(s) shall be disregarded. 
+
+
+
+In case of the last or only free throw, the ball shall be awarded to the opponents for 
+a throw-in at any place at the endline. 
+
+43.3.3 If a free throw is not successful and the violation is committed by: 
+
+• A free-throw shooter or his team-mate on the last or only free throw, the ball 
+shall be awarded to the opponents for a throw-in at the free-throw line 
+extended unless that team is entitled to further possession. 
+• An opponent of the free-throw shooter, a substitute free throw shall be 
+awarded to the free-throw shooter. 
+• Both teams, on the last or only free throw, a jump ball situation occurs. 
+
+
+Art. 44 Correctable errors 
+
+44.1 Definition 
+
+Officials may correct an error if a rule is inadvertently disregarded in the following 
+situations only: 
+
+• Awarding an unmerited free throw(s). 
+• Failure to award a merited free throw(s). 
+• Erroneous awarding or cancelling of a point(s). 
+• Permitting the wrong player to attempt a free throw(s). 
+
+
+44.2 General procedure 
+
+44.2.1 To be correctable the above-mentioned errors must be recognized by the officials, 
+commissioner, if present, or table officials before the ball becomes live following the 
+first dead ball after the game clock has started following the error. 
+
+44.2.2 An official may stop the game immediately upon recognition of a correctable error, 
+as long as neither team is placed at a disadvantage. 
+
+44.2.3 Any fouls committed, points scored, time used, additional activity which may have 
+occurred after the error has occurred and before its recognition, shall remain valid. 
+
+44.2.4 After the correction of the error the game shall be resumed at the point it was 
+stopped to correct the error, unless otherwise stated in these rules. The ball shall be 
+awarded to the team entitled to the ball at the time the game was stopped for the 
+correction of the error. 
+
+44.2.5 Once an error that is still correctable has been recognised, and: 
+
+• If the player involved in the correction of the error is on the team bench after 
+being legally substituted, he must re-enter the playing court, to participate in 
+the correction of the error, at which point he becomes a player. 
+
+
+Upon completion of the correction, he may remain in the game unless a legal 
+substitution has been requested again, in which case the player may leave the 
+playing court. 
+
+• If the player was substituted due to his injury, having committed 5 fouls or 
+having been disqualified, his substitute must participate in the correction of the 
+error. 
+
+
+44.2.6 Correctable errors cannot be corrected after the referee has signed the scoresheet. 
+
+44.2.7 Any error in scorekeeping, time-keeping and shot clock operations by the table 
+officials involving the score, number of fouls, number of time-outs, game clock and 
+
+
+shot clock time consumed or omitted, may be corrected by the officials at any time 
+before the referee signs the scoresheet. 
+
+44.3 Special procedure 
+
+44.3.1 Awarding an unmerited free throw(s). 
+
+The free throw(s) attempted as a result of the error shall be cancelled and the game 
+shall be resumed as follows: 
+
+• If the game clock has not started, the ball shall be awarded for a throw-in to the 
+team whose free throws had been cancelled from the free-throw line extended. 
+• If the game clock has started and: 
+▬ The team in control of the ball or entitled to the ball at the time the error is 
+recognised is the same team that was in control of the ball at the time the 
+error occurred, or 
+▬ Neither team is in control of the ball at the time the error is recognised, 
+
+
+
+
+
+the ball shall be awarded to the team entitled to the ball at the time of the error. 
+
+• If the game clock has started and, at the time the error is recognised, the team 
+in control of the ball or entitled to the ball is the opponent of the team that was 
+in control of the ball at the time of the error, a jump ball situation occurs. 
+• If the game clock has started and, at the time the error is recognised, a foul 
+penalty involving a free throw(s) has been awarded, the free throw(s) shall be 
+administered and the ball shall be awarded for a throw-in to the team that was 
+in control of the ball at the time the error occurred. 
+
+
+44.3.2 Failure to award a merited free throw(s). 
+
+• If there has been no change in possession of the ball after the error occurred, 
+the game shall be resumed after correction of the error as after any normal free 
+throw. 
+• If the same team scores after having been erroneously awarded possession of 
+the ball for a throw-in, the error shall be disregarded. 
+
+
+44.3.3 Permitting the wrong player to attempt a free throw(s). 
+
+The free throw(s) attempted, and the possession of the ball if part of the penalty, 
+shall be cancelled and the ball shall be awarded to the opponents for a throw-in at 
+the free-throw line extended, unless penalties for further infractions are to be 
+administered. 
+
+
+RULE EIGHT - OFFICIALS, TABLE OFFICIALS, COMMISSIONER: DUTIES AND POWERS 
+
+Art. 45 Officials, table officials and commissioner 
+
+45.1 The officials shall be a referee and 1 or 2 umpire(s). They shall be assisted by the 
+table officials and by a commissioner, if present. 
+
+45.2 The table officials shall be a scorer, an assistant scorer, a timer and a shot clock 
+operator. 
+
+45.3 The commissioner shall sit between the scorer and the timer. His primary duty 
+during the game is to supervise the work of the table officials and to assist the 
+referee and umpire(s) in the smooth functioning of the game. 
+
+45.4 The officials of a given game should not be connected in any way with either team 
+on the playing court. 
+
+45.5 The officials, the table officials and the commissioner shall conduct the game 
+in accordance with these rules and have no authority to change them. 
+
+45.6 The officials' uniform shall consist of an officials’ shirt, long black trousers, black 
+socks and black basketball shoes. 
+
+45.7 The officials and table officials shall be uniformly dressed. 
+
+Art. 46 Referee: Duties and powers 
+
+The referee shall: 
+
+46.1 Inspect and approve all equipment to be used during the game. 
+
+46.2 Designate the official game clock, shot clock, stopwatch and recognise the table 
+officials. 
+
+46.3 Select a game ball from at least 2 used balls provided by the home team. Should 
+neither of these balls be suitable as the game ball, he may select the best quality 
+ball available. 
+
+46.4 Not permit any player to wear objects that may cause injury to other players. 
+
+46.5 Administer a jump ball to start the first period and an alternating possession throw-
+in to start all other periods. 
+
+46.6 Have the power to stop a game when conditions warrant it. 
+
+46.7 Have the power to determine that a team shall forfeit the game. 
+
+46.8 Carefully examine the scoresheet at the end of playing time or at any time he feels is 
+necessary. 
+
+46.9 Approve and sign the scoresheet at the end of playing time, terminating the offi-
+cials' administration and connection with the game. The officials' power shall be-
+gin when they arrive on the playing court 20 minutes before the game is scheduled 
+to begin, and end when the game clock signal sounds for the end of the playing time 
+as approved by the officials. 
+
+46.10 Record on the reverse side of the scoresheet, before signing it: 
+
+• Any forfeit or disqualifying foul, 
+• Any unsportsmanlike behaviour by players or team bench personnel that 
+occurs prior to the 20 minutes before the game is scheduled to begin, or 
+between the end of playing time and the approval and signing of the 
+scoresheet. 
+
+
+
+In such a case, the referee (commissioner, if present) must send a detailed report to 
+the organising body of the competition. 
+
+46.11 Make the final decision whenever necessary or when the officials disagree. To 
+make a final decision he may consult the umpire(s), the commissioner, if present, 
+and/or the table officials. 
+
+46.12 Be authorised to approve before the game and use, if available, an Instant Replay 
+System (IRS) to decide before he signs the scoresheet 
+
+• at the end of the period or extra period 
+▬ whether a shot for a successful field goal was released before the game 
+clock signal sounded for the end of the period. 
+▬ whether and how much time shall be displayed on the game clock, if: 
+
+
+
+▪ An out-of-bounds violation of the shooter occurred. 
+▪ A shot clock violation occurred. 
+▪ An 8-second violation occurred. 
+▪ A foul was called before the end of playing time. 
+• when the game clock shows 2:00 minutes or less in the fourth period and in 
+each extra period, 
+▬ whether a shot for a successful field goal was released before the shot 
+clock signal sounded for the end of the period. 
+▬ whether a shot for a field goal was released before any foul was called. 
+▬ to identify the player who has caused the ball to go out-of-bounds. 
+
+
+
+• during any time of the game 
+▬ whether the successful field goal shall count for 2 or 3 points. 
+▬ after a malfunction of the game clock or the shot clock occurs, on how 
+much time the clock(s) shall be corrected. 
+▬ to identify the correct free-throw shooter. 
+▬ to identify the involvement of team members and team followers during a 
+fight. 
+
+
+
+
+
+46.13 Have the power to make decisions on any point not specifically covered by 
+these rules. 
+
+Art. 47 Officials: Duties and powers 
+
+47.1 The officials shall have the power to make decisions on infractions of the rules 
+committed either within or outside the boundary line including the scorer's table, 
+the team benches and the areas immediately behind the lines. 
+
+47.2 The officials shall blow their whistles when an infraction of the rules occurs, a 
+period ends or the officials find it necessary to stop the game. The officials shall not 
+blow their whistles after a successful field goal, a successful free throw or when 
+the ball becomes live. 
+
+47.3 When deciding on a personal contact or violation, the officials shall, in each 
+instance, have regard to and weigh up the following fundamental principles: 
+
+• The spirit and intent of the rules and the need to uphold the integrity of the 
+game. 
+• Consistency in application of the concept of 'advantage/disadvantage'. The 
+officials should not seek to interrupt the flow of the game unnecessarily in order 
+to penalise incidental personal contact which does not give the player 
+responsible an advantage nor place his opponent at a disadvantage. 
+
+
+
+• Consistency in the application of common sense to each game, bearing in mind 
+the abilities of the players concerned and their attitude and conduct during the 
+game. 
+• Consistency in the maintenance of a balance between game control and game 
+flow, having a 'feeling' for what the participants are trying to do and calling 
+what is right for the game. 
+
+
+47.4 Should a protest be filed by one of the teams, the referee (commissioner, if present) 
+shall, within 1 hour following the end of playing time, report the protest to the 
+organising body of the competition. 
+
+47.5 If an official is injured or for any other reason cannot continue to perform his duties 
+within 5 minutes of the incident, the game shall be resumed. The remaining 
+official(s) will officiate alone for the remainder of the game, unless there is the 
+possibility of replacing the injured official with a qualified substitute official. After 
+consulting with the commissioner, if present, the remaining official(s) will decide 
+upon the possible replacement. 
+
+47.6 For all international games, if verbal communication is necessary to make a decision 
+clear, it shall be conducted in the English language. 
+
+47.7 Each official has the power to make decisions within the limits of his duties, 
+but he has no authority to disregard or question decisions made by the other 
+official(s). 
+
+47.8 Decisions made by the officials are final and cannot be contested or disregar-
+ded. 
+
+Art. 48 Scorer and assistant scorer: Duties 
+
+48.1 The scorer shall be provided with a scoresheet and shall keep a record of: 
+
+• Teams, by entering the names and numbers of the players who are to start the 
+game and of all substitutes who enter the game. When there is an infraction of 
+the rules regarding the 5 players to start the game, substitutions or numbers of 
+players, he shall notify the nearest official as soon as possible. 
+• Running summary of points scored, by entering the field goals and the free 
+throws made. 
+• Fouls charged against each player. The scorer must notify an official immedia-
+tely when 5 fouls are charged against any player. He shall record the fouls 
+charged against each coach and must notify an official immediately when a 
+coach should be disqualified. Similarly, he must notify an official immediately 
+when a player has committed 2 technical fouls or 2 unsportsmanlike fouls and 
+that he should be disqualified. 
+• Time-outs. He must notify the officials of the time-out opportunity when a team 
+has requested a time-out and notify the coach through an official when the 
+coach has no more time-out(s) left in a half or extra period. 
+• The next alternating possession, by operating the alternating possession arrow. 
+The scorer shall reverse the direction of the alternating possession arrow 
+immediately after the end of the first half as the teams shall exchange baskets 
+for the second half. 
+
+
+
+48.2 The scorer shall also: 
+
+• Indicate the number of fouls committed by each player by raising, in a manner 
+visible to both coaches, the marker with the number of fouls committed by that 
+player. 
+• Position the team foul marker on the scorer's table, at the end nearest to the 
+bench of the team in the team foul penalty situation, when the ball becomes live 
+following the fourth team foul in a period. 
+• Effect substitutions. 
+• Sound his signal only when the ball becomes dead and before the ball becomes 
+live again. The sound of his signal does not stop the game clock or the game 
+nor cause the ball to become dead. 
+
+
+48.3 The assistant scorer shall operate the scoreboard and assist the scorer. In the 
+case of any discrepancy between the scoreboard and the scoresheet which cannot 
+be resolved, the scoresheet shall take precedence and the scoreboard shall be 
+corrected accordingly. 
+
+48.4 If a scorekeeping error is recognised in the scoresheet: 
+
+• During the game, the scorer must wait for the first dead ball before sounding his 
+signal. 
+• After the end of the playing time and before the scoresheet has been signed by 
+the referee, the error shall be corrected, even if this correction influences the 
+final result of the game. 
+• After the scoresheet has been signed by the referee, the error may no longer be 
+corrected. The referee or the commissioner, if present, must send a detailed 
+report to the organising body of the competition. 
+
+
+Art. 49 Timer: Duties 
+
+49.1 The timer shall be provided with a game clock and a stopwatch and shall: 
+
+• Measure playing time, time-outs and intervals of play. 
+• Ensure that the game clock signal sounds very loudly and automatically at the 
+end of playing time in a period. 
+• Use any means possible to notify the officials immediately if his signal fails to 
+sound or is not heard. 
+• Notify the teams and the officials at least 3 minutes before the third period is to 
+start. 
+
+
+49.2 The timer shall measure playing time as follows: 
+
+• Starting the game clock when: 
+▬ During a jump ball, the ball is legally tapped by a jumper. 
+▬ After an unsuccessful last or only free throw and the ball continues to be 
+live, the ball touches or is touched by a player on the playing court. 
+▬ During a throw-in, the ball touches or is legally touched by a player on the 
+playing court. 
+
+
+
+• Stopping the game clock when: 
+▬ Time expires at the end of playing time for a period, if not stopped 
+automatically by the game clock itself. 
+▬ An official blows his whistle while the ball is live. 
+▬ A field goal is scored against a team which has requested a time-out. 
+
+
+
+
+
+
+▬ A field goal is scored when the game clock shows 2:00 minutes or less in 
+the fourth period and in each extra period. 
+▬ The shot clock signal sounds while a team is in control of the ball. 
+
+
+
+
+
+49.3 The timer shall measure a time-out as follows: 
+
+• Starting the stopwatch immediately when the official blows his whistle and 
+gives the time-out signal. 
+• Sounding his signal when 50 seconds of the time-out have elapsed. 
+• Sounding his signal when the time-out has ended. 
+
+
+49.4 The timer shall measure an interval of play as follows: 
+
+• Starting the stopwatch immediately when a previous period has ended. 
+• Sounding his signal before the first and third period when 3 minutes and 1.5 
+minutes remain until the beginning of the period. 
+• Sounding his signal before the second, fourth and each extra period when 30 
+seconds remain until the beginning of the period. 
+• Sounding his signal and simultaneously stopping the stopwatch immediately 
+when an interval of play has ended. 
+
+
+Art. 50 Shot clock operator: Duties 
+
+The shot clock operator shall be provided with a shot clock which shall be: 
+
+50.1 Started or restarted when: 
+
+• On the playing court a team gains control of a live ball. After that, the mere 
+touching of the ball by an opponent does not start a new shot clock period if the 
+same team remains in control of the ball. 
+• On a throw-in, the ball touches or is legally touched by any player on the 
+playing court. 
+
+
+
+
+50.2 Stopped, but not reset, when the same team that previously had control of the ball 
+is awarded a throw-in as a result of: 
+
+• A ball having gone out-of-bounds. 
+• A player of the same team having been injured. 
+• A jump ball situation. 
+• A double foul. 
+• A cancellation of equal penalties against the teams. 
+
+
+50.3 Stopped and reset to 24 seconds, with no display visible, when: 
+
+• The ball legally enters the basket. 
+• The ball touches the ring of the opponent's basket (unless the ball lodges 
+between the ring and the backboard). 
+
+
+• The team is awarded a backcourt throw-in: 
+▬ As the result of a foul or violation. 
+▬ The game being stopped because of an action not connected with the team 
+in control of the ball. 
+▬ The game being stopped because of an action not connected with either 
+team, unless the opponents would be placed at a disadvantage. 
+• The team is awarded free throw(s). 
+• The infraction of the rules is committed by the team in control of the ball. 
+
+
+
+
+
+
+50.4 Stopped but not reset to 24 seconds when the same team that previously had 
+control of the ball is awarded a frontcourt throw-in and 14 seconds or more are 
+displayed on the shot clock: 
+
+• As the result of a foul or violation. 
+• The game being stopped because of an action not connected with the team in 
+control of the ball. 
+• The game being stopped because of an action not connected with either team, 
+unless the opponents would be placed at a disadvantage. 
+
+
+50.5 Stopped and reset to 14 seconds when: 
+
+• The same team that previously had control of the ball is awarded a frontcourt 
+throw-in and 13 seconds or less are displayed on the shot clock: 
+▬ As the result of a foul or violation. 
+▬ The game being stopped because of an action not connected with the team 
+in control of the ball. 
+▬ The game being stopped because of an action not connected with either 
+team, unless the opponents would be placed at a disadvantage. 
+• After the ball has touched the ring on an unsuccessful shot for a field goal, a 
+last or only free throw, or on a pass, if the team which regains control of the ball 
+is the same team that was in control of the ball before the ball touched the ring. 
+
+
+
+
+
+50.6 Switched off, after the ball becomes dead and the game clock has been stopped in 
+any period when there is a new control of the ball for either team and there are 
+fewer than 14 seconds on the game clock. 
+
+The shot clock signal does not stop the game clock or the game, nor causes the ball 
+to become dead, unless a team is in a control of the ball. 
+
+
+A - OFFICIALS’ SIGNALS 
+
+A.1 The hand signals illustrated in these rules are the only official signals. They must be 
+used by all officials in all games. 
+
+A.2 It is important that the table officials are familiar with these signals. 
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+
+ 
+
+
+ 
+
+ 
+
+
+Diagram 7 Officials' signals 
+
+ 
+
+
+B - THE SCORESHEET 
+
+ 
+
+
+
+Diagram 8 Scoresheet 
+
+
+B.1 The scoresheet shown in Diagram 8 is the one approved by the FIBA Technical 
+Commission. 
+
+B.2 It consists of 1 original and 3 copies, each of a different colour of paper. The 
+original, on white paper, is for FIBA. The first copy, on blue paper, is for the 
+organising body of the competition, the second copy, on pink paper, is for the 
+winning team, and the last copy, on yellow paper, is for the losing team. 
+
+Note: 1. It is recommended that the scorer uses 2 different colours of pen, one 
+for the first and third period and one for the second and fourth period. 
+
+2. The scoresheet may be prepared and completed electronically. 
+
+B.3 At least 20 minutes before the game is scheduled to begin, the scorer shall 
+prepare the scoresheet in the following manner: 
+
+B.3.1 He shall enter the names of the 2 teams in the space at the top of the scoresheet. 
+The team 'A' shall always be the local (home) team or for tournaments or games on 
+a neutral playing court, the first team named in the programme. The other team shall 
+be team 'B'. 
+
+B.3.2 He shall then enter: 
+
+• The name of the competition. 
+• The number of the game. 
+• The date, the time and the place of the game. 
+• The names of the referee and the umpire(s). 
+
+
+ 
+
+
+
+Diagram 9 Top of the scoresheet 
+
+B.3.3 Team 'A' shall occupy the upper part of the scoresheet, and team 'B' the lower part. 
+
+B.3.3.1 In the first column, the scorer shall enter the number (last 3 digits) of each player's 
+licence. For tournaments, the number of the player's licence shall only be indicated 
+for the first game played by his team. 
+
+B.3.3.2 In the second column, the scorer shall enter each player's name and initials in the 
+order of the shirt numbers, all in BLOCK CAPITAL letters, using the list of team 
+members as provided by the coach or his representative. The captain of the team 
+shall be indicated by entering (CAP) immediately after his name. 
+
+B.3.3.3 If a team presents fewer than 12 players, the scorer shall draw line(s) through the 
+last blank entry(ies). 
+
+B.3.4 At the bottom of each team's section, the scorer shall enter (in BLOCK CAPITAL 
+letters) the names of the team's coach and assistant coach. 
+
+B.4 At least 10 minutes before the game is scheduled to begin both coaches shall: 
+
+B.4.1 Confirm their agreement with the names and the corresponding numbers of their 
+team members. 
+
+B.4.2 Confirm the names of the coach and assistant coach. 
+
+
+B.4.3 Indicate the 5 players to start the game by marking a small 'x' beside the player's 
+number in the 'Player in' column. 
+
+B.4.4 Sign the scoresheet. 
+
+The coach of team 'A' shall be the first to provide the above information. 
+
+B.5 At the beginning of the game, the scorer shall circle the small 'x' of the 5 players 
+in each team to start the game. 
+
+B.6 During the game, the scorer shall draw a small 'x' (not circled) in the 'Player in' 
+column when the substitute enters the game for the first time as a player. 
+
+ 
+
+
+
+Diagram 10 Teams on the scoresheet 
+
+B.7 Time-outs 
+
+B.7.1 Time-outs granted shall be recorded on the scoresheet by entering the minute of the 
+playing time of the period or extra period in the appropriate boxes below the team's 
+name. 
+
+B.7.2 At the end of each half and extra period, unused boxes shall be marked with 2 
+horizontal parallel lines. Should the team not be granted its first time-out before the 
+last 2 minutes of the second half, the scorer shall mark 2 horizontal lines in the first 
+box for the team’s second half. 
+
+
+B.8 Fouls 
+
+B.8.1 Player fouls may be personal, technical, unsportsmanlike or disqualifying and shall 
+be recorded against the player. 
+
+B.8.2 Fouls committed by team bench personnel may be technical or disqualifying and 
+shall be recorded against the coach. 
+
+B.8.3 All fouls shall be recorded as follows: 
+
+B.8.3.1 A personal foul shall be indicated by entering a 'P'. 
+
+B.8.3.2 A technical foul against a player shall be indicated by entering a 'T'. A second 
+technical foul shall also be indicated by entering a ‘T’, followed by a ‘GD’ for the 
+game disqualification in the following space. 
+
+B.8.3.3 A technical foul against the coach for his personal unsportsmanlike behaviour shall 
+be indicated by entering a 'C'. A second similar technical foul shall also be indicated 
+by entering a ‘C’, followed by a ‘GD’ in the following space. 
+
+B.8.3.4 A technical foul against the coach for any other reason shall be indicated by 
+entering a 'B'. A third technical foul (one of them could be a ‘C’) shall be indicated 
+by entering a ‘B’ or ‘C’, followed by a ‘GD’ in the following space. 
+
+B.8.3.5 An unsportsmanlike foul against a player shall be indicated by entering a 'U'. A 
+second unsportsmanlike foul shall also be indicated by entering a ‘U’, followed by a 
+‘GD’ in the next following space. 
+
+B.8.3.6 A disqualifying foul shall be indicated by entering a 'D'. 
+
+B.8.3.7 Any foul involving a free throw(s) shall be indicated by adding the corresponding 
+number of free throws (1, 2 or 3) beside the 'P', 'T', 'C', 'B', 'U' or 'D'. 
+
+B.8.3.8 All fouls against both teams involving penalties of the same severity and cancelled 
+according to Art. 42 shall be indicated by adding a small 'c' beside the 'P', 'T', 'C', 
+'B', 'U' or 'D'. 
+
+B.8.3.9 At the end of each period, the scorer shall draw a thick line between the spaces 
+that have been used and those that have not been used. 
+
+At the end of the playing time, the scorer shall obliterate the remaining spaces with 
+a thick horizontal line. 
+
+B.8.3.10 Examples for disqualifying fouls on team bench personnel: 
+
+A disqualifying foul against a substitute shall be recorded as follows: 
+
+ 
+
+And 
+
+ 
+
+A disqualifying foul against an assistant coach shall be recorded as follows: 
+
+ 
+
+A disqualifying foul against an excluded player after his fifth foul shall be recorded 
+as follows: 
+
+
+
+
+And 
+
+ 
+
+B.8.3.11 Examples for disqualifying fouls (Fighting): 
+
+Disqualifying fouls against team bench personnel for leaving the team bench area 
+(Art. 39) shall be recorded as shown below. In all remaining foul spaces of the 
+disqualified person an 'F' shall be entered. 
+
+If only the coach is disqualified: 
+
+ 
+
+If only the assistant coach is disqualified: 
+
+ 
+
+If both the coach and the assistant coach are disqualified: 
+
+ 
+
+If the substitute has fewer than 4 fouls, then an 'F' shall be entered in all remaining 
+foul spaces: 
+
+ 
+
+If it is the substitute's fifth foul, then an 'F' shall be entered inside the last foul 
+space: 
+
+ 
+
+If the excluded player has already committed 5 fouls (fouled out), then an 'F' shall be 
+entered in the column after the last foul: 
+
+ 
+
+In addition to the above examples of the players Smith, Jones and Rush, or if a team 
+follower is disqualified, a technical foul shall be entered: 
+
+ 
+
+Note: Technical or disqualifying fouls according to Art. 39 shall not count as team 
+fouls. 
+
+B.9 Team fouls 
+
+B.9.1 For each period, 4 spaces are provided in the scoresheet (immediately below the 
+team's name and above the players' names) to enter the team fouls. 
+
+B.9.2 Whenever a player commits a personal, technical, unsportsmanlike or disqualifying 
+foul, the scorer shall record the foul against the team of that player by marking a 
+large 'X' in the designated spaces in turn. 
+
+
+B.10 The running score 
+
+B.10.1 The scorer shall keep a chronological running summary of the 
+points scored by each team. 
+
+B.10.2 There are 4 columns on the scoresheet for running score. 
+
+B.10.3 Each column is divided again into 4 columns. The 2 on the left 
+are for team 'A' and the 2 on the right for team 'B'. The centre 
+columns are for the running score (160 points) for each team. 
+
+The scorer shall: 
+
+• First, draw a diagonal line (/) for any valid field goal scored 
+and a filled circle () for any valid free throw scored, over 
+the new total number of points as accumulated by the team 
+that has just scored. 
+• Then, in the blank space on the same side of the new total 
+number of points (beside the new / or ), enter the number 
+of the player who scored the field goal or the free throw. 
+
+
+B.11 The running score: Additional instructions 
+
+B.11.1 A 3-point field goal scored by a player shall be recorded by 
+drawing a circle around the player's number. 
+
+B.11.2 A field goal accidentally scored by a player in his own basket 
+shall be recorded as having been scored by the captain of the 
+opposing team on the playing court. 
+
+B.11.3 Points scored when the ball does not enter the basket (Art. 31) 
+shall be recorded as having been scored by the player who 
+attempted the shot. 
+
+B.11.4 At the end of each period, the scorer shall draw a thick circle 
+() around the latest number of points scored by each team, 
+followed by a thick horizontal line under those points and under 
+the number of each player who scored those last points. 
+
+B.11.5 At the beginning of each period the scorer shall continue to keep 
+a chronological running summary of the points scored from the 
+point of interruption. 
+
+B.11.6 Whenever possible, the scorer should check his running score 
+with the visual scoreboard. If there is a discrepancy, and his 
+score is correct, he shall immediately take steps to have the 
+scoreboard corrected. If in doubt or if one of the teams raises an 
+objection to the correction, he shall inform the referee as soon 
+as the ball becomes dead and the game clock is stopped. 
+
+ 
+
+Diagram 11 
+Running score 
+
+
+
+ 
+
+
+B.12 The running score: Summing up 
+
+B.12.1 At the end of each period, the scorer shall enter the score of 
+that period in the proper section in the lower part of the 
+scoresheet. 
+
+B.12.2 At the end of the game, the scorer shall draw 2 thick horizontal 
+lines under the final number of points scored by each team and 
+the numbers of the players who scored those last points. He 
+shall also draw a diagonal line to the bottom of the column in 
+order to obliterate the remaining numbers (running score) for 
+each team. 
+
+B.12.3 At the end of the game, the scorer shall enter the final score 
+and the name of the winning team. 
+
+B.12.4 The scorer shall then enter his surname, in block capital letters, 
+on the scoresheet, after this has been done by the assistant 
+scorer, timer and the shot clock operator. 
+
+B.12.5 Once signed by the umpire(s), the referee shall be the last to 
+approve and sign the scoresheet. This act terminates the 
+officials’ administration and connection with the game. 
+
+ 
+
+Diagram 12 
+Summing up 
+
+
+
+Note: Should one of the captains (CAP) sign the scoresheet under protest (using 
+the space marked 'Captain's signature in case of protest'), the table officials 
+and the umpire(s) shall remain at the disposal of the referee until he gives 
+them the permission to leave. 
+
+ 
+
+
+
+Diagram 13 Bottom of the scoresheet 
+
+
+C - PROTEST PROCEDURE 
+
+If, during a FIBA official competition, a team believes its interests have been adversely 
+affected by a decision of an official [referee or umpire(s)] or by any event that took place 
+during a game, it must proceed in the following manner: 
+
+C.1 The captain (CAP) of that team shall, immediately at the end of the game, inform the 
+referee that his team is protesting against the result of the game and sign the 
+scoresheet in the space marked 'Captain's signature in case of protest'. 
+
+To make this protest valid, it is necessary for the official representative of the 
+national federation or the club to give confirmation of this protest in writing. This 
+must be made within 20 minutes following the end of the game. 
+
+Detailed explanations are not necessary. It is sufficient to write: 'The national 
+federation (or club) X protests against the result of the game between the teams X 
+and Y'. Then he shall deposit with the FIBA representative or with the President of 
+the Technical Committee, a sum equivalent to CHF 1,500, as security. 
+
+The national federation of the team or the club in question must submit to the FIBA 
+representative or to the President of the Technical Committee the text of its protest 
+within 1 hour following the end of the game. 
+
+If the decision of the Technical Committee is in favour of the protesting team, the 
+deposit will be refunded. 
+
+C.2 The referee shall, within 1 hour following the end of the game, report the incident 
+which leads to the protest, to the FIBA representative or to the President of the 
+Technical Committee. 
+
+C.3 Should the national federation of the team or the club in question, or that of the 
+opposing team or club, not be in agreement with the decision of the Technical 
+Committee, it may then address an appeal to the Jury of Appeal. 
+
+To make this appeal valid, it must be made, in writing, within 20 minutes following 
+the delivery of the decision of the Technical Committee and be accompanied by a 
+deposit equivalent to CHF 3,000, as security. 
+
+If the decision of the Jury of Appeal is in favour of the appealing team, the deposit 
+will be refunded. 
+
+C.4 Videos, films, pictures or any equipment, visual, electronic, digital, or otherwise, 
+may be used to determine responsibility in matters of discipline or for educational 
+(training) purposes only after the game has ended. 
+
+
+D - CLASSIFICATION OF TEAMS 
+
+D.1 Procedure 
+
+D.1.1 Teams shall be classified according to their win-loss record, namely 2 points for 
+each game won, 1 point for each game lost (including lost by default) and 0 points 
+for a game lost by forfeit. 
+
+D.1.2 The procedure is to be applied for each team having played only 1 game against 
+each opponent in the group (single tournament) as well as for each team having 
+played 2 or more games against each opponent (league with home and away games 
+or more tournaments). 
+
+D.1.3 If 2 or more teams have the same win-loss record of all games in the group, the 
+game(s) between these 2 or more teams shall decide on the classification. If the 2 or 
+more teams have the same win-loss record of the games between them, further 
+criteria will be applied in the following order: 
+
+• Higher goal difference of the games between them 
+
+• Higher number of goals scored in the games between them 
+
+• Higher goal difference of all games in the group 
+
+• Higher number of goals scored in all games in the group 
+
+If these criteria still cannot decide, a draw shall decide on the classification. 
+
+D.1.4 If at any level of these criteria one or more team(s) can be classified, the procedure 
+of D.1.3 shall be repeated from the beginning for all the remaining teams not 
+classified yet. 
+
+D.2 Examples 
+
+D.2.1 Example 1 
+
+A vs. B 100 – 55 B vs. C 100 – 95 
+
+A vs. C 90 – 85 B vs. D 80 – 75 
+
+A vs. D 75 – 80 C vs. D 60 – 55 
+
+Team 
+
+Games 
+played 
+
+Wins 
+
+Losses 
+
+Points 
+
+Goals 
+
+Goal 
+difference 
+
+A 
+
+3 
+
+2 
+
+1 
+
+5 
+
+265 : 220 
+
++ 45 
+
+B 
+
+3 
+
+2 
+
+1 
+
+5 
+
+235 : 270 
+
+- 35 
+
+C 
+
+3 
+
+1 
+
+2 
+
+4 
+
+240 : 245 
+
+- 5 
+
+D 
+
+3 
+
+1 
+
+2 
+
+4 
+
+210 : 215 
+
+- 5 
+
+
+
+Therefore: 1st A – winner against B 3rd C - winner against D 
+
+ 2nd B 4th D 
+
+D.2.2 Example 2 
+
+A vs. B 100 – 55 B vs. C 100 – 85 
+
+A vs. C 90 – 85 B vs. D 75 – 80 
+
+A vs. D 120 – 75 C vs. D 65 – 55 
+
+
+Team 
+
+Games 
+played 
+
+Wins 
+
+Losses 
+
+Points 
+
+Goals 
+
+Goal 
+difference 
+
+A 
+
+3 
+
+3 
+
+0 
+
+6 
+
+310 : 215 
+
++ 95 
+
+B 
+
+3 
+
+1 
+
+2 
+
+4 
+
+230 : 265 
+
+- 35 
+
+C 
+
+3 
+
+1 
+
+2 
+
+4 
+
+235 : 245 
+
+- 10 
+
+D 
+
+3 
+
+1 
+
+2 
+
+4 
+
+210 : 260 
+
+- 50 
+
+
+
+Therefore 1st A 
+
+Classification of the games between B, C, D: 
+
+Team 
+
+Games 
+played 
+
+Wins 
+
+Losses 
+
+Points 
+
+Goals 
+
+Goal 
+difference 
+
+B 
+
+2 
+
+1 
+
+1 
+
+3 
+
+175 : 165 
+
++ 10 
+
+C 
+
+2 
+
+1 
+
+1 
+
+3 
+
+150 : 155 
+
+- 5 
+
+D 
+
+2 
+
+1 
+
+1 
+
+3 
+
+135 : 140 
+
+- 5 
+
+
+
+Therefore 2nd B, 3rd C - winner against D, 4th D 
+
+D.2.3 Example 3 
+
+A vs. B 85 – 90 B vs. C 100 – 95 
+
+A vs. C 55 – 100 B vs. D 75 – 85 
+
+A vs. D 75 – 120 C vs. D 65 – 55 
+
+Team 
+
+Games 
+played 
+
+Wins 
+
+Losses 
+
+Points 
+
+Goals 
+
+Goal 
+difference 
+
+A 
+
+3 
+
+0 
+
+3 
+
+3 
+
+215 : 310 
+
+- 95 
+
+B 
+
+3 
+
+2 
+
+1 
+
+5 
+
+265 : 265 
+
+0 
+
+C 
+
+3 
+
+2 
+
+1 
+
+5 
+
+260 : 210 
+
++ 50 
+
+D 
+
+3 
+
+2 
+
+1 
+
+5 
+
+260 : 215 
+
++ 45 
+
+
+
+Therefore 4th A 
+
+Classification of the games between B, C, D: 
+
+Team 
+
+Games 
+played 
+
+Wins 
+
+Losses 
+
+Points 
+
+Goals 
+
+Goal 
+difference 
+
+B 
+
+2 
+
+1 
+
+1 
+
+3 
+
+175 : 180 
+
+- 5 
+
+C 
+
+2 
+
+1 
+
+1 
+
+3 
+
+160 : 155 
+
++ 5 
+
+D 
+
+2 
+
+1 
+
+1 
+
+3 
+
+140 : 140 
+
+0 
+
+
+
+Therefore 1st C 2nd D 3rd B 
+
+D.2.4 Example 4 
+
+A vs. B 85 – 90 B vs. C 100 – 90 
+
+A vs. C 55 – 100 B vs. D 75 – 85 
+
+A vs. D 75 – 120 C vs. D 65 – 55 
+
+
+Team 
+
+Games 
+played 
+
+Wins 
+
+Losses 
+
+Points 
+
+Goals 
+
+Goal 
+difference 
+
+A 
+
+3 
+
+0 
+
+3 
+
+3 
+
+215 : 310 
+
+- 95 
+
+B 
+
+3 
+
+2 
+
+1 
+
+5 
+
+265 : 260 
+
++ 5 
+
+C 
+
+3 
+
+2 
+
+1 
+
+5 
+
+255 : 210 
+
++ 45 
+
+D 
+
+3 
+
+2 
+
+1 
+
+5 
+
+260 : 215 
+
++ 45 
+
+
+
+Therefore 4th A 
+
+Classification of the games between B, C, D: 
+
+Team 
+
+Games 
+played 
+
+Wins 
+
+Losses 
+
+Points 
+
+Goals 
+
+Goal 
+difference 
+
+B 
+
+2 
+
+1 
+
+1 
+
+3 
+
+175 : 175 
+
+0 
+
+C 
+
+2 
+
+1 
+
+1 
+
+3 
+
+155 : 155 
+
+0 
+
+D 
+
+2 
+
+1 
+
+1 
+
+3 
+
+140 : 140 
+
+0 
+
+
+
+Therefore 1st B 2nd C 3rd D 
+
+D.2.5 Example 5 
+
+A vs. B 100 – 55 B vs. F 110 - 90 
+
+A vs. C 85 – 90 C vs. D 55 - 60 
+
+A vs. D 120 – 75 C vs. E 90 - 75 
+
+A vs. E 80 – 100 C vs. F 105 - 75 
+
+A vs. F 85 – 80 D vs. E 70 - 45 
+
+B vs. C 100 – 95 D vs. F 65 – 60 
+
+B vs. D 80 – 75 E vs. F 75 – 80 
+
+B vs. E 75 – 80 
+
+Team 
+
+Games 
+played 
+
+Wins 
+
+Losses 
+
+Points 
+
+Goals 
+
+Goal 
+difference 
+
+A 
+
+5 
+
+3 
+
+2 
+
+8 
+
+470 : 400 
+
++ 70 
+
+B 
+
+5 
+
+3 
+
+2 
+
+8 
+
+420 : 440 
+
+- 20 
+
+C 
+
+5 
+
+3 
+
+2 
+
+8 
+
+435 : 395 
+
++ 40 
+
+D 
+
+5 
+
+3 
+
+2 
+
+8 
+
+345 : 360 
+
+- 15 
+
+E 
+
+5 
+
+2 
+
+3 
+
+7 
+
+375 : 395 
+
+- 20 
+
+F 
+
+5 
+
+1 
+
+4 
+
+6 
+
+385 : 440 
+
+- 55 
+
+
+
+Therefore 5th E 6th F 
+
+Classification of the games between A, B, C, D: 
+
+Team 
+
+Games 
+played 
+
+Wins 
+
+Losses 
+
+Points 
+
+Goals 
+
+Goal 
+difference 
+
+A 
+
+3 
+
+2 
+
+1 
+
+5 
+
+305 : 220 
+
++ 85 
+
+B 
+
+3 
+
+2 
+
+1 
+
+5 
+
+235 : 270 
+
+- 35 
+
+C 
+
+3 
+
+1 
+
+2 
+
+4 
+
+240 : 245 
+
+- 5 
+
+D 
+
+3 
+
+1 
+
+2 
+
+4 
+
+210 : 255 
+
+- 45 
+
+
+
+Therefore: 1st A – winner against B 3rd D - winner against C 
+
+ 2nd B 4th C 
+
+
+D.2.6 Example 6 
+
+A vs. B 71 – 65 B vs. F 95 - 90 
+
+A vs. C 85 – 86 C vs. D 95 - 100 
+
+A vs. D 77 – 75 C vs. E 82 - 75 
+
+A vs. E 80 – 86 C vs. F 105 - 75 
+
+A vs. F 85 – 80 D vs. E 68 - 67 
+
+B vs. C 88 – 87 D vs. F 65 – 60 
+
+B vs. D 80 – 75 E vs. F 80 – 75 
+
+B vs. E 75 – 76 
+
+Team 
+
+Games 
+played 
+
+Wins 
+
+Losses 
+
+Points 
+
+Goals 
+
+Goal 
+difference 
+
+A 
+
+5 
+
+3 
+
+2 
+
+8 
+
+398 : 392 
+
++ 6 
+
+B 
+
+5 
+
+3 
+
+2 
+
+8 
+
+403 : 399 
+
++ 4 
+
+C 
+
+5 
+
+3 
+
+2 
+
+8 
+
+455 : 423 
+
++ 32 
+
+D 
+
+5 
+
+3 
+
+2 
+
+8 
+
+383 : 379 
+
++ 4 
+
+E 
+
+5 
+
+3 
+
+2 
+
+8 
+
+384 : 380 
+
++ 4 
+
+F 
+
+5 
+
+0 
+
+5 
+
+5 
+
+380 : 430 
+
+- 50 
+
+
+
+Therefore 6th F 
+
+Classification of the games between A, B, C, D, E: 
+
+Team 
+
+Games 
+played 
+
+Wins 
+
+Losses 
+
+Points 
+
+Goals 
+
+Goal 
+difference 
+
+A 
+
+4 
+
+2 
+
+2 
+
+6 
+
+313 : 312 
+
++ 1 
+
+B 
+
+4 
+
+2 
+
+2 
+
+6 
+
+308 : 309 
+
+- 1 
+
+C 
+
+4 
+
+2 
+
+2 
+
+6 
+
+350 : 348 
+
++ 2 
+
+D 
+
+4 
+
+2 
+
+2 
+
+6 
+
+318 : 319 
+
+- 1 
+
+E 
+
+4 
+
+2 
+
+2 
+
+6 
+
+304 : 305 
+
+- 1 
+
+
+
+Therefore: 1st C 2nd A 
+
+Classification of the games between B, D, E: 
+
+Team 
+
+Games 
+played 
+
+Wins 
+
+Losses 
+
+Points 
+
+Goals 
+
+Goal 
+difference 
+
+B 
+
+2 
+
+1 
+
+1 
+
+3 
+
+155 : 151 
+
++ 4 
+
+D 
+
+2 
+
+1 
+
+1 
+
+3 
+
+143 : 147 
+
+- 4 
+
+E 
+
+2 
+
+1 
+
+1 
+
+3 
+
+143 : 143 
+
+0 
+
+
+
+Therefore: 3rd B 4th E 5th D 
+
+D.2.7 Example 7 
+
+A vs. B 73 – 71 B vs. F 95 - 90 
+
+A vs. C 85 – 86 C vs. D 95 - 96 
+
+A vs. D 77 – 75 C vs. E 82 - 75 
+
+A vs. E 90 – 96 C vs. F 105 - 75 
+
+A vs. F 85 – 80 D vs. E 68 - 67 
+
+B vs. C 88 – 87 D vs. F 80 – 75 
+
+
+B vs. D 80 – 79 E vs. F 80 – 75 
+
+B vs. E 79 – 80 
+
+Team 
+
+Games 
+played 
+
+Wins 
+
+Losses 
+
+Points 
+
+Goals 
+
+Goal 
+difference 
+
+A 
+
+5 
+
+3 
+
+2 
+
+8 
+
+410 : 408 
+
++ 2 
+
+B 
+
+5 
+
+3 
+
+2 
+
+8 
+
+413 : 409 
+
++ 4 
+
+C 
+
+5 
+
+3 
+
+2 
+
+8 
+
+455 : 419 
+
++ 36 
+
+D 
+
+5 
+
+3 
+
+2 
+
+8 
+
+398 : 394 
+
++ 4 
+
+E 
+
+5 
+
+3 
+
+2 
+
+8 
+
+398 : 394 
+
++ 4 
+
+F 
+
+5 
+
+0 
+
+5 
+
+5 
+
+395 : 445 
+
+- 50 
+
+
+
+Therefore 6th F 
+
+Classification of the games between A, B, C, D, E: 
+
+Team 
+
+Games 
+played 
+
+Wins 
+
+Losses 
+
+Points 
+
+Goals 
+
+Goal 
+difference 
+
+A 
+
+4 
+
+2 
+
+2 
+
+6 
+
+325 : 328 
+
+- 3 
+
+B 
+
+4 
+
+2 
+
+2 
+
+6 
+
+318 : 319 
+
+- 1 
+
+C 
+
+4 
+
+2 
+
+2 
+
+6 
+
+350 : 344 
+
++ 6 
+
+D 
+
+4 
+
+2 
+
+2 
+
+6 
+
+318 : 319 
+
+- 1 
+
+E 
+
+4 
+
+2 
+
+2 
+
+6 
+
+318 : 319 
+
+- 1 
+
+
+
+Therefore: 1st C 5th A 
+
+Classification of the games between B, D, E: 
+
+Team 
+
+Games 
+played 
+
+Wins 
+
+Losses 
+
+Points 
+
+Goals 
+
+Goal 
+difference 
+
+B 
+
+2 
+
+1 
+
+1 
+
+3 
+
+159 : 159 
+
+0 
+
+D 
+
+2 
+
+1 
+
+1 
+
+3 
+
+147 : 147 
+
+0 
+
+E 
+
+2 
+
+1 
+
+1 
+
+3 
+
+147 : 147 
+
+0 
+
+
+
+Therefore 2nd B, 3rd D - winner against E, 4th E 
+
+D.3 Additional procedure 
+
+D.3.1 Art. D.1 and D.2 are valid after all the teams have played all their games in the group. 
+
+D.3.2 If all teams did not play all their games yet and if 2 or more teams have the same 
+win-loss record the higher goal difference of all games of these teams played so far 
+shall decide on the classification. 
+
+D.4 Forfeit 
+
+D.4.1 A team which, without valid reason, fails to show up for a scheduled game or 
+withdraws from the playing court before the end of the game, shall lose the game by 
+forfeit and receive zero (0) points in the classification. 
+
+D.4.2 If the team forfeits for the second time, the results of all games played by this team 
+shall be nullified. 
+
+
+E - MEDIA TIME-OUTS 
+
+E.1 Definition 
+
+The organising body of the competition may decide for itself whether Media time-
+outs shall be applied and, if so, of what duration (60, 75, 90 or 100 seconds). 
+
+E.2 Rule 
+
+E.2.1 In each period 1 Media time-out is permitted, in addition to the regular time-outs. 
+Media time-outs in extra periods are not permitted. 
+
+E.2.2 The first time-out in each period (team or Media) shall be 60, 75, 90 or 100 seconds in 
+duration. 
+
+E.2.3 The duration of all other time-outs in a period shall be 60 seconds. 
+
+E.2.4 Both teams shall be entitled to 2 time-outs during the first half and 3 time-outs 
+during the second half. 
+
+These time-outs may be requested at any time during the game and their duration 
+may be: 
+
+• If considered to be a Media time-out 60, 75, 90 or 100 seconds, i.e. the first in a 
+period, or 
+• If not considered to be a Media time-out 60 seconds, i.e. requested by either 
+team, after the Media time-out has been granted. 
+
+
+E.3 Procedure 
+
+E.3.1 Ideally, the Media time-out should be taken with 5 minutes remaining in the period. 
+However, there is no guarantee that this will be the case. 
+
+E.3.2 If neither team has requested a time-out before the last 5 minutes remaining in the 
+period then a Media time-out shall be granted at the first opportunity when the ball 
+becomes dead and the game clock is stopped. This time-out will not be charged 
+against either team. 
+
+E.3.3 If either team is granted a time-out before the last 5 minutes remaining in the period, 
+that time-out shall be used as a Media time-out. 
+
+This time-out shall count as both a Media time-out and a time-out for the team 
+requesting it. 
+
+E.3.4 According to this procedure, there would be a minimum of 1 time-out in each period 
+and a maximum of 6 time-outs in the first half and a maximum of 8 time-outs in the 
+second half. 
+
+END OF RULES 
+
+AND 
+
+GAME PROCEDURES 
+
+
+INDEX TO THE RULES 
+
+24 seconds ................................................................................................................................................. 29 
+
+3 seconds ................................................................................................................................................... 28 
+
+3-point field goal area ................................................................................................................................ 5 
+
+4 fouls by team .......................................................................................................................................... 44 
+
+5 fouls .................................................................................................................................................... 10, 44 
+
+5 seconds 
+
+closely guarded player ......................................................................................................................... 28 
+
+throw-in .................................................................................................................................................. 20 
+
+8 seconds ................................................................................................................................................... 28 
+
+Act of shooting 
+
+definition ................................................................................................................................................. 18 
+
+foul on player ......................................................................................................................................... 38 
+
+Advantage/disadvantage concept ......................................................................................................... 50 
+
+All-in-ones .................................................................................................................................................. 10 
+
+Alternating possession ............................................................................................................................. 16 
+
+Assistant coach 
+
+duties and powers ................................................................................................................................ 12 
+
+scoresheet ............................................................................................................................................. 13 
+
+standing .................................................................................................................................................. 13 
+
+Assistant scorer 
+
+duties ....................................................................................................................................................... 52 
+
+Backcourt 
+
+definition ................................................................................................................................................... 4 
+
+Ball 
+
+control ..................................................................................................................................................... 18 
+
+dead ......................................................................................................................................................... 15 
+
+enters basket from below ..................................................................................................................... 19 
+
+enters own basket ................................................................................................................................ 19 
+
+goaltending ............................................................................................................................................ 31 
+
+interference with the ............................................................................................................................. 31 
+
+kicking ..................................................................................................................................................... 18 
+
+live ............................................................................................................................................................ 15 
+
+progressing with the............................................................................................................................. 27 
+
+status ....................................................................................................................................................... 15 
+
+striking with the fist ............................................................................................................................... 18 
+
+within basket .......................................................................................................................................... 19 
+
+Ball lodges between ring and backboard ............................................................................................. 17 
+
+Basket 
+
+ball enters from below .......................................................................................................................... 19 
+
+ball enters own ...................................................................................................................................... 19 
+
+ball within ............................................................................................................................................... 19 
+
+change for the second half .................................................................................................................. 15 
+
+opponents’ ................................................................................................................................................ 4 
+
+own ............................................................................................................................................................ 4 
+
+Basketball 
+
+
+equipment ................................................................................................................................................. 9 
+
+Beginning of a period ............................................................................................................................... 14 
+
+Beginning of the game .............................................................................................................................. 14 
+
+Blocking ...................................................................................................................................................... 36 
+
+Boundary lines ............................................................................................................................................ 5 
+
+Captain 
+
+acting as coach ..................................................................................................................................... 13 
+
+coach....................................................................................................................................................... 13 
+
+duties and powers ................................................................................................................................ 12 
+
+protest ..................................................................................................................................................... 12 
+
+Centre circle ................................................................................................................................................ 5 
+
+Centre line .................................................................................................................................................... 5 
+
+Charging ..................................................................................................................................................... 36 
+
+Charging by dribbler ................................................................................................................................. 34 
+
+Classification of teams............................................................................................................................. 69 
+
+Closely guarded player ............................................................................................................................. 28 
+
+Coach 
+
+disqualification ................................................................................................................................ 40, 41 
+
+duties and powers ................................................................................................................................ 12 
+
+member of team .................................................................................................................................... 10 
+
+standing .................................................................................................................................................. 13 
+
+team list .................................................................................................................................................. 12 
+
+technical foul ......................................................................................................................................... 40 
+
+Colour of shirts .......................................................................................................................................... 10 
+
+Commissioner 
+
+definition ................................................................................................................................................. 49 
+
+report ....................................................................................................................................................... 50 
+
+Compression sleeves ............................................................................................................................... 11 
+
+Compression stockings ............................................................................................................................ 11 
+
+Contact........................................................................................................................................................ 33 
+
+Continuous movement .............................................................................................................................. 19 
+
+Control of the ball ...................................................................................................................................... 18 
+
+Correctable errors .................................................................................................................................... 47 
+
+Court 
+
+dimensions ............................................................................................................................................... 4 
+
+lines ........................................................................................................................................................... 4 
+
+Cylinder principle 
+
+definition ................................................................................................................................................. 33 
+
+Dead ball .................................................................................................................................................... 15 
+
+Decision of game ........................................................................................................................................ 4 
+
+Decisions 
+
+time and place for ................................................................................................................................. 50 
+
+Definition of game ....................................................................................................................................... 4 
+
+Disqualifying foul ...................................................................................................................................... 41 
+
+Doctor ......................................................................................................................................................... 10 
+
+Double foul ................................................................................................................................................. 38 
+
+Dribbler 
+
+charging by ............................................................................................................................................ 34 
+
+Dribbling 
+
+
+definition ................................................................................................................................................. 26 
+
+Dunk ............................................................................................................................................................ 18 
+
+Eligible to play ........................................................................................................................................... 10 
+
+End of game 
+
+definition ................................................................................................................................................. 14 
+
+officials power ....................................................................................................................................... 49 
+
+video ........................................................................................................................................................ 68 
+
+Ending of a period ..................................................................................................................................... 14 
+
+Endlines ........................................................................................................................................................ 5 
+
+Entitled to play ........................................................................................................................................... 10 
+
+Equipment .................................................................................................................................................... 9 
+
+Excluded player 
+
+definition ................................................................................................................................................. 10 
+
+Extra period 
+
+definition ................................................................................................................................................. 14 
+
+ending...................................................................................................................................................... 14 
+
+intervals .................................................................................................................................................. 14 
+
+Fighting ....................................................................................................................................................... 42 
+
+Fingernails .................................................................................................................................................. 11 
+
+Foul 
+
+5 by player ........................................................................................................................................ 10, 44 
+
+after playing time .................................................................................................................................. 14 
+
+at end of playing time ............................................................................................................................ 14 
+
+definition ................................................................................................................................................. 33 
+
+disqualification of coach ................................................................................................................ 40, 41 
+
+disqualification of player ...................................................................................................................... 40 
+
+disqualifying ........................................................................................................................................... 41 
+
+during alternating possession ............................................................................................................. 17 
+
+fighting .................................................................................................................................................... 42 
+
+penalty..................................................................................................................................................... 45 
+
+penalty situation .................................................................................................................................... 44 
+
+personal .................................................................................................................................................. 38 
+
+player in the act of shooting ................................................................................................................ 38 
+
+special situations .................................................................................................................................. 44 
+
+technical by coach ............................................................................................................................... 40 
+
+technical by player ............................................................................................................................... 40 
+
+unsportsmanlike .................................................................................................................................... 41 
+
+violence .................................................................................................................................................. 39 
+
+Free throw rebound places .................................................................................................................. 5, 45 
+
+Free throws ................................................................................................................................................ 45 
+
+Free-throw lines .......................................................................................................................................... 5 
+
+Free-throw shooter 
+
+designation ....................................................................................................................................... 13, 45 
+
+restrictions ............................................................................................................................................. 45 
+
+Frontcourt 
+
+ball goes into .......................................................................................................................................... 29 
+
+definition ................................................................................................................................................... 4 
+
+Fumble of the ball ...................................................................................................................................... 26 
+
+Game 
+
+
+beginning ................................................................................................................................................ 14 
+
+decision .................................................................................................................................................... 4 
+
+ending...................................................................................................................................................... 14 
+
+lost by default ........................................................................................................................................ 24 
+
+lost by forfeit .......................................................................................................................................... 24 
+
+playing time ............................................................................................................................................ 14 
+
+Game ball ................................................................................................................................................... 49 
+
+Game clock 
+
+operations .............................................................................................................................................. 52 
+
+Game disqualification ................................................................................................................... 40, 41, 64 
+
+Goal 
+
+enters basket from below ..................................................................................................................... 19 
+
+own basket, accidentally ...................................................................................................................... 19 
+
+own basket, deliberately ...................................................................................................................... 19 
+
+value ........................................................................................................................................................ 19 
+
+when made ............................................................................................................................................. 19 
+
+Goaltending 
+
+definition ................................................................................................................................................. 31 
+
+Guarding 
+
+a player who controls the ball ............................................................................................................. 34 
+
+a player who does not control the ball .............................................................................................. 35 
+
+Half-time interval ...................................................................................................................................... 14 
+
+Hands 
+
+contacting opponents ........................................................................................................................... 37 
+
+use of ....................................................................................................................................................... 37 
+
+Held ball ...................................................................................................................................................... 16 
+
+Holding ........................................................................................................................................................ 37 
+
+Home team ................................................................................................................................................. 11 
+
+Illegal guarding from the rear .................................................................................................................. 37 
+
+Injury 
+
+official...................................................................................................................................................... 51 
+
+player....................................................................................................................................................... 11 
+
+Instant Replay System .............................................................................................................................. 50 
+
+Interference with the ball ......................................................................................................................... 31 
+
+Interpreter .................................................................................................................................................. 10 
+
+Interval of play 
+
+definition ................................................................................................................................................. 14 
+
+duties of timer ........................................................................................................................................ 53 
+
+Jump ball .................................................................................................................................................... 16 
+
+Jump ball situation ................................................................................................................................... 16 
+
+Kicking the ball .......................................................................................................................................... 18 
+
+Legal guarding position ............................................................................................................................ 34 
+
+Live ball ....................................................................................................................................................... 15 
+
+Location of a player .................................................................................................................................. 16 
+
+Location of an official............................................................................................................................... 16 
+
+Manager ..................................................................................................................................................... 10 
+
+Media time-outs ........................................................................................................................................ 74 
+
+Mouth guard .............................................................................................................................................. 11 
+
+No-charge semi-circle............................................................................................................................. 36 
+
+
+definition ................................................................................................................................................... 7 
+
+Normal basketball position ...................................................................................................................... 33 
+
+Numbers 
+
+on shirts .................................................................................................................................................. 10 
+
+Objects 
+
+worn by player ................................................................................................................................. 11, 49 
+
+Official 
+
+definition ................................................................................................................................................. 49 
+
+disagreement ......................................................................................................................................... 50 
+
+location ................................................................................................................................................... 16 
+
+powers .................................................................................................................................................... 49 
+
+signals 
+
+administrative .................................................................................................................................... 55 
+
+clock related ...................................................................................................................................... 55 
+
+free-throw administration ................................................................................................................. 60 
+
+reporting a foul .................................................................................................................................. 57 
+
+scoring................................................................................................................................................. 55 
+
+violations ............................................................................................................................................. 56 
+
+time and place for decisions ................................................................................................................ 50 
+
+uniform .................................................................................................................................................... 49 
+
+Opponents’ basket ...................................................................................................................................... 4 
+
+Other equipment ....................................................................................................................................... 11 
+
+Out-of-bounds 
+
+ball ........................................................................................................................................................... 26 
+
+player....................................................................................................................................................... 26 
+
+Penalty for 
+
+ball returned to the backcourt ............................................................................................................. 31 
+
+disqualifying foul ................................................................................................................................... 42 
+
+double foul .............................................................................................................................................. 38 
+
+fighting .................................................................................................................................................... 42 
+
+free-throw violations ............................................................................................................................. 46 
+
+game lost by default .............................................................................................................................. 25 
+
+game lost by forfeit ............................................................................................................................... 24 
+
+interference with the ball ..................................................................................................................... 32 
+
+personal foul .......................................................................................................................................... 38 
+
+technical foul by coach ........................................................................................................................ 40 
+
+technical foul by player ........................................................................................................................ 40 
+
+technical foul during interval of play .................................................................................................. 40 
+
+throw-in violation .................................................................................................................................. 21 
+
+unsportsmanlike foul ............................................................................................................................. 41 
+
+violations ................................................................................................................................................ 26 
+
+Penalty situation ....................................................................................................................................... 44 
+
+Period 
+
+beginning ................................................................................................................................................ 14 
+
+definition ................................................................................................................................................. 14 
+
+ending...................................................................................................................................................... 14 
+
+Personal contact ....................................................................................................................................... 33 
+
+Personal foul .............................................................................................................................................. 38 
+
+Physiotherapist ......................................................................................................................................... 10 
+
+
+Pivot ............................................................................................................................................................. 27 
+
+Pivot foot .................................................................................................................................................... 27 
+
+Player 
+
+5 fouls ................................................................................................................................................ 10, 44 
+
+becomes substitute ......................................................................................................................... 10, 23 
+
+closely guarded ..................................................................................................................................... 28 
+
+control of the ball .................................................................................................................................. 18 
+
+disqualification ...................................................................................................................................... 40 
+
+entitled to play ....................................................................................................................................... 10 
+
+in act of shooting ................................................................................................................................... 18 
+
+injury ........................................................................................................................................................ 11 
+
+location ................................................................................................................................................... 16 
+
+number of ............................................................................................................................................... 10 
+
+numbers on shirts ................................................................................................................................. 10 
+
+on the floor ............................................................................................................................................. 28 
+
+starting 5 ................................................................................................................................................. 12 
+
+substitution ............................................................................................................................................. 22 
+
+technical foul ......................................................................................................................................... 40 
+
+wearing objects ............................................................................................................................... 11, 49 
+
+who is in the air ..................................................................................................................................... 35 
+
+Player coach .............................................................................................................................................. 13 
+
+Player control 
+
+definition ................................................................................................................................................. 18 
+
+Playing court 
+
+dimensions ............................................................................................................................................... 4 
+
+lines ........................................................................................................................................................... 4 
+
+Playing time ............................................................................................................................................... 14 
+
+Post play ..................................................................................................................................................... 37 
+
+Principle of verticality ............................................................................................................................... 33 
+
+Progressing with the ball ......................................................................................................................... 27 
+
+Protest 
+
+commissioner's report .......................................................................................................................... 51 
+
+procedure ............................................................................................................................................... 68 
+
+referee's report ..................................................................................................................................... 51 
+
+Pushing ....................................................................................................................................................... 37 
+
+Rebound places .................................................................................................................................... 5, 45 
+
+Referee 
+
+definition ................................................................................................................................................. 49 
+
+powers .................................................................................................................................................... 49 
+
+Restricted area ............................................................................................................................................ 5 
+
+Rules of conduct 
+
+definition ................................................................................................................................................. 39 
+
+Scorer 
+
+duties ....................................................................................................................................................... 51 
+
+Scorer’s table .............................................................................................................................................. 8 
+
+Scoresheet 
+
+examination ............................................................................................................................................ 49 
+
+form .......................................................................................................................................................... 62 
+
+procedure ............................................................................................................................................... 62 
+
+
+Screening ................................................................................................................................................... 35 
+
+Semi-circles ................................................................................................................................................. 5 
+
+Shirts 
+
+colour ...................................................................................................................................................... 10 
+
+numbers .................................................................................................................................................. 10 
+
+Shorts .......................................................................................................................................................... 10 
+
+Shot clock 
+
+reset in error .......................................................................................................................................... 30 
+
+sounds in error ...................................................................................................................................... 30 
+
+Shot clock operator 
+
+duties ....................................................................................................................................................... 53 
+
+Shot for goal 
+
+definition ................................................................................................................................................. 31 
+
+Sidelines ....................................................................................................................................................... 5 
+
+Socks ........................................................................................................................................................... 10 
+
+Special situations ..................................................................................................................................... 44 
+
+Starting 5 players ...................................................................................................................................... 12 
+
+Statistician ................................................................................................................................................. 10 
+
+Striking the ball with the fist .................................................................................................................... 18 
+
+Substitute 
+
+becomes player ............................................................................................................................... 10, 23 
+
+Substitution chairs ...................................................................................................................................... 8 
+
+Substitution opportunity ........................................................................................................................... 22 
+
+Table officials 
+
+definition ................................................................................................................................................. 49 
+
+uniform .................................................................................................................................................... 49 
+
+Tap ............................................................................................................................................................... 18 
+
+Taping ......................................................................................................................................................... 11 
+
+Team bench areas 
+
+definition ................................................................................................................................................... 7 
+
+Team bench personnel 
+
+definition ................................................................................................................................................... 7 
+
+Team control 
+
+definition ................................................................................................................................................. 18 
+
+Team followers .......................................................................................................................................... 10 
+
+Team foul penalty situation ...................................................................................................................... 44 
+
+Team fouls .................................................................................................................................................. 44 
+
+Team member 
+
+definition ................................................................................................................................................. 10 
+
+Teams.......................................................................................................................................................... 10 
+
+Throw-in 
+
+5 seconds ............................................................................................................................................... 20 
+
+definition ................................................................................................................................................. 19 
+
+Throw-in line 
+
+definition ................................................................................................................................................... 7 
+
+Tied score .................................................................................................................................................. 14 
+
+Time-out 
+
+definition ........................................................................................................................................... 21, 22 
+
+duties of scorer ..................................................................................................................................... 51 
+
+
+duties of timer ........................................................................................................................................ 53 
+
+opportunity ............................................................................................................................................. 21 
+
+Timer 
+
+duties ....................................................................................................................................................... 52 
+
+Travelling 
+
+definition ................................................................................................................................................. 27 
+
+Umpire 
+
+definition ................................................................................................................................................. 49 
+
+Uniform 
+
+officials, referee and umpire ................................................................................................................ 49 
+
+player....................................................................................................................................................... 10 
+
+table officials ......................................................................................................................................... 49 
+
+Unsportsmanlike behaviour 
+
+commissioner's report .......................................................................................................................... 50 
+
+referee's report ..................................................................................................................................... 50 
+
+Unsportsmanlike foul ............................................................................................................................... 41 
+
+Verticality 
+
+definition ................................................................................................................................................. 33 
+
+legal guarding position ......................................................................................................................... 34 
+
+Video usage ............................................................................................................................................... 68 
+
+Violation 
+
+special situations .................................................................................................................................. 44 
+
+Violations 
+
+definition ................................................................................................................................................. 26 
+
+Violence ...................................................................................................................................................... 39 
+
+Visiting team .............................................................................................................................................. 11 
+
+ 
+
+

@@ -1,0 +1,138 @@
+[
+    {
+    "question_template": "The coach shall confirm his agreement with the names and corresponding numbers of his team members and the names of coach, assistant coach and captain by signing the scoresheet at least...",
+    "template_substitutions": [],
+    "answers": [
+        [
+        "10 minutes before the game begins"
+    ],
+    [
+        "20 minutes before the game begins"
+    ],
+    [
+        "60 minutes before the game begins"
+    ]
+    ],
+    "explanation": "I7-1 At least 20 minutes before the game is scheduled to begin, each coach or his representative shall give the scorer a list with the names and corresponding numbers of the team members who are eligible to play in the game as well as the name of the captain of the team, the coach and the assistant coach. The coach is personally responsible that the numbers in the list correspond to the numbers on the shirts of the players. At least 10 minutes before the game is scheduled to begin the coach shall confirm his agreement with the names and corresponding numbers of his team members and the names of coach, assistant coach and captain by signing the scoresheet."
+},
+    {
+    "question_template": "Team A presents in due time the team list to the scorer. The numbers of two players are not the same as the numbers displayed on their shirts. This is discovered before the start of the game.",
+    "template_substitutions": [
+    ],
+    "answers": [
+        [
+        "The wrong numbers are corrected without any sanctions"
+    ],
+    [
+        "The wrong numbers are corrected and a personal technical foul is called against each player with a wrong number"
+    ],
+    [
+        "The wrong numbers are corrected and a technical foul B is called against coach A"
+    ],
+    [
+        "The wrong numbers cannot be corrected and the players may not play the game"
+    ]
+    ],
+    "explanation": "I7-2 The wrong numbers are corrected on the scoresheet without any sanctions."
+},
+    {
+    "question_template": "Team A presents in due time the team list to the scorer. The name of a player is omitted on the scoresheet. This is discovered before the start of the game.",
+    "template_substitutions": [
+    ],
+    "answers": [
+    [
+        "The name of the player is added to the scoresheet without any sanction"
+    ],
+    [
+        "The name of the player is added to the scoresheet, but a technical foul B is charged against coach A"
+    ],
+    [
+        "The name of the player is added to the scoresheet, but a technical foul is charged against him."
+    ]
+    ],
+    "explanation": "I7-2 the name of the player is added to the scoresheet without any sanction."
+},
+    {
+    "question_template": "Team A presents in due time the team list to the scorer. The name of a player is omitted on the scoresheet. This is discovered after the start of the game and the referee stops the game at a convenient moment as not to disadvantage either team.",
+    "template_substitutions": [
+    ],
+    "answers": [
+    [
+        "The name of the player cannot be added to the scoresheet"
+    ],
+        [
+        "The name of the player is added to the scoresheet without any sanctions"
+    ],
+    [
+        "The name of the player is added to the scoresheet, but a technical foul B is charged against coach A"
+    ],
+    [
+        "The name of the player is added to the scoresheet, but a technical foul is charged against him."
+    ]
+    ],
+    "explanation": "I7-2 the name of the player cannot be added to the scoresheet."
+},
+    {
+    "question_template": "Team A presents in due time the team list to the scorer. The numbers of two players are not the same as the numbers displayed on their shirts. This is discovered after the start of the game and the referee stops the game at a convenient moment as not to disadvantage either team.",
+    "template_substitutions": [
+    ],
+    "answers": [
+        [
+        "The wrong numbers are corrected without any sanctions"
+    ],
+    [
+        "The wrong numbers are corrected and a personal technical foul is called against each player with a wrong number"
+    ],
+    [
+        "The wrong numbers are corrected and a technical foul B is called against coach A"
+    ],
+    [
+        "The wrong numbers cannot be corrected and the players may not play the game"
+    ]
+    ],
+    "explanation": "I7-2 The wrong numbers are corrected on the scoresheet without any sanctions."
+},
+    {
+    "question_template": "Shortly before the jump ball for the beginning of the first period, it is discovered that one of the players on the court for team A is not one of the designated starting 5 players on the scoresheet.",
+    "template_substitutions": [
+    ],
+    "answers": [
+        [
+        "The player shall be replaced without any sanction by one of the 5 players who were to start the game"
+    ],
+    [
+        "The player shall be replaced, and a technical foul B is charged to coach A"
+    ],
+    [
+        "The player shall be replaced, and a technical foul is charged to him"
+    ],
+    [
+        "The player shall not be replaced, and a tecnical foul B is charged to coach A"
+    ]
+    ],
+    "explanation": "I7-4 The player shall be replaced without any sanction by 1 of the 5 players who were to start."
+},
+    {
+    "question_template": "Ten seconds after the beginning of the first period, it is discovered that one of the players on the court for team A is not one of the designated starting 5 players on the scoresheet.",
+    "template_substitutions": [
+    ],
+    "answers": [
+        [
+        "The error is ignored and the game continues without any sanction"
+    ],
+    [
+        "The player shall be replaced, and a technical foul B is charged to coach A"
+    ],
+    [
+        "The player shall be replaced, and a technical foul is charged to him"
+    ],
+    [
+        "The player shall not be replaced, and a tecnical foul B is charged to coach A"
+    ],
+    [
+        "The player shall not be replaced, and a tecnical foul is charged to him"
+    ]
+    ],
+    "explanation": "I7-4 The error is disregarded."
+}
+]
