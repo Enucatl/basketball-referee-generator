@@ -1,0 +1,265 @@
+[
+    {
+    "question_template": "A1 shoots for a field goal. The ball is in the air when the shot clock signal sounds. %s, then %.",
+    "template_substitutions": [
+        [
+        "The ball touches the backboard",
+        "The ball does not touch the ring"
+    ],
+        [
+        "is touched by B1, then by A2 and finally controlled by B2",
+        "is touched but not controlled by B1 and finally caught by A2."
+    ]
+    ],
+    "answers": [
+        [
+        "24 seconds violation"
+    ],
+    [
+        "Legal play"
+    ]
+    ],
+    "explanation": "I29/50-1 A shot for a field goal is attempted near the end of the shot clock period and the signal sounds while the ball is in the air. If the ball does not touch the ring, a violation has occurred unless the opponents have gained immediate and clear control of the ball. The ball shall be awarded to the opponent for the throw-in at the place nearest to where the game was stopped by the official, except directly behind the backboard. This is a shot clock violation because the ball did not touch the ring and then there was no immediate and clear control of the ball by the opponents."
+},
+    {
+    "question_template": "A1 shoots for a field goal. The ball is in the air when the shot clock signal sounds. %s, then %.",
+    "template_substitutions": [
+        [
+        "The ball touches the backboard",
+        "The ball does not touch the ring"
+    ],
+        [
+        "a held ball between A2 and B2 is called"
+    ]
+    ],
+    "answers": [
+        [
+        "24 seconds violation"
+    ],
+    [
+        "Jump ball situation"
+    ]
+    ],
+    "explanation": "I29/50-1 A shot for a field goal is attempted near the end of the shot clock period and the signal sounds while the ball is in the air. If the ball does not touch the ring, a violation has occurred unless the opponents have gained immediate and clear control of the ball. The ball shall be awarded to the opponent for the throw-in at the place nearest to where the game was stopped by the official, except directly behind the backboard. This is a shot clock violation because the ball did not touch the ring and then there was no immediate and clear control of the ball by the opponents."
+},
+    {
+    "question_template": "A1 shoots for a field goal. The ball is in the air when the shot clock signal sounds. %s, then %.",
+    "template_substitutions": [
+        [
+        "The ball touches the backboard",
+        "The ball does not touch the ring"
+    ],
+        [
+        "B1 fouls A1",
+        "the ball touches B1 and then goes out-of-bounds",
+        "B1 commits a violation",
+    ]
+    ],
+    "answers": [
+        [
+        "Throw-in B, 24 seconds violation"
+    ],
+    [
+        "Throw-in A"
+    ]
+    ],
+    "explanation": "I29/50-5 A shot clock violation has occurred. Team B did not gain immediate and 
+clear control of the ball. B's violations and fouls shall be disregarded, unless technical, unsportsmanlike or disqualifying."
+},
+    {
+    "question_template": "Team A is in control of the ball %s, with 10 seconds remaining on the shot clock. %s. An alternating possession throw-in is awarded to team A with how many seconds on the shot clock?",
+    "template_substitutions": [
+        [
+        "in the backcourt",
+        "in the frontcourt"
+    ],
+        [
+        "A1 shoots and the ball is stuck between the backboard and the ring",
+        "A1 passes the ball, which is stuck between the backboard and the ring",
+        "A held ball occurs between A1 and B1",
+        "A held ball occurs",
+        "The ball goes out-of-bounds and the officials are in doubt about which of the opponents last touched the ball"
+    ]
+    ],
+    "answers": [
+        [
+        "10 seconds"
+    ],
+    [
+        "24 seconds"
+    ],
+    [
+        "14 seconds"
+    ]
+    ],
+    "explanation": "I29/50-9 If a team that was in control of the ball is awarded an alternating possession throw-in, that team shall have only whatever time was remaining on the shot clock at the time the jump ball situation occurred."
+},
+    {
+    "question_template": "A1 is in control of the ball in the frontcourt, with 10 seconds remaining on the shot clock. %s. After the throw-in, the shot clock shows...",
+    "template_substitutions": [
+        [
+        "B1 fouls A1, third team foul in the period",
+        "B1 fouls A1, fourth team foul in the period",
+        "B1 intentionally hits the ball with the fist",
+        "B1 intentionally hits the ball with the foot"
+    ]
+    ],
+    "answers": [
+        [
+        "14 seconds"
+    ],
+    [
+        "24 seconds"
+    ],
+    [
+        "10 seconds"
+    ]
+    ],
+    "explanation": "I29/50-12 If the game is stopped by an official for a foul or violation (not for the ball having gone out-of-bounds) committed by the team not in control of the ball and the possession of the ball is awarded to the same team that previously had control of the ball in the frontcourt, the shot clock is reset as follows: if 13 seconds or less are displayed on the shot clock at the time the game was stopped, the shot clock shall be reset to 14 seconds."
+},
+    {
+    "question_template": "A1 is in control of the ball in the frontcourt, with 16 seconds remaining on the shot clock. %s. After the throw-in, the shot clock shows...",
+    "template_substitutions": [
+        [
+        "B1 fouls A1, third team foul in the period",
+        "B1 fouls A1, fourth team foul in the period",
+        "B1 intentionally hits the ball with the fist",
+        "B1 intentionally hits the ball with the foot"
+    ]
+    ],
+    "answers": [
+        [
+        "16 seconds"
+    ],
+    [
+        "24 seconds"
+    ],
+    [
+        "14 seconds"
+    ]
+    ],
+    "explanation": "I29/50-12 If the game is stopped by an official for a foul or violation (not for the ball having gone out-of-bounds) committed by the team not in control of the ball and the possession of the ball is awarded to the same team that previously had control of the ball in the frontcourt, the shot clock is reset as follows: if 14 seconds or more are displayed on the shot clock at the time the game was stopped, the shot clock shall not be reset, but shall continue from the time it was stopped."
+},
+    {
+    "question_template": "A1 is in control of the ball %s, with 17 seconds remaining on the shot clock. %s. After the throw-in for team A, the shot clock shows...",
+    "template_substitutions": [
+        [
+        "in the backcourt",
+        "in the frontcourt"
+    ],
+        [
+        "B1 sends the ball out-of-bounds",
+        "A double foul is called against A2 and B2",
+        "The referee stops the game because A2 appears to be injured"
+    ]
+    ],
+    "answers": [
+        [
+        "17 seconds"
+    ],
+    [
+        "24 seconds"
+    ],
+    [
+        "14 seconds"
+    ]
+    ],
+    "explanation": "R50.2 The shot clock is stopped, but not reset, when the same team that previously had control of the ball 
+is awarded a throw-in as a result of a ball having gone out-of-bounds"
+},
+    {
+    "question_template": "A1 is in control of the ball %s, with 17 seconds remaining on the shot clock. %s. After the throw-in for team A, the shot clock shows...",
+    "template_substitutions": [
+        [
+        "in the backcourt",
+        "in the frontcourt"
+    ],
+        [
+        "B1 sends the ball out-of-bounds",
+        "A double foul is called against A2 and B2",
+        "The referee stops the game because A2 is injured"
+    ]
+    ],
+    "answers": [
+        [
+        "17 seconds"
+    ],
+    [
+        "24 seconds"
+    ],
+    [
+        "14 seconds"
+    ]
+    ],
+    "explanation": "R50.2 The shot clock is stopped, but not reset, when the same team that previously had control of the ball 
+is awarded a throw-in as a result of a ball having gone out-of-bounds"
+},
+    {
+    "question_template": "With 0:24 to play in the last period and with the score A 72 - B 72, team A has dribbled the ball for 22 seconds when the game is stopped due to %s. After the throw-in %s for team A, the shot clock shows...",
+    "template_substitutions": [
+        [
+        "the game clock failing to start",
+        "the game clock failing to run",
+        "the shot clock failing to run",
+        "the shot clock failing to start",
+        "a bottle being thrown on the playing court",
+        "the shot clock being erroneously reset"
+    ],
+        [
+        "in the backcourt",
+        "in the frontcourt"
+    ]
+    ],
+    "answers": [
+        [
+        "2 seconds"
+    ],
+    [
+        "24 seconds"
+    ],
+    [
+        "14 seconds"
+    ]
+    ],
+    "explanation": "I29/50-21 If the game is stopped by an official for any valid reason not connected with either team and if in the judgement of the officials the opponents would be placed at a disadvantage, the shot clock shall continue from the time it was stopped. Team B would be placed at a disadvantage if the game were resumed with a new shot clock period."
+},
+    {
+    "question_template": "%s, A1 is dribbling %s with 6 seconds remaining on the shot clock. %s.%s When the game resumes, the shot clock shows...",
+    "template_substitutions": [
+        [
+        "In the last minute of the game",
+        "When the game clock shows 2:24 in the extra time",
+        "When the game clock shows 1:24 in the last period",
+        "When the game clock shows 2:00 in the last period"
+    ],
+        [
+            "in the frontcourt",
+            "in the backcourt"
+    ],
+        [
+            "B1 commits an unsportsmanlike foul",
+            "B1 commits a technical foul",
+            "coach B commits a technical foul",
+            "B1 commits a disqualifying foul",
+            "coach B is disqualified"
+    ],
+        [
+            "",
+            "Coach A then requests a time-out.",
+            "Coach B then requests a time-out.",
+    ],
+    ],
+    "answers": [
+        [
+        "6 seconds"
+    ],
+    [
+        "24 seconds"
+    ],
+    [
+        "14 seconds"
+    ]
+    ],
+    "explanation": "I29/50-25 A throw-in resulting from a technical foul, an unsportsmanlike foul or a disqualifying foul penalty is awarded to the offensive team when the game clock shows 2:00 minutes or less in the 4th period and in each extra period. The throw-in shall always be administered at the centre line extended, opposite the scorer’s table. The shot clock shall be reset to 24 seconds, regardless of whether or not a time-out is also awarded to the offensive team during the last 2 minutes of the game. "
+},
+]

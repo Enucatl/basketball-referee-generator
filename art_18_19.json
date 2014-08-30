@@ -1,0 +1,100 @@
+[
+    {
+    "question_template": "A referee tosses the ball for the jump ball at the beginning of the first period. %s. %s requests a %s, which is not granted because the game clock has not started. Right?",
+    "template_substitutions": [
+        [
+        "The jumper A1 catches the ball with both hands",
+        "The jumper A1 touches the ball before it reaches the highest point",
+        "The jumper A1 makes a violation before legally tapping the ball"
+    ],
+        [
+        "Coach A",
+        "Coach B"
+    ],
+        [
+        "substitution",
+        "time-out"
+    ]
+    ],
+    "answers": [
+        [
+        "Yes"
+    ],
+    [
+        "No"
+    ]
+    ],
+    "explanation": "I18/19-2 Despite the fact that the game has already started the time-out or substitution shall not be granted because the game clock has not yet started."
+},
+    {
+    "question_template": "%s requests a %s after the ball is at the disposal of A1 for the last free throw. The free throw is successful. The request is granted by the referees, right?",
+    "template_substitutions": [
+        [
+        "Coach A",
+        "Coach B"
+    ],
+        [
+        "time-out",
+        "substitution"
+    ]
+    ],
+    "answers": [
+        [
+        "Yes"
+    ],
+    [
+        "No"
+    ]
+    ],
+    "explanation": "I18/19-6 If the request for time-out or substitution (for any player, including the free-throw shooter) is made after the ball is at the disposal of the free-throw shooter for the first or only free throw, the time-out or substitution shall be granted for both teams if: the last or only free throw is successful or the last or only free throw is followed by a throw-in at the centre line extended, opposite the scorer’s table, or for any valid reason the ball will remain dead after the last or only free throw."
+},
+    {
+    "question_template": "%s requests a %s after the ball is at the disposal of A1 for the last free throw. B1 steps into the restricted area before the ball has left the hands of A1. The free throw is not successful and the violation of B1 is called.",
+    "template_substitutions": [
+        [
+        "Coach A",
+        "Coach B"
+    ],
+        [
+        "time-out",
+        "substitution"
+    ]
+    ],
+    "answers": [
+        [
+        "A substitute free throw is attempted by A1, and a time-out or substitution is granted only if it is successful"
+    ],
+    [
+        "A time-out or substitution can be granted immediately after the violation, before the free throw is repeated."
+    ]
+    ],
+    "explanation": "I18/19-8 A substitute free throw is attempted by A1 and, if successful, the time-out or substitution is granted immediately."
+},
+    {
+    "question_template": "%s when %s runs to the scorer's table, loudly requesting a %s. The scorer reacts and erroneously sounds the signal. The referee whistles and interrupts the game. Since a referee whistled, the ball is dead and the clock stopped, resulting in a substitution or time-out opportunity, which is granted. Right?",
+    "template_substitutions": [
+        [
+        "The ball is at the disposal of A1 for the first free throw",
+        "A time-out or substitution opportunity has just ended",
+        "The ball is at the disposal of A1 for a throw-in"
+    ],
+        [
+        "Coach A",
+        "Coach B"
+    ],
+        [
+        "time-out",
+        "substitution"
+    ]
+    ],
+    "answers": [
+        [
+        "No"
+    ],
+    [
+        "Yes"
+    ]
+    ],
+    "explanation": "I18/19-13 Because of the official’s interruption of the game the ball is dead and the game clock remains stopped, resulting in what would normally be a substitution or time-out opportunity. However, because the request was made too late, the substitution or time-out shall not be granted. The game shall resume immediately."
+}
+]

@@ -744,10 +744,6 @@ substitution and both teams are also granted a time-out, if they request it.
 throw shooter) is made after the ball is at the disposal of the free-throw shooter for the first 
 or only free throw, the time-out or substitution shall be granted for both teams if: 
 
-(a) The last or only free throw is successful or 
-(b) The last or only free throw is followed by a throw-in at the centre line extended, 
-opposite the scorer’s table, or for any valid reason the ball will remain dead after the 
-last or only free throw. 
 
 
 18/19-7 Example: A1 is awarded 2 free throws. Team A or team B requests a time-out or 
@@ -786,8 +782,7 @@ Interpretation:
 
 (b), (c) and (d) The time-out or substitution is granted immediately. 
 
-(e) A substitute free throw is attempted by A1 and, if successful, the time-out 
-or substitution is granted immediately. 
+(e) 
 
 18/19-9 Statement. If, following a request for a time-out, a foul is committed by either team, the 
 time-out shall not begin until the official has completed all communication related to that 
@@ -1138,9 +1133,7 @@ gone out-of-bounds) committed by the team not in control of the ball and the pos
 the ball is awarded to the same team that previously had control of the ball in the frontcourt, 
 the shot clock is reset as follows: 
 
-• If 14 seconds or more are displayed on the shot clock at the time the game was 
-stopped, the shot clock shall not be reset, but shall continue from the time it was 
-stopped. 
+• If 14 seconds or more are displayed on the shot clock at the time the game was stopped, the shot clock shall not be reset, but shall continue from the time it was stopped. 
 • If 13 seconds or less are displayed on the shot clock at the time the game was stopped, 
 the shot clock shall be reset to 14 seconds. 
 

@@ -1,0 +1,52 @@
+[
+    {
+    "question_template": "A1 has not yet dribbled when he deliberately throws the ball against the backboard, not attempting a shot, and catches it again before another player has touched it.",
+    "template_substitutions": [
+    ],
+    "answers": [
+        [
+        "Legal play"
+    ],
+    [
+        "Violation (illegal dribble)"
+    ]
+    ],
+    "explanation": "I24-1 If a player deliberately throws the ball against a backboard (not attempting a legitimate shot for a field goal) this is considered as if the player has bounced the ball on the floor. If the player then touches the ball again before it has touched (or been touched by) another player, this is considered as a dribble. After catching the ball A1 may shoot or pass but may not begin a new dribble."
+},
+    {
+    "question_template": "After ending a dribble, A1 deliberately throws the ball against the backboard, not attempting a shot, and %s it again before another player has touched it.",
+    "template_substitutions": [
+        ["catches",
+        "touches"]
+    ],
+    "answers": [
+    [
+        "Violation (double dribble)"
+    ],
+        [
+        "Legal play"
+    ]
+    ],
+    "explanation": "I24-1 If a player deliberately throws the ball against a backboard (not attempting a legitimate shot for a field goal) this is considered as if the player has bounced the ball on the floor. If the player then touches the ball again before it has touched (or been touched by) another player, this is considered as a dribble. After catching the ball A1 may shoot or pass but may not begin a new dribble."
+},
+    {
+    "question_template": "A1 stops after ending a dribble. %s.",
+    "template_substitutions": [
+        [
+        "He then loses his balance and, without moving his pivot foot, touches the floor with the ball twice, while holding the ball with two hands",
+        "He tosses the ball from one hand to another without moving his pivot foot"
+    ]],
+    "answers": [
+        [
+        "Legal play"
+    ],
+        [
+        "Travelling violation"
+    ],
+    [
+        "Double dribble violation"
+    ]
+    ],
+    "explanation": "I24-4 Legal action as A1 does not move his pivot foot."
+}
+]
