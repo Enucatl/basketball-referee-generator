@@ -1,0 +1,106 @@
+[
+    {
+    "question_template": "%s, A1 dribbles in his backcourt when %s. %s. The game resumes with a throw-in for team A...",
+    "template_substitutions": [
+        [
+        "When the game clock shows 2:02 in the extra period",
+        "When the game clock shows 2:20 in the second extra period",
+        "When the game clock shows 1:55 in the second period"
+    ],
+        [
+        "B1 taps the ball out-of-bounds",
+        "B1 intentionally hits the ball with a fist",
+        "B1 intentionally hits the ball with a foot"
+    ],
+    [
+        "A time-out is granted to team A",
+        "A time-out is granted first to team B and immediately after to team A",
+        "A time-out is granted first to team A and immediately after to team B"
+    ]
+    ],
+    "answers": [
+        ["In A's backcourt, near the point where the violation occurred"],
+        ["In A's frontcourt, at the throw-in line opposite the scorer's table",
+            "Opposite the scorer's table, at the throw-in line"],
+            ["At the center line, opposite the scorer's table",
+            "Opposite the scorer's table, at the central line"]
+    ],
+    "explanation": "R17.2.4 When the game clock shows 2:00 minutes or less in the fourth period and in each extra period, following a time-out taken by the team that is entitled to possession of the ball from its backcourt, the subsequent throw-in shall be administered at the throw-in line opposite the scorer’s table in the team’s frontcourt."
+},
+    {
+    "question_template": "%s, A1 dribbles in his backcourt when %s. %s. The game resumes with a throw-in for team A...",
+    "template_substitutions": [
+        [
+        "In the last minute of the game",
+        "When the game clock shows 2:00 in the fourth period",
+        "When the game clock shows 0:16 in the fourth period",
+        "When the game clock shows 2:00 in the second extra period"
+    ],
+        [
+        "B1 taps the ball out-of-bounds",
+        "B1 intentionally hits the ball with a fist",
+        "B1 intentionally hits the ball with a foot"
+    ],
+    [
+        "A time-out is granted to team A",
+        "A time-out is granted first to team B and immediately after to team A",
+        "A time-out is granted first to team A and immediately after to team B"
+    ]
+    ],
+    "answers": [
+        ["In A's frontcourt, at the throw-in line opposite the scorer's table",
+            "Opposite the scorer's table, at the throw-in line"],
+        ["In A's backcourt, near the point where the violation occurred"],
+            ["At the center line, opposite the scorer's table",
+            "Opposite the scorer's table, at the central line"]
+    ],
+    "explanation": "R17.2.4 When the game clock shows 2:00 minutes or less in the fourth period and in each extra period, following a time-out taken by the team that is entitled to possession of the ball from its backcourt, the subsequent throw-in shall be administered at the throw-in line opposite the scorer’s table in the team’s frontcourt."
+},
+    {
+    "question_template": "%s, %s when %s. Coach A is granted a time-out. Where shall the throw-in be administered?",
+    "template_substitutions": [
+        [
+        "In the last minute of the game",
+        "When the game clock shows 2:00 in the fourth period",
+        "When the game clock shows 1:44 in the fourth period",
+        "When the game clock shows 2:00 in the second extra period"
+    ],
+    [
+        "A1 is in control of the ball in his backcourt",
+        "A1 is control of the ball in his frontcourt",
+        "A1 has the ball for a throw-in in his backcourt",
+        "A1 has the ball for a throw-in in his frontcourt"
+    ],
+    [
+        "A6 and B6 are disqualified for entering the playing court in a fighting situation",
+        "B6 commits a technical foul. A2 shoots the free throw.",
+        "B6 commits an unsportsmanlike foul on A3, who fails the two free throws.",
+        "B6 commits a disqualifying foul. A2 shoots the free throws."
+    ]
+    ],
+    "answers": [
+            ["At the center line, opposite the scorer's table",
+            "Opposite the scorer's table, at the central line"],
+        ["In A's frontcourt, at the throw-in line opposite the scorer's table",
+            "Opposite the scorer's table, at the throw-in line"],
+        ["Near the point where the game was stopped"]
+    ],
+    "explanation": "R17.2.3 In the following situations the subsequent throw-in shall be administered at the centre line extended, opposite the scorer's table. [...] Following a free throw(s) resulting from a technical, unsportsmanlike or disqua- lifying foul. I17-15 There are additional situations to those listed in Art. 17.2.3 in which the subsequent throw-in shall be administered at the centre line extended, opposite the scorer’s table. If during a fighting situation members of both teams are disqualified, there are no other foul penalties remaining for administration, and at the time the game was stopped a team had control of the ball or was entitled to the ball. In this case the throw-in team shall have only whatever time was remaining on the shot clock. See also I17-28."
+},
+    {
+    "question_template": "On a throw-in of A2 the ball passes over the basket when %s touches it by reaching through the basket from below.",
+    "template_substitutions": [
+        [
+        "A3",
+        "B3"
+    ]
+    ],
+    "answers": [
+        ["It is a violation, and the game resumes with a throw-in at the free-throw line extended."],
+        ["It is a violation, and the game resumes with a throw-in at the original throw-in location."],
+        ["It is a violation, A2 is awarded two or three points and the game resumes with a throw-in at the original throw-in location."],
+        ["It is a violation, A2 is awarded two or three points and the game resumes with a throw-in at the free-throw line extended."]
+    ],
+    "explanation": "I17-18 This is a violation. The game shall be resumed with a throw-in for the opponents at the free-throw line extended. In case the defensive team commits the violation, an offensive team cannot score any points, as the ball did not come from the inbounds area of the playing court."
+}
+]

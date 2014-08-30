@@ -31,7 +31,7 @@
         "Jumper A1 legally taps the ball and then catches it before it has touched one of the non-jumpers or the floor",
         "Jumper A1 makes a violation on the jump ball",
         "Jumper A1 touches the ball before it reaches the highest point in his trajectory",
-        "Jumper A1 touches the ball three times",
+        "Jumper A1 touches the ball three times"
     ]
     ],
     "answers": [
@@ -104,5 +104,5 @@
     ]
     ],
     "explanation": "R23.2.3 If a player(s) move(s) to out-of-bounds or to his backcourt during a held ball, a jump ball situation occurs."
-},
+}
 ]
