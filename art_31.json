@@ -1,0 +1,110 @@
+[
+    {
+    "question_template": "A1 shoots %s free throw. Before the ball has touched the ring, B1 reaches through the basket from below and touches the ball.",
+    "template_substitutions": [
+        ["his last",
+            "his only"
+    ]
+    ],
+    "answers": [
+        [
+        "1 point to A1 and technical foul on B1"
+    ],
+    [
+        "1 point to A1"
+    ],
+    [
+        "the free throw shall be repeated and a technical foul called on B1"
+    ],
+    [
+        "the free throw shall be repeated"
+    ]
+    ],
+    "explanation": "I31-1 When the ball is above the ring during a shot for a field goal or a free-throw attempt, it is interference if a player reaches through the basket from below and touches the ball. R36.3.1 A technical foul is a player non-contact foul of a behavioural nature including, but not limited to: [...] Goaltending during the last or only free throw by a defensive player. The offensive team shall be awarded 1 point, followed by the technical foul penalty charged against the defensive player."
+},
+    {
+    "question_template": "A1 %s the ball. %s is above the ring when B1 reaches through the basket from below and touches it.",
+    "template_substitutions": [
+        ["shoots",
+            "passes"
+    ],
+        ["The ball",
+            "The ball touches the ring and it"
+    ]
+    ],
+    "answers": [
+        [
+        "Interference: 2/3 points are awarded to A1"
+    ],
+    [
+        "Violation of B1, throw-in A from the endline"
+    ],
+    [
+        "Legal play"
+    ]
+    ],
+    "explanation": "I31-3 When the ball is above the ring during a pass or after it has touched the ring, it is interference if a player reaches through the basket from below and touches the ball. "
+},
+    {
+    "question_template": "Following the %s free throw, the ball %s. %s %s and the ball enters the basket.",
+    "template_substitutions": [
+        [
+        "last",
+        "only"
+    ],
+        [
+        "bounces",
+        "has bounced",
+        "has touched",
+        "touches"
+    ],
+        [
+        "A2",
+        "B2"
+    ],
+        [
+        "taps the ball",
+        "touches the ball"
+    ]
+    ],
+    "answers": [
+        [
+        "Legal play and 2 points are awarded to team A"
+    ],
+    [
+        "Legal play and 1 point is awarded to team A"
+    ],
+    [
+        "Interference, 2 points are awarded to team A"
+    ],
+    [
+        "Interference, 1 point is awarded to team A"
+    ],
+    [
+        "Interference, no points are awarded, throw in B"
+    ]
+    ],
+    "explanation": "I31-5 Following the last or only free throw and after the ball has touched the ring, the free-throw attempt changes its status and becomes a 2-point field goal if the ball is legally touched by any player before it enters the basket. "
+},
+    {
+    "question_template": "A shot for a field goal by A1 on its downward flight and completely above the level of the ring is simultaneously touched by A2 and B2. The ball then %s.",
+    "template_substitutions": [
+        [
+        "enters the basket",
+        "does not enter the basket"
+    ]
+    ],
+    "answers": [
+        [
+        "No points are awarded, jump ball situation"
+    ],
+    [
+        "Interference B, 2 points are awarded to A1"
+    ],
+    [
+        "Interference A, no points are awarded"
+    ]
+    ],
+    "explanation": "I31-13 Whenever there are contradictory decisions of the officials or the infractions of the rules occur at approximately the same time and one of the sanctions is to cancel the basket made, that sanction prevails and no points shall be awarded. This is a jump ball situation."
+}
+]

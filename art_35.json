@@ -1,0 +1,99 @@
+[
+    {
+    "question_template": "While in the act of shooting in the restricted area, there is physical contact between shooter A1 and B1. The ball enters the basket and the referee calls a double foul against A1 and B1.",
+    "template_substitutions": [
+    ],
+    "answers": [
+        [
+        "Basket doesn't count, throw-in A at the free-throw line extended"
+    ],
+    [
+        "Basket doesn't count, throw-in B at the free-throw line extended"
+    ],
+    [
+        "Basket doesn't count, throw-in B from the endline"
+    ],
+    [
+        "Basket counts, throw-in A at the free-throw line extended"
+    ],
+    [
+        "Basket doesn't count, throw-in A from the endline"
+    ],
+    [
+        "Basket counts, throw-in A from the endline"
+    ]
+    ],
+    "explanation": "I35-2 Whenever there are contradictory decisions of the officials or the infractions of the rules occur at approximately the same time and one of the sanctions is to cancel the basket made, that sanction prevails and no points shall be awarded. As the officials agree to a double foul the basket shall not count. The game shall be resumed with a team A throw-in at the free-throw line extended. "
+},
+    {
+    "question_template": "After a rebound A1 insults B1 verbally and B1 reacts with punching A1 with his fist. This is a double foul, the sanctions are canceled and a jump ball situation occurs.",
+    "template_substitutions": [
+    ],
+    "answers": [
+        [
+        "True"
+    ],
+    [
+        "False"
+    ]
+    ],
+    "explanation": "I35-5 This is not a double foul. A1’s foul is a technical foul and B1’s foul is a disqualifying foul. The game shall be resumed with 1 free throw for team B, followed by 2 free throws for A1 and possession of the ball for team A. "
+},
+    {
+    "question_template": "Team A is in control of the ball when B1 %s A1, called as a personal foul (%s). A1 at approximately the same time hits B1 with his elbow, called as an unsportsmanlike foul.",
+    "template_substitutions": [
+        ["fouls",
+            "pushes off"
+    ],
+    ["first team foul",
+        "fourth team foul",
+        "fifth team foul",
+        "sixth team foul"
+    ]
+    ],
+    "answers": [
+        [
+        "Double foul, throw-in A"
+    ],
+    [
+        "Double foul, jump ball situation"
+    ],
+    [
+        "2 free throws B, followed by 2 free throws A and throw-in A at the center line"
+    ]
+    ],
+    "explanation": "I35-6 This is a double foul. As team A had control of the ball at the time when the double foul was called, the game shall be resumed with a team A throw-in at the place nearest to the infraction. "
+},
+    {
+    "question_template": "A2 controls the ball, when A1 and B1 are pushing each other and personal fouls are called on both players. This is team's A %s and team's B %s foul in the period.",
+    "template_substitutions": [
+        [
+        "first",
+        "second",
+        "fifth",
+        "sixth"
+    ],
+        [
+        "first",
+        "second",
+        "fifth",
+        "sixth"
+    ]
+    ],
+    "answers": [
+        [
+        "Double foul, no free throws and throw-in A"
+    ],
+    [
+        "2 free throws A and throw-in A"
+    ],
+    [
+        "2 free throws B and throw-in A"
+    ],
+    [
+        "2 free throws A, 2 free throws B and throw-in A"
+    ]
+    ],
+    "explanation": "I35-7 This is a double foul. No free throws shall be awarded."
+}
+]

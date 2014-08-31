@@ -1,6 +1,6 @@
 [
     {
-    "question_template": "A1 shoots for a field goal. The ball is in the air when the shot clock signal sounds. %s, then %.",
+    "question_template": "A1 shoots for a field goal. The ball is in the air when the shot clock signal sounds. %s, then %s.",
     "template_substitutions": [
         [
         "The ball touches the backboard",
@@ -22,7 +22,7 @@
     "explanation": "I29/50-1 A shot for a field goal is attempted near the end of the shot clock period and the signal sounds while the ball is in the air. If the ball does not touch the ring, a violation has occurred unless the opponents have gained immediate and clear control of the ball. The ball shall be awarded to the opponent for the throw-in at the place nearest to where the game was stopped by the official, except directly behind the backboard. This is a shot clock violation because the ball did not touch the ring and then there was no immediate and clear control of the ball by the opponents."
 },
     {
-    "question_template": "A1 shoots for a field goal. The ball is in the air when the shot clock signal sounds. %s, then %.",
+    "question_template": "A1 shoots for a field goal. The ball is in the air when the shot clock signal sounds. %s, then %s.",
     "template_substitutions": [
         [
         "The ball touches the backboard",
@@ -43,7 +43,7 @@
     "explanation": "I29/50-1 A shot for a field goal is attempted near the end of the shot clock period and the signal sounds while the ball is in the air. If the ball does not touch the ring, a violation has occurred unless the opponents have gained immediate and clear control of the ball. The ball shall be awarded to the opponent for the throw-in at the place nearest to where the game was stopped by the official, except directly behind the backboard. This is a shot clock violation because the ball did not touch the ring and then there was no immediate and clear control of the ball by the opponents."
 },
     {
-    "question_template": "A1 shoots for a field goal. The ball is in the air when the shot clock signal sounds. %s, then %.",
+    "question_template": "A1 shoots for a field goal. The ball is in the air when the shot clock signal sounds. %s, then %s.",
     "template_substitutions": [
         [
         "The ball touches the backboard",
@@ -52,7 +52,7 @@
         [
         "B1 fouls A1",
         "the ball touches B1 and then goes out-of-bounds",
-        "B1 commits a violation",
+        "B1 commits a violation"
     ]
     ],
     "answers": [
@@ -63,8 +63,7 @@
         "Throw-in A"
     ]
     ],
-    "explanation": "I29/50-5 A shot clock violation has occurred. Team B did not gain immediate and 
-clear control of the ball. B's violations and fouls shall be disregarded, unless technical, unsportsmanlike or disqualifying."
+    "explanation": "I29/50-5 A shot clock violation has occurred. Team B did not gain immediate and clear control of the ball. B's violations and fouls shall be disregarded, unless technical, unsportsmanlike or disqualifying."
 },
     {
     "question_template": "Team A is in control of the ball %s, with 10 seconds remaining on the shot clock. %s. An alternating possession throw-in is awarded to team A with how many seconds on the shot clock?",
@@ -164,8 +163,7 @@ clear control of the ball. B's violations and fouls shall be disregarded, unless
         "14 seconds"
     ]
     ],
-    "explanation": "R50.2 The shot clock is stopped, but not reset, when the same team that previously had control of the ball 
-is awarded a throw-in as a result of a ball having gone out-of-bounds"
+    "explanation": "R50.2 The shot clock is stopped, but not reset, when the same team that previously had control of the ball is awarded a throw-in as a result of a ball having gone out-of-bounds"
 },
     {
     "question_template": "A1 is in control of the ball %s, with 17 seconds remaining on the shot clock. %s. After the throw-in for team A, the shot clock shows...",
@@ -191,8 +189,7 @@ is awarded a throw-in as a result of a ball having gone out-of-bounds"
         "14 seconds"
     ]
     ],
-    "explanation": "R50.2 The shot clock is stopped, but not reset, when the same team that previously had control of the ball 
-is awarded a throw-in as a result of a ball having gone out-of-bounds"
+    "explanation": "R50.2 The shot clock is stopped, but not reset, when the same team that previously had control of the ball is awarded a throw-in as a result of a ball having gone out-of-bounds"
 },
     {
     "question_template": "With 0:24 to play in the last period and with the score A 72 - B 72, team A has dribbled the ball for 22 seconds when the game is stopped due to %s. After the throw-in %s for team A, the shot clock shows...",
@@ -246,12 +243,35 @@ is awarded a throw-in as a result of a ball having gone out-of-bounds"
         [
             "",
             "Coach A then requests a time-out.",
-            "Coach B then requests a time-out.",
-    ],
+            "Coach B then requests a time-out."
+    ]
     ],
     "answers": [
         [
+        "24 seconds"
+    ],
+    [
         "6 seconds"
+    ],
+    [
+        "14 seconds"
+    ]
+    ],
+    "explanation": "I29/50-25 A throw-in resulting from a technical foul, an unsportsmanlike foul or a disqualifying foul penalty is awarded to the offensive team when the game clock shows 2:00 minutes or less in the 4th period and in each extra period. The throw-in shall always be administered at the centre line extended, opposite the scorer’s table. The shot clock shall be reset to 24 seconds, regardless of whether or not a time-out is also awarded to the offensive team during the last 2 minutes of the game. "
+},
+    {
+    "question_template": "A1 dribbles in his frontcourt with 18 seconds remaining on the shot clock when %s. How many seconds will team A have on the shot clock after the throw-in?",
+    "template_substitutions": [
+        [
+        "B2 fouls A1 (third team foul in the period)",
+        "B1 intentionally hits the ball with the fist",
+        "B1 intentionally hits the ball with the foot",
+        "B1 intentionally hits the ball with the leg"
+    ]
+    ],
+    "answers": [
+        [
+        "18 seconds"
     ],
     [
         "24 seconds"
@@ -260,6 +280,300 @@ is awarded a throw-in as a result of a ball having gone out-of-bounds"
         "14 seconds"
     ]
     ],
-    "explanation": "I29/50-25 A throw-in resulting from a technical foul, an unsportsmanlike foul or a disqualifying foul penalty is awarded to the offensive team when the game clock shows 2:00 minutes or less in the 4th period and in each extra period. The throw-in shall always be administered at the centre line extended, opposite the scorer’s table. The shot clock shall be reset to 24 seconds, regardless of whether or not a time-out is also awarded to the offensive team during the last 2 minutes of the game. "
+    "explanation": "R50.4 The shot clock is stopped but not reset to 24 seconds when the same team that previously had control of the ball is awarded a frontcourt throw-in and 14 seconds or more are displayed on the shot clock as the result of a foul or violation."
 },
+    {
+    "question_template": "A1 dribbles in his frontcourt with 11 seconds remaining on the shot clock when %s. How many seconds will team A have on the shot clock after the throw-in?",
+    "template_substitutions": [
+        [
+        "B2 fouls A1 (third team foul in the period)",
+        "B1 intentionally hits the ball with the fist",
+        "B1 intentionally hits the ball with the foot",
+        "B1 intentionally hits the ball with the leg"
+    ]
+    ],
+    "answers": [
+        [
+        "14 seconds"
+    ],
+    [
+        "24 seconds"
+    ],
+    [
+        "11 seconds"
+    ]
+    ],
+    "explanation": "R50.5 The shot clock is stopped and reset to 14 seconds when the same team that previously had control of the ball is awarded a frontcourt throw-in and 13 seconds or less are displayed on the shot clock as the result of a foul or violation."
+},
+    {
+    "question_template": "A1 dribbles in his backcourt with %s seconds remaining on the shot clock when %s. How many seconds will team A have on the shot clock after the throw-in?",
+    "template_substitutions": [
+        [
+        "12",
+        "18"
+    ],
+        [
+        "B2 fouls A1 (third team foul in the period)",
+        "B1 intentionally hits the ball with the fist",
+        "B1 intentionally hits the ball with the foot",
+        "B1 intentionally hits the ball with the leg"
+    ]
+    ],
+    "answers": [
+        [
+        "24 seconds"
+    ],
+    [
+        "18 seconds"
+    ],
+    [
+        "14 seconds"
+    ],
+    [
+        "12 seconds"
+    ]
+    ],
+    "explanation": "R50.3 The shot clock is stopped and reset to 24 seconds when the team is awarded a backcourt throw-in as the result of a foul or violation."
+},
+    {
+    "question_template": "%s, with %s seconds remaining on the shot clock, the ball %s, then touches the ring %s. A3 gains control of the ball %s. The shot clock should...",
+    "template_substitutions": [
+        [
+        "On a pass by A1 to A2",
+        "On a shot by A1 from his backcourt",
+        "On a shot by A1 from the three-point line",
+        "On a shot by A1"
+    ],
+        [
+        "12",
+        "18"
+    ],
+        [
+        "touches B2",
+        "touches A3"
+    ],
+        [
+        "and then touches B2",
+        "and then touches A3",
+        "and then is touched by A3",
+        "and then is touched by B3"
+    ],
+        [
+            "in the backcourt",
+            "in the frontcourt"
+    ]
+    ],
+    "answers": [
+        [
+        "be reset to 14 seconds"
+    ],
+    [
+        "show 12 seconds"
+    ],
+    [
+        "show 18 seconds"
+    ],
+    [
+        "be reset to 24 seconds"
+    ]
+    ],
+    "explanation": "I29/50-32 After the ball has touched the ring of the opponents’ basket for any reason, the shot clock shall be reset to 14 seconds, if the team which regains control of the ball is the same team that was in control of the ball before the ball touched the ring. "
+},
+    {
+    "question_template": "A1 shoots for a field goal with %s seconds remaining on the shot clock. The ball touches the ring, then %s %s. How many seconds will team A have on the shot clock after the throw-in?",
+    "template_substitutions": [
+        [
+        "12",
+        "18"
+    ],
+    [
+        "in the frontcourt",
+        "in the backcourt"
+    ],
+        [
+        "B2 fouls A2 (third team foul)",
+        "a held ball is called between B3 and A3, team A is entitled to the alternating possession throw-in."
+    ]
+    ],
+    "answers": [
+        [
+        "14 seconds"
+    ],
+    [
+        "18 seconds"
+    ],
+    [
+        "24 seconds"
+    ],
+    [
+        "12 seconds"
+    ]
+    ],
+    "explanation": "I29/50-36 Throw-in for team A at the place nearest to the infraction. The shot clock shall be reset to 14 seconds regardless of whether the throw-in shall be in the frontcourt or in the backcourt."
+},
+    {
+    "question_template": "A1 shoots for a field goal with %s seconds remaining on the shot clock. The ball touches the ring, then %s and finally ends out-of bounds %s. How many seconds will team A have on the shot clock after the throw-in?",
+    "template_substitutions": [
+        [
+        "12",
+        "18"
+    ],
+        [
+        "touches B2",
+        "is touched by B2"
+    ],
+    [
+        "in the frontcourt",
+        "in the backcourt"
+    ]
+    ],
+    "answers": [
+        [
+        "14 seconds"
+    ],
+    [
+        "18 seconds"
+    ],
+    [
+        "24 seconds"
+    ],
+    [
+        "12 seconds"
+    ]
+    ],
+    "explanation": "I29/50-36 Throw-in for team A at the place nearest to the infraction. The shot clock shall be reset to 14 seconds regardless of whether the throw-in shall be in the frontcourt or in the backcourt."
+},
+    {
+    "question_template": "A1 gets a defensive rebound and wats to pass the ball to A2. B1 taps the ball out of A1's hands. The ball hits the ring and is caught by B2. The shot clock for team B should be reset to...",
+    "template_substitutions": [
+    ],
+    "answers": [
+        [
+        "24 seconds"
+    ],
+    [
+        "14 seconds"
+    ]
+    ],
+    "explanation": "I29/50-44 As the ball was not in control of the same team that was in control of the ball before the ball touched the ring, the shot clock shall be restarted with 24 seconds for team B."
+},
+    {
+    "question_template": "A1 shoots for a field goal with %s seconds remaining on the shot clock. The ball touches the ring, then %s and finally ends out-of bounds %s. How many seconds will team A have on the shot clock after the throw-in?",
+    "template_substitutions": [
+        [
+        "12",
+        "18"
+    ],
+        [
+        "touches B2",
+        "is touched by B2"
+    ],
+    [
+        "in the frontcourt",
+        "in the backcourt"
+    ]
+    ],
+    "answers": [
+        [
+        "14 seconds"
+    ],
+    [
+        "18 seconds"
+    ],
+    [
+        "24 seconds"
+    ],
+    [
+        "12 seconds"
+    ]
+    ],
+    "explanation": "I29/50-36 Throw-in for team A at the place nearest to the infraction. The shot clock shall be reset to 14 seconds regardless of whether the throw-in shall be in the frontcourt or in the backcourt."
+},
+    {
+    "question_template": "%s A1 is fouled (third team B foul) in his backcourt with 19 seconds on the shot clock. Team A is granted a time-out. The game continues with...",
+    "template_substitutions": [
+        [
+        "In the last minute of the game",
+        "When the game clock shows 2:00 in the fourth period",
+        "When the game clock shows 1:42 in the extra period"
+    ]
+    ],
+    "answers": [
+        [
+        "Throw in from the throw-in line in the frontcourt and 19 seconds"
+    ],
+    [
+        "Throw in from the backcourt and 24 seconds"
+    ],
+    [
+        "Throw in from the backcourt and 19 seconds"
+    ],
+    [
+        "Throw in throw-in line and 24 seconds"
+    ],
+    [
+        "Throw in throw-in line and 14 seconds"
+    ]
+    ],
+    "explanation": "I29/50-50 Throw-in for team A at the place nearest to the infraction. The shot clock shall be reset to 14 seconds regardless of whether the throw-in shall be in the frontcourt or in the backcourt."
+},
+    {
+    "question_template": "%s A1 is fouled (third team B foul) in his backcourt with 19 seconds on the shot clock. Team B is granted a time-out. The game continues with...",
+    "template_substitutions": [
+        [
+        "In the last minute of the game",
+        "When the game clock shows 3:00 in the extra period",
+        "When the game clock shows 2:00 in the fourth period",
+        "When the game clock shows 1:42 in the extra period"
+    ]
+    ],
+    "answers": [
+        [
+        "Throw in from the backcourt and 24 seconds"
+    ],
+    [
+        "Throw in from the throw-in line in the frontcourt and 19 seconds"
+    ],
+    [
+        "Throw in from the backcourt and 19 seconds"
+    ],
+    [
+        "Throw in throw-in line and 24 seconds"
+    ],
+    [
+        "Throw in throw-in line and 14 seconds"
+    ]
+    ],
+    "explanation": "I29/50-51 The game shall be resumed with a team A throw-in from his backcourt with new 24 seconds on the shot clock."
+},
+    {
+    "question_template": "Team A has a throw-in with 3 seconds remaining on the shot clock. A1 %s. The shot clock...",
+    "template_substitutions": [
+        [
+        "passes the ball towards the basket, where it touches the ring",
+        "shoots the ball towards the basket, where it touches the ring",
+        "tries to deliberately hit the ring in an attempt to reset the shot clock. The ball hits the ring",
+        "shoots the ball towards the ring, deliberately trying to reset the shot clock",
+        "deliberately hits the ring to reset the shot clock."
+    ]
+    ],
+    "answers": [
+        [
+        "is not reset, and continues from 3 seconds when any player touches the ball on the court"
+    ],
+    [
+        "is immediately reset to 24 seconds"
+    ],
+    [
+        "is immediately reset to 14 seconds"
+    ],
+    [
+        "is reset to 24 seconds when any player touches the ball on the court"
+    ],
+    [
+        "is reset to 14 seconds when any player touches the ball on the court"
+    ]
+    ],
+    "explanation": "I17/20 The shot clock operator shall not reset his clock, as the game clock has not started yet. The shot clock shall be started simultaneously with the game clock when the first player on the playing court touches the ball."
+}
 ]

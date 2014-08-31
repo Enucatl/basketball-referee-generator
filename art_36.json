@@ -1,0 +1,26 @@
+[
+    {
+    "question_template": "%s, player-coach A1 is charged with a technical foul for %s. The foul counts towards the team foul penalty in the following period",
+    "template_substitutions": [
+        [
+        "Between the first and second half",
+        "Between the third period and the fourth period",
+        "Shortly before the jump ball for the beginning of the game"
+    ],
+        [
+        "hanging on the ring",
+        "his behaviour",
+        "insulting an opponent"
+    ]
+    ],
+    "answers": [
+        [
+        "True"
+    ],
+    [
+        "False"
+    ]
+    ],
+    "explanation": "I36-3 During an interval of play a technical foul is committed by a team member who is entitled to play and who is designated as player-coach. The technical foul shall count as a player foul and shall count towards the team foul penalty situation in the following period. "
+}
+]

@@ -1,0 +1,108 @@
+[
+    {
+    "question_template": "A1 %s attemps a pass to A2 %s. B1 jumps from the team B frontcourt, catches the ball while airborne and lands %s",
+    "template_substitutions": [
+        [
+        "in the backcourt",
+        "in the frontcourt"
+    ],
+        [
+        "in the backcourt",
+        "in the frontcourt"
+    ],
+        [
+        "with both feet in his backcourt",
+        "straddling the center line",
+        "straddling the center line, then dribbles to his backcourt",
+        "straddling the center line, then dribbles to his frontcourt",
+        "straddling the center line, then passes to his frontcourt",
+        "straddling the center line, then passes to his backcourt",
+        "with the left foot on the center line",
+        "with the right foot on the center line"
+    ]
+    ],
+    "answers": [
+        [
+        "Legal play"
+    ],
+    [
+        "The ball has been illegally returned to the backcourt by B1"
+    ],
+    [
+        "The ball has been illegally returned to the backcourt by A1"
+    ]
+    ],
+    "explanation": "I30-1 While airborne, a player retains the same status relative to the floor as where he was last touching the floor before jumping into the air. However, when an airborne player jumps from his frontcourt and gains control of the ball while still airborne, he is the first player on his team to establish team control. If his momentum then returns him to his backcourt, he is helpless to avoid not returning also with the ball to the backcourt. Therefore if an airborne player establishes a new team control, that player’s position relative to the frontcourt/backcourt will not be determined until the player has returned with both feet to the floor. No violation has occurred. B1 established the first team B control of the ball while airborne and his position relative to frontcourt/backcourt was not determined until both his feet returned to the floor. In all cases B1 is legally in his backcourt."
+},
+    {
+    "question_template": "A1 takes a throw-in %s and passes the ball to A2. A2 jumps from his frontcourt, catches the ball while airborne and lands %s",
+    "template_substitutions": [
+        [
+        "in the backcourt",
+        "straddling the center line for the beginning of the second period",
+        "in the frontcourt"
+    ],
+        [
+        "with both feet in his backcourt",
+        "straddling the center line",
+        "straddling the center line, then dribbles to his backcourt",
+        "straddling the center line, then dribbles to his frontcourt",
+        "straddling the center line, then passes to his frontcourt",
+        "straddling the center line, then passes to his backcourt",
+        "with the left foot on the center line",
+        "with the right foot on the center line"
+    ]
+    ],
+    "answers": [
+        [
+        "Backcourt violation"
+    ],
+    [
+        "Legal play"
+    ]
+    ],
+    "explanation": "I30-4 Team A violation. A1 has established the team A control of the ball before A2 caught the ball while airborne and landed in his backcourt. A2 has illegally returned the ball to the backcourt."
+},
+    {
+    "question_template": "A1 is standing with both feet in the frontcourt near the center line when A1 attempts a bounce pass to A2 who is also standing with both feet in the frontcourt near the center line. On the pass, the ball touches the backcourt before touching A2 in the frontcourt.",
+    "template_substitutions": [
+    ],
+    "answers": [
+        [
+        "Backcourt violation"
+    ],
+    [
+        "Legal play"
+    ]
+    ],
+    "explanation": "I30-7 A live ball has been illegally returned to the backcourt when a team A player in the frontcourt causes the ball to touch the backcourt, after which a team A player is the first to touch the ball either in the frontcourt or backcourt. However, it is legal when a team A player in the backcourt causes the ball to touch the frontcourt, after which a team A player is the first to touch the ball either in the frontcourt or backcourt. "
+},
+    {
+    "question_template": "A1 is standing with both feet in the backcourt near the center line when A1 attempts a bounce pass to A2 who is also standing with both feet in the backcourt near the center line. On the pass, the ball touches the frontcourt before touching A2 in the backcourt.",
+    "template_substitutions": [
+    ],
+    "answers": [
+        [
+        "Legal play"
+    ],
+    [
+        "Backcourt violation"
+    ]
+    ],
+    "explanation": "I30-7 A live ball has been illegally returned to the backcourt when a team A player in the frontcourt causes the ball to touch the backcourt, after which a team A player is the first to touch the ball either in the frontcourt or backcourt. However, it is legal when a team A player in the backcourt causes the ball to touch the frontcourt, after which a team A player is the first to touch the ball either in the frontcourt or backcourt. However, as the ball was caused to go into the frontcourt the 8-second count stopped at the moment the ball has touched the frontcourt. A new 8-second count shall be started as soon as A2 touches the ball. "
+},
+    {
+    "question_template": "Team A is in control of the ball in its frontcourt when the ball is simultaneously touched by A1 and B1 and then goes into the team A’s backcourt, where the ball is first touched by A2",
+    "template_substitutions": [
+    ],
+    "answers": [
+        [
+        "Backcourt violation"
+    ],
+    [
+        "Legal play"
+    ]
+    ],
+    "explanation": "I30-7 A live ball has been illegally returned to the backcourt when a team A player in the frontcourt causes the ball to touch the backcourt, after which a team A player is the first to touch the ball either in the frontcourt or backcourt. Team A has caused the ball to be illegally returned into its backcourt. "
+}
+]
