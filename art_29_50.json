@@ -221,7 +221,7 @@
     "explanation": "I29/50-21 If the game is stopped by an official for any valid reason not connected with either team and if in the judgement of the officials the opponents would be placed at a disadvantage, the shot clock shall continue from the time it was stopped. Team B would be placed at a disadvantage if the game were resumed with a new shot clock period."
 },
     {
-    "question_template": "%s, A1 is dribbling %s with 6 seconds remaining on the shot clock. %s.%s When the game resumes, the shot clock shows...",
+    "question_template": "%s, A1 is dribbling %s with 6 seconds remaining on the shot clock. %s. %s When the game resumes, the shot clock shows...",
     "template_substitutions": [
         [
         "In the last minute of the game",

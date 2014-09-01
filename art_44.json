@@ -1,0 +1,183 @@
+[
+    {
+    "question_template": "B1 fouls A1 not in the act of shooting and this is team B’s %s team foul. The official commits an error by awarding A1 2 free throws. %s, the game continues and the game clock starts. B2 receives the ball, dribbles and scores. The error is discovered after the ball is at the team A’s player disposal for the throw-in at the end line.",
+    "template_substitutions": [
+        [
+        "3rd",
+        "4th"
+    ],
+        [
+        "Following the successful last free throw",
+        "Both free throws are successful"
+    ]
+    ],
+    "answers": [
+        ["B2's basket counts, but the error is no longer correctable"],
+        ["B2's basket does not count, the error is corrected and a jump ball situation follows"],
+        ["B2's basket does not count, the error is corrected and a throw-in is awarded to team A"],
+        ["B2's basket counts, the error is corrected and a throw-in is awarded to team A"]
+    ],
+    "explanation": "R44.2.1 To be correctable the above-mentioned errors must be recognized by the officials, commissioner, if present, or table officials before the ball becomes live following the first dead ball after the game clock has started following the error. I44-2 B2's basket counts, but the ball has become live again, the error is no longer correctable and the game continues."
+},
+    {
+    "question_template": "B1 fouls A1 not in the act of shooting and this is team B’s %s team foul. The official commits an error by awarding A1 2 free throws. %s, the game continues and the game clock starts. B2 receives the ball, dribbles and scores. The error is discovered before the ball is at the team A’s player disposal for the throw-in at the end line.",
+    "template_substitutions": [
+        [
+        "3rd",
+        "4th"
+    ],
+        [
+        "Following the successful last free throw",
+        "Both free throws are successful"
+    ]
+    ],
+    "answers": [
+        ["B2's basket counts, any free throw made by A1 is canceled and the game continues with throw-in A from the endline"],
+        ["B2's basket counts, any free throw made by A1 is canceled and the game continues with throw-in A in the frontcourt, where the foul had occurred"],
+        ["B2's basket does not count, any free throw made by A1 is canceled and the game continues with throw-in A from the endline"],
+        ["B2's basket does not count, any free throw made by A1 is canceled and the game continues with throw-in A in the frontcourt, where the foul had occurred"],
+        ["B2's basket counts, but the error is no longer correctable"]
+    ],
+    "explanation": "R44.2.1 To be correctable the above-mentioned errors must be recognized by the officials, commissioner, if present, or table officials before the ball becomes live following the first dead ball after the game clock has started following the error. I44-2 B2’s basket counts. Any free throw made shall be cancelled. The error is still correctable and team A shall be awarded the ball for a throw-in at the end line where the game was interrupted to correct the error. "
+},
+    {
+    "question_template": "B1 fouls A1, and this is team B's %s team foul in the period. Instead of A1 it is A2 who attempts the 2 free throws, the error is discovered %s.",
+    "template_substitutions": [
+        [
+        "fifth",
+        "6th"
+    ],
+        [
+        "after the ball has left A2’s hands for the first free throw.",
+        "before A2 gets the ball for the second free throw",
+        "before A2 shoots the ball for the second free throw",
+        "before A2 gets the ball for the last free throw",
+        "after the successful last free throw.",
+        "after the successful second free throw."
+    ]
+    ],
+    "answers": [
+        ["The free throws are cancelled, throw-in B at the free throw-line extended"],
+        ["The free throws are cancelled, throw-in B at the endline"],
+        ["The free throws are cancelled, A1 repeats them and the game continues normally"]
+    ],
+    "explanation": "I44-3 If the error constitutes the wrong player shooting a free throw(s), the free throw(s) shall be cancelled. The ball shall be awarded to the opponents for a throw-in at the free-throw line extended unless the game has started, in which case it shall be awarded for a throw-in at the place nearest to where the game was interrupted unless penalties for further infractions are to be administered. If the officials discover, before the ball has left the hands of the free-throw shooter for the first or only free throw, that a wrong player has the intention to attempt a free throw(s), he shall be immediately replaced by the correct free-throw shooter without any sanction. "
+},
+    {
+    "question_template": "B1 fouls A1, and this is team B's %s team foul in the period. Instead of A1 it is A2 who attempts the 2 free throws, the error is discovered %s.",
+    "template_substitutions": [
+        [
+        "fifth",
+        "6th"
+    ],
+        [
+        "before A2 gets the ball for the first free throw",
+        "before A2 shoots the ball for the first free throw"
+    ]
+    ],
+    "answers": [
+        ["A1 is required to shoot the free throws, with no sanction"],
+        ["The free throws are cancelled, throw-in B at the free throw-line extended"],
+        ["The free throws are cancelled, throw-in B at the endline"]
+    ],
+    "explanation": "I44-3 If the error constitutes the wrong player shooting a free throw(s), the free throw(s) shall be cancelled. The ball shall be awarded to the opponents for a throw-in at the free-throw line extended unless the game has started, in which case it shall be awarded for a throw-in at the place nearest to where the game was interrupted unless penalties for further infractions are to be administered. If the officials discover, before the ball has left the hands of the free-throw shooter for the first or only free throw, that a wrong player has the intention to attempt a free throw(s), he shall be immediately replaced by the correct free-throw shooter without any sanction. "
+},
+    {
+    "question_template": "B1 fouls A1, and this is team B's %s team foul in the period, after which a technical foul is committed by %s. A2 shoots all the three free throws, and the error is discovered %s.",
+    "template_substitutions": [
+        [
+        "fifth",
+        "6th"
+    ],
+        [
+        "coach B",
+        "B2",
+        "substitute B6"
+    ],
+        [
+        "before the ball has left the hands of A3, taking the throw-in at the center line",
+        "after the ball is at the disposal of A3, taking the throw-in at the center line",
+        "before the throw-in for team A"
+    ]
+    ],
+    "answers": [
+        ["The two free throws attempted by A2 are cancelled, throw-in A at the center line"],
+        ["The two free throws attempted by A2 are cancelled, throw-in B at the free-throw line extended"],
+        ["The two free throws attempted by A2 are cancelled, jump ball situation"],
+        ["The error is no longer correctable"]
+    ],
+    "explanation": "I44-5 The 2 free throws which were attempted by A2 instead of A1 are cancelled. The free throw for the technical foul penalty was legally taken and therefore the game shall resume with a throw-in for team A at the centre line extended, opposite the scorer’s table."
+},
+    {
+    "question_template": "B1 fouls A1, and the referee calls %s foul. A2 shoots the free throws, and the error is discovered %s.",
+    "template_substitutions": [
+        [
+        "a disqualifying",
+        "an unsportsmanlike"
+    ],
+        [
+        "before the ball has left the hands of A3, taking the throw-in at the center line",
+        "after the ball is at the disposal of A3, taking the throw-in at the center line",
+        "after the ball has left A2’s hands for the first free throw.",
+        "before A2 gets the ball for the second free throw",
+        "before A2 shoots the ball for the second free throw",
+        "before A2 gets the ball for the last free throw",
+        "after the successful last free throw.",
+        "after the successful second free throw.",
+        "before the throw-in for team A"
+    ]
+    ],
+    "answers": [
+        ["The two free throws attempted by A2 are cancelled, throw-in B at the center line"],
+        ["The two free throws attempted by A2 are cancelled, throw-in A at the center line"],
+        ["The two free throws attempted by A2 are cancelled, throw-in B at the free-throw line extended"],
+        ["The two free throws attempted by A2 are cancelled, jump ball situation"],
+        ["The error is no longer correctable"]
+    ],
+    "explanation": "I44-3 If the error constitutes the wrong player shooting a free throw(s), the free throw(s) shall be cancelled. The ball shall be awarded to the opponents for a throw-in at the free-throw line extended unless the game has started, in which case it shall be awarded for a throw-in at the place nearest to where the game was interrupted unless penalties for further infractions are to be administered. If the officials discover, before the ball has left the hands of the free-throw shooter for the first or only free throw, that a wrong player has the intention to attempt a free throw(s), he shall be immediately replaced by the correct free-throw shooter without any sanction. The same procedure shall be applied if the foul of B1 is unsportsmanlike (or disqualifying). In that case also the right to the possession of the ball as part of the penalty is cancelled and the game shall be resumed with a throw-in for team B at the centre line extended, opposite the scorer’s table. "
+},
+    {
+    "question_template": "B1 fouls A1, and this is team B's %s team foul in the period. Instead of two free throws, team A is awarded a throw-in. A2 dribbles the ball and B2 taps the ball out-of-bounds. %s requests a time-out. During the time-out, %s.",
+    "template_substitutions": [
+        [
+        "fifth",
+        "6th"
+    ],
+        [
+        "coach B",
+        "coach A"
+    ],
+        [
+        "the referees recognize the error",
+        "it is called to the attention of the referees that A1 should have been awarded 2 free throws"
+    ]
+    ],
+    "answers": [
+        ["A1 shoots 2 free throws, and the game continues as after any free throw"],
+        ["A1 shoots 2 free throws with no rebound, and the game continues with throw-in A"],
+        ["The error can not be corrected"]
+    ],
+    "explanation": "I44-6 After the error is corrected, the game shall be resumed from the point of interruption to correct the error, unless the correction involves awarding merited free throw(s) and if there has been no change of team possession after the error was made, the game shall resume as after any normal free throw(s). "
+},
+    {
+    "question_template": "B1 fouls A1, and this is team B's %s team foul in the period. Instead of two free throws, team A is awarded a throw-in. A2 receives the ball and scores a basket. The error is recognized %s.",
+    "template_substitutions": [
+        [
+        "fifth",
+        "6th"
+    ],
+        [
+        "immediately",
+        "after the ball becomes live for the throw-in from the endline",
+        "before the ball becomes live for the throw-in from the endline",
+        "before the ball becomes live"
+    ]
+    ],
+    "answers": [
+        ["the error is ignored"],
+        ["the error cannot be corrected because it is too late"],
+        ["the basket counts and A1 shoots 2 free throws with no rebound, then throw-in B"],
+        ["the basket does not count and A1 shoots 2 free throws with no rebound, then throw-in B"]
+    ],
+    "explanation": "R44.3.2 Failure to award a merited free throw(s). If the same team scores after having been erroneously awarded possession of the ball for a throw-in, the error shall be disregarded." }
+]
