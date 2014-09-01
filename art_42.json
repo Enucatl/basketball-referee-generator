@@ -1,0 +1,128 @@
+[
+    {
+    "question_template": "A1 attempts a jump shot. While the ball is in the air, the shot clock signal sounds. %s the signal, with A1 still in the air, B1 commits %s foul on A1 and %s.",
+    "template_substitutions": [
+        [
+        "After",
+        "Before"
+    ],
+        [
+        "an unsportsmanlike",
+        "a disqualifying"
+    ],
+        [
+        "the ball misses the ring",
+        "the ball touches the ring but does not enter the basket",
+        "the ball enters the basket"
+    ]
+    ],
+    "answers": [
+        ["basket counts, 2 or 3 free throws for A1, and throw-in A at the center line extended"],
+        ["basket counts, 2 or 3 free throws for A1, and a jump ball situation follows because a 24 seconds violation occurred"],
+        ["24 seconds violation, the basket does not count and the foul is ignored"],
+        ["24 seconds violation, the basket does not count and A1 shoots 2 or 3 free throws, followed by throw-in A"],
+        ["24 seconds violation, therefore A1 is not in the act of shooting, the basket does not count and A1 shoots 2, followed by throw-in A"]
+    ],
+    "explanation": "I42-2 In all cases an unsportsmanlike or disqualifying foul cannot be disregarded.A1 was fouled by B1 while A1 was in the act of shooting. Even if the foul occurs after the shot clock sounds, the shot clock violation by team A shall be disregarded as it would have occurred after the foul. 2 or 3 free throws shall be awarded to A1, followed by a team A’s throw-in at the centre line extended, opposite the scorer’s table. "
+},
+    {
+    "question_template": "A1 is in the act of shooting in the restricted area when he is fouled by B2. Afterwards, while still in the act of shooting, A1 is fouled by B1 (personal foul). The ball does not enter the basket.",
+    "template_substitutions": [
+    ],
+    "answers": [
+        ["B1's foul is ignored"],
+        ["Both fouls are reported and A1 shoots 4 free throws"],
+        ["B2's foul is ignored"]
+    ],
+    "explanation": "I42-3 B1’s foul shall be disregarded unless it is an unsportsmanlike or disqualifying foul."
+},
+    {
+    "question_template": "B1 commits %s foul against A1 who is dribbling the ball. After the foul, technical fouls are committed by %s. This is a special situations where penalties cancel, so the game resumes with...",
+    "template_substitutions": [
+        [
+        "an unsportsmanlike",
+        "a disqualifying"
+    ],
+        [
+        "coach A and coach B",
+        "coach B and coach A",
+        "the substitutes A6 and B6",
+        "A3 and B3"
+    ]
+    ],
+    "answers": [
+        ["2 free throws for A1 and throw-in A at the center line"],
+        ["2 free throws for A1 and throw-in A near the point where the game was stopped"],
+        ["2 free throws for A1 and a jump ball situation"],
+        ["2 free throws for A1, 1 free throw A, 1 free throw B and throw-in B"],
+        ["2 free throws for A1, 1 free throw B, 1 free throw A and throw-in A"],
+        ["1 free throw A and throw-in A"],
+        ["1 free throw B and throw-in B"]
+    ],
+    "explanation": "I42-4 Only equal penalties shall be cancelled in the order in which they occur. Therefore the penalties for the technical fouls shall be cancelled. The game shall be resumed with 2 free throws for A1 and possession of the ball for team A."
+},
+    {
+    "question_template": "B1 commits %s foul against A1 who is in the act of shooting. After the foul, %s commits a technical foul. The ball enters the basket.",
+    "template_substitutions": [
+        [
+        "an unsportsmanlike",
+        "a disqualifying"
+    ],
+        [
+        "coach A",
+        "A1",
+        "A2",
+        "the substitute A6"
+    ]
+    ],
+    "answers": [
+        ["Equal sanctions cancel and the game continues with throw-in B from the endline"],
+        ["1 free throw for A1, followed by 1 free throw B and throw-in B at the center line"],
+        ["Equal sanctions cancel and a jump ball situation occurs"],
+        ["1 free throw for team B, followed by 1 free throw A1 and throw-in A at the center line"]
+    ],
+    "explanation": "I42-4 The foul penalties (1 free throw plus possession for both teams) cancel each other and the game shall be resumed with a throw-in at any place from the endline as after any successful field goal."
+},
+    {
+    "question_template": "Team B controls the ball when B1 pushes off A1 and the referee calls a personal foul. Later, not approximately at the same time, A1 hits B1 with his elbow, called as %s foul.",
+    "template_substitutions": [
+        [
+        "an unsportsmanlike",
+        "a disqualifying"
+    ]
+    ],
+    "answers": [
+        ["This is not a double foul, 2 free throws for B1 and throw-in B"],
+        ["Double foul, throw-in B"],
+        ["Double foul, a jump ball situation occurs"]
+    ],
+    "explanation": "I42-6 This is not a double foul as the fouls of B1 and A1 did not occur at approximately the same time. The game shall be resumed with 2 free throws for B1 and possession of the ball for team B. "
+},
+    {
+    "question_template": "%s, %s commit %s fouls. The alternating possession arrow points towards team A. The following period begins with...",
+    "template_substitutions": [
+        [
+        "In the interval between the first and second period",
+        "In the interval between the first and second half",
+        "In the interval between the third and fourth period"
+    ],
+        [
+        "A1 and B1",
+        "substitutes A6 and B6",
+        "coach A and coach B"
+    ],
+        [
+        "disqualifying",
+        "technical"
+    ]
+    ],
+    "answers": [
+        ["Throw-in A with the alternating possession procedure"],
+        ["Throw-in A as part of the sanction of the foul (free throws are compensated)"],
+        ["Throw-in B as part of the sanction of the foul (free throws are compensated)"],
+        ["Throw-in A as part of the sanction of the foul (after both teams complete the free throw(s))"],
+        ["Throw-in B as part of the sanction of the foul (after both teams complete the free throw(s))"]
+    ],
+    "explanation": "I42-10 In the case of double fouls and after cancellation of equal penalties against both teams, if there are no other penalties remaining for administration, the game shall be resumed with a throw-in by the team that had control of the ball or was entitled to the ball before the first infraction. In the case neither team had control of the ball or was entitled to the ball before the first infraction, this is a jump ball situation. The game shall be resumed with an alternating possession throw-in. The game shall be resumed with a team A throw-in at the centre line extended, opposite the scorer’s table. The moment the ball touches or is legally touched by a player on the playing court, the direction of the alternating possession arrow shall be reversed towards team B."
+}
+]
