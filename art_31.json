@@ -46,15 +46,15 @@
     "explanation": "I31-3 When the ball is above the ring during a pass or after it has touched the ring, it is interference if a player reaches through the basket from below and touches the ball. "
 },
     {
-    "question_template": "Following the %s free throw, the ball %s. %s %s and the ball enters the basket.",
+    "question_template": "Following the %s free throw, the ball %s the ring. %s %s and the ball enters the basket.",
     "template_substitutions": [
         [
         "last",
         "only"
     ],
         [
-        "bounces",
-        "has bounced",
+        "bounces on",
+        "has bounced on",
         "has touched",
         "touches"
     ],
