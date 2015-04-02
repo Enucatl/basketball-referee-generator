@@ -11,8 +11,6 @@
         "a disqualifying"
     ],
         [
-        "the ball misses the ring",
-        "the ball touches the ring but does not enter the basket",
         "the ball enters the basket"
     ]
     ],
@@ -23,7 +21,7 @@
         ["24 seconds violation, the basket does not count and A1 shoots 2 or 3 free throws, followed by throw-in A"],
         ["24 seconds violation, therefore A1 is not in the act of shooting, the basket does not count and A1 shoots 2, followed by throw-in A"]
     ],
-    "explanation": "I42-2 In all cases an unsportsmanlike or disqualifying foul cannot be disregarded.A1 was fouled by B1 while A1 was in the act of shooting. Even if the foul occurs after the shot clock sounds, the shot clock violation by team A shall be disregarded as it would have occurred after the foul. 2 or 3 free throws shall be awarded to A1, followed by a team A’s throw-in at the centre line extended, opposite the scorer’s table. "
+    "explanation": "I42-2 In all cases an unsportsmanlike or disqualifying foul cannot be disregarded. A1 was fouled by B1 while A1 was in the act of shooting. Even if the foul occurs after the shot clock sounds, the shot clock violation by team A shall be disregarded as it would have occurred after the foul. 2 or 3 free throws shall be awarded to A1, followed by a team A’s throw-in at the centre line extended, opposite the scorer’s table."
 },
     {
     "question_template": "A1 is in the act of shooting in the restricted area when he is fouled by B2. Afterwards, while still in the act of shooting, A1 is fouled by B1 (personal foul). The ball does not enter the basket.",
